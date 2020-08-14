@@ -1,0 +1,148 @@
+Front
+<div class="center">{{BV}}</div>
+{{Audio}}
+
+
+Styling
+.card {
+ font-family: consolas;
+ font-size: 45px;
+ text-align: center;
+ color: #839496;
+ background-color: #002b36;
+}
+.center {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #839496;
+    padding: 10px;
+    text-align: center;
+    font-size: 45px;
+}
+a {
+    color: #268bd2;
+}
+
+Back
+{{FrontSide}}
+
+<hr id=answer>
+
+<!------------------------------------------------>
+
+{{sentence english}}
+
+<!------------------------------------------------>
+
+<br></br>
+
+<!------------------------------------------------>
+<style type="text/css">
+   #div1, #div2, #div3 {  
+   visibility: hidden;  
+   }
+</style>
+<script>
+   function show(id) {
+     document.getElementById(id).style.visibility = "visible";
+   }
+   function hide(id) {
+     document.getElementById(id).style.visibility = "hidden";
+   }
+</script>
+<div onMouseOver="show('div1')">
+<div style='font-family: arial; font-size: 12px; Color: Gray'><u>[open dict search]</u><br><br></div>
+<div id="div1">
+   <div style='font-family: consolas; font-size: 15px; color: black'>
+<!------------------------------------------------>
+<!------------------------------------------------>
+<!------------------------------------------------>
+
+      Wiktionary search:
+      <class id="sentence">{{sentence}}</class>
+      <script>
+         var content = document.getElementById("sentence").innerHTML;
+         
+         
+         var punctuationless = content.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, "");
+         var mixedCase = punctuationless.replace(/\s{2,}/g, " ");
+         var finalString = mixedCase.toLowerCase();
+         
+         var words = (finalString).split(" ");
+         
+         var punctuatedWords = (content).split(" ");
+         
+         var processed = "";
+         for (i = 0; i < words.length; i++) {
+             processed += "<a href = \"https://en.wiktionary.org/wiki/" + words[i] + "#French\">";
+             processed += punctuatedWords[i];
+             processed += "</a> ";
+         }
+         
+         document.getElementById("sentence").innerHTML = processed;
+      </script><br><br>
+<!------------------------------------------------>
+<!------------------------------------------------>
+<!------------------------------------------------>
+
+GT search:
+       <class id="sentence1">{{sentence}}</class>
+      <script>
+         var content = document.getElementById("sentence1").innerHTML;
+         
+         
+         var punctuationless = content.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, "");
+         var mixedCase = punctuationless.replace(/\s{2,}/g, " ");
+         var finalString = mixedCase.toLowerCase();
+         
+         var words = (finalString).split(" ");
+         
+         var punctuatedWords = (content).split(" ");
+         
+         var processed = "";
+         for (i = 0; i < words.length; i++) {
+             processed += "<a href = \"https://translate.google.com.br/#view=home&op=translate&sl=fr&tl=en&text=" + words[i] + " \">";
+
+             processed += punctuatedWords[i];
+             processed += "</a> ";
+         }
+         
+         document.getElementById("sentence1").innerHTML = processed;
+      </script>
+
+<a href="https://translate.google.com.br/#view=home&op=translate&sl=fr&tl=en&text={{sentence}}">
+[1]</a><br><br>
+
+
+
+<!------------------------------------------------>
+<!------------------------------------------------>
+<!------------------------------------------------>
+Wiktionary search [fr]:
+      <class id="sentence2">{{sentence english}}</class>
+      <script>
+         var content = document.getElementById("sentence2").innerHTML;
+         
+         
+         var punctuationless = content.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, "");
+         var mixedCase = punctuationless.replace(/\s{2,}/g, " ");
+         var finalString = mixedCase.toLowerCase();
+         
+         var words = (finalString).split(" ");
+         
+         var punctuatedWords = (content).split(" ");
+         
+         var processed = "";
+         for (i = 0; i < words.length; i++) {
+             processed += "<a href = \"https://fr.wiktionary.org/wiki/" + words[i] + "#Anglais\">";
+             processed += punctuatedWords[i];
+             processed += "</a> ";
+         }
+         
+         document.getElementById("sentence2").innerHTML = processed;
+      </script><br><br>
+
+
+</div>   </div>
+
+<!------------------------------------------------>

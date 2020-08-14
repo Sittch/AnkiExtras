@@ -1,0 +1,114 @@
+*** 1 - 10 (/course/189052/spanish-pronouns-3/1/)	
+que	"that, who, whom"
+se	"himself, herself, itself"
+le	"him, her, you, it"
+me	"me, to me, myself"
+lo	"it, him"
+él	"he, him, it"
+uno	one
+yo	"I, me, self"
+esto	"this, well, er"
+la	"it, her"
+*** 11 - 20 (/course/189052/spanish-pronouns-3/2/)	
+nos	us
+mí	"me, myself"
+qué	what
+ella	"she, her, it"
+cual	"whom, who, what"
+ellos	"them, they, it"
+les	"them, to them"
+quien	"who, nobody, whom"
+eso	that
+os	"you, yourselves, each other"
+*** 21 - 30 (/course/189052/spanish-pronouns-3/3/)	
+algo	"something, anything"
+ello	"it, that"
+te	"you, yourself"
+usted	"you, yours"
+los	them
+nosotros	"we, us"
+éste	"this, one, the latter, the last"
+ellas	they
+nadie	"nobody, no one, anybody, anyone"
+cuales	"what, which"
+*** 31 - 40 (/course/189052/spanish-pronouns-3/4/)	
+algunos	"somebody, one, someone"
+las	them
+quienes	"who, nobody, whom"
+quién	"who, whoever, whom"
+cuya	"whose, of which"
+cuyo	"whose, of which"
+todo	all
+ambos	both
+tú	you
+alguien	"somebody, someone, anybody, anyone"
+*** 41 - 50 (/course/189052/spanish-pronouns-3/5/)	
+ustedes	you
+éstos	these
+muchos	many
+ti	you
+cualquiera	"anyone, anybody"
+algunas	"somebody, one, someone"
+aquello	what
+cuyos	"whose, of which"
+otro	other
+vos	"you, thou"
+*** 51 - 60 (/course/189052/spanish-pronouns-3/6/)	
+cuál	"what, which"
+cuyas	"whose, of which"
+otra	other
+conmigo	with me
+todos	"all, every"
+muchas	many
+mía	mine
+otros	others
+alguno	"somebody, one, someone"
+alguna	"somebody, one, someone"
+*** 61 - 70 (/course/189052/spanish-pronouns-3/7/)	
+vosotros	you
+ésa	"that one, the other"
+unos	one
+aquél	"that one, that person, the former"
+cuánto	"how long, how much, how many"
+suya	"his, hers, one’s"
+otras	others
+cuáles	"what, which"
+mío	mine
+contigo	with you
+*** 71 - 80 (/course/189052/spanish-pronouns-3/8/)	
+suyos	"his, hers, one’s"
+ése	that one
+aquéllos	"those, that one, that one over there"
+aquélla	"that one, that one over there, that"
+quiénes	"who, whom, nobody"
+ésos	"those, they"
+todas	all
+suyo	"his, hers, one’s"
+tantos	"so many, so long, so much"
+cuántos	"all the ones, all those, what a lot of"
+*** 81 - 90 (/course/189052/spanish-pronouns-3/9/)	
+nuestra	our
+suyas	"his, hers, one’s"
+nuestros	ours
+ésas	"that one, the other"
+aquéllas	"that one, that one over there, that"
+nuestro	our
+míos	mine
+toda	all
+tuya	yours
+nuestras	ours
+*** 91 - 100 (/course/189052/spanish-pronouns-3/10/)	
+mías	mine
+vuestra	yours
+tuyos	yours
+quienquiera	whoever
+mucha	many
+tuyo	yours
+vuestro	yours
+tantas	"so many, so long, so much"
+vuestros	yours
+cualesquiera	"whatever, whichever, anyone"
+*** 101 - 103 (/course/189052/spanish-pronouns-3/11/)	
+tuyas	yours
+vuestras	yours
+tanta	"so many, so long, so much"

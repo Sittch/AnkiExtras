@@ -1,0 +1,123 @@
+Front
+<div style='font-size: 20px; padding: 15px; color: #586e75'>{{Verse}}</div>
+<div class="center">{{Hebrew-BHS}}</div>
+{{Audio}}
+
+Styling
+.card {
+ font-family: consolas;
+ font-size: 45px;
+ text-align: center;
+ color: #839496;
+ background-color: #002b36;
+}
+.center {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #cb4b16;
+    padding: 10px;
+    text-align: center;
+    font-size: 45px;
+    color:#839496
+}
+
+a {
+    color: #268bd2;
+}
+
+
+Back
+{{FrontSide}}
+
+<hr id=answer>
+
+<!------------------------------------------------>
+
+<div style='font-size: 40px; padding:15px'>{{English-WEB}}</div>
+
+<!------------------------------------------------>
+<div style='font-size: 12px; padding: 5px'>or</div>
+<div style='font-size: 20px; padding: 20px'>{{English-YLT}}</div>
+
+<!------------------------------------------------>
+<style type="text/css">
+   #div1, #div2, #div3 {  
+   visibility: hidden;  
+   }
+</style>
+<script>
+   function show(id) {
+     document.getElementById(id).style.visibility = "visible";
+   }
+   function hide(id) {
+     document.getElementById(id).style.visibility = "hidden";
+   }
+</script>
+<div onMouseOver="show('div1')">
+<div style='font-family: arial; font-size: 12px; Color: Gray'><u>[open dict search]</u><br><br></div>
+<div id="div1">
+   <div style='font-family: consolas; font-size: 18px; color: black'>
+<!------------------------------------------------>
+<!------------------------------------------------>
+<!------------------------------------------------>
+
+      Wiktionary:
+      <class id="sentence">{{Hebrew-BHS}}</class>
+      <script>
+         var content = document.getElementById("sentence").innerHTML;
+         
+         
+         var punctuationless = content.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, "");
+         var mixedCase = punctuationless.replace(/\s{2,}/g, " ");
+         var finalString = mixedCase.toLowerCase();
+         
+         var words = (finalString).split(" ");
+         
+         var punctuatedWords = (content).split(" ");
+         
+         var processed = "";
+         for (i = 0; i < words.length; i++) {
+             processed += "<a href = \"https://en.wiktionary.org/wiki/" + words[i] + "#Hebrew\">";
+             processed += punctuatedWords[i];
+             processed += "</a> ";
+         }
+         
+         document.getElementById("sentence").innerHTML = processed;
+      </script><br><br>
+<!------------------------------------------------>
+<!------------------------------------------------>
+<!------------------------------------------------>
+
+Google Translate:
+       <class id="sentence1">{{Hebrew-BHS}}</class>
+      <script>
+         var content = document.getElementById("sentence1").innerHTML;
+         
+         
+         var punctuationless = content.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, "");
+         var mixedCase = punctuationless.replace(/\s{2,}/g, " ");
+         var finalString = mixedCase.toLowerCase();
+         
+         var words = (finalString).split(" ");
+         
+         var punctuatedWords = (content).split(" ");
+         
+         var processed = "";
+         for (i = 0; i < words.length; i++) {
+             processed += "<a href = \"https://translate.google.com/#view=home&op=translate&sl=iw&tl=en&text=" + words[i] + " \" >";
+
+             processed += punctuatedWords[i];
+             processed += "</a> ";
+         }
+         
+         document.getElementById("sentence1").innerHTML = processed;
+      </script>
+
+<a href="https://translate.google.com/#view=home&op=translate&sl=iw&tl=en&text={{Hebrew-BHS}}">
+[Full]</a><br><br>
+
+</div>   </div>
+
+<!------------------------------------------------>
+<!------------------------------------------------>
+<!------------------------------------------------>

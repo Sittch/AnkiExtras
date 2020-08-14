@@ -1,0 +1,12 @@
+<bdo dir="rtl"><div style='font-family: Arial; font-size:50px;'>{{Арабский}}</div></bdo> <br>
+
+<div class=hint>{{hint:подсказку}}</div><br>
+
+<div id=Audio>{{Аудио}}</div>
+
+
+
+.hint{
+color: gray;
+font-size: smaller;
+}

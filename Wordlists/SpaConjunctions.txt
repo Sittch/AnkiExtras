@@ -1,0 +1,31 @@
+*** 1 - 10 (/course/189495/spanish-conjunctions-3/1/)	
+y	and
+que	"that, than"
+como	"if, since, because"
+o	"or, either ... or"
+pero	"but, however, nevertheless"
+e	and
+si	"whether, if"
+cuando	"since, as, if"
+porque	"because, so that, in order that"
+ni	"nor, not even"
+*** 11 - 20 (/course/189495/spanish-conjunctions-3/2/)	
+aunque	"although, though, albeit"
+u	or
+sino	but
+pues	"well, since, as"
+mientras	"while, whilst, as long as"
+para	in order to
+ya	"first, then, now"
+de	than
+hasta que	until
+mas	but
+*** 21 - 28 (/course/189495/spanish-conjunctions-3/3/)	
+obstante	"nevertheless, however"
+al	"as soon as, when, upon"
+puesto que	"because, as, since"
+así	"even if, even though"
+adonde	where
+luego	therefore
+donde	where
+según	"as, just as, depending on how"

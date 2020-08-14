@@ -1,0 +1,5736 @@
+*** 1 - 25 (/course/66563/koine-greek-3/1/)	
+ὁ 	"the, who, which"
+καί	"and, also, even, and yet, but"
+αὐτός	"he, she, it; self, same; they (when pl)"
+σύ	you; you people (when pl)
+ἐν	"(+dat) in, with, by, to"
+ἐγώ	I
+δέ	"but, and, now"
+εἰμί	"to be, exist (sum)"
+λέγω	"to say, speak, tell"
+εἰς	"(+acc) into, to, for (prep)"
+οὐ	not
+ὅς	"who, which, what"
+οὗτος	"this, this one, he"
+ὁ θεός	"god, God"
+ὅτι	"that, because, since; why?"
+πᾶς	"all, every; the whole"
+γάρ	"for, since, then, indeed"
+μή	"not, lest"
+ὁ Ἰησοῦς	Jesus; Joshua
+ἐκ	"(+gen) of, out of, from"
+ἐπί	"(+gen/dat/acc) over, on, at the time of, at, to"
+καί	"and, also, even, and yet, but"
+ὁ κύριος	"(n) lord, master, the Lord"
+ἔχω	to have
+πρός	"(+gen) for; (+dat) at; (+acc) to, toward; (adv) moreover"
+*** 26 - 50 (/course/66563/koine-greek-3/2/)	
+γίνομαι	"to become, be, be born, be created"
+διά	(+gen) through; (+acc) because of
+ἵνα	"that, in order that, so that"
+ἀπό	"(+gen) from, by, since"
+ἀλλά	"but, rather, on the contrary"
+ἔρχομαι	"to come, go"
+ποιέω	"to do, make; to work"
+τίς	who? what? why?
+ὁ ἄνθρωπος	"man, human"
+ὁ Χριστός	Christ
+τις	"a certain, a, one"
+οὖν	"therefore, thus"
+εἰ	if; whether
+κατά	"(+gen) against, down; (+acc) according to"
+μετά	(+gen) with; (+acc) after
+ὁράω	"to see, view, perceive, pay attention"
+ἀκούω	"to hear, to heed, to obey"
+δίδωμι	to give
+ὁ πατήρ	"father, Father"
+πολύς	"much, many"
+ἡ ἡμέρα	"day, lifetime, time period"
+τὸ πνεῦμα	"wind; breath; spirit, Spirit"
+ὁ υἱός	son
+εἷς	one
+ὁ ἀδελφός	"brother; (adj) brotherly, twin"
+*** 51 - 75 (/course/66563/koine-greek-3/3/)	
+ἤ	"or, than, either/or; hey! say now!"
+περί	"(+gen) about, concerning; (+acc) around"
+ὁ λόγος	"word, speech, message; book, volume"
+ἑαυτοῦ	"of himself, his own"
+οἶδα	to know
+ὡς	"as, like, while, that; (interjection) how!"
+λαλέω	to speak
+ἐάν	if
+ὁ οὐρανός	heaven
+ἐκεῖνος	"that, that one, he"
+ὁ μαθητής	"disciple, student"
+λαμβάνω	"to take, receive, choose"
+ἡ γῆ	"earth, land"
+ἡ πίστις	"faith, belief, trust; value; proof"
+μέγας	"great, large, old"
+πιστεύω	"to believe, trust"
+ἅγιος	holy
+ἀποκρίνομαι	"to answer, reply"
+τὸ ὄνομα	name
+οὐδείς	"no one, nothing"
+γινώσκω	"to know, come to know, recognize"
+ὑπό	"(+gen) by, from; (+acc) under"
+ἐξέρχομαι	"to come out, go out"
+ὁ ἀνήρ	"man, husband"
+ἡ γυνή	"woman, wife"
+*** 76 - 100 (/course/66563/koine-greek-3/4/)	
+τέ	"and, so, both/and"
+δύναμαι	to be able
+θέλω	"to want, will"
+οὕτως	"thus, so, in this way"
+ἰδού	note! pay attention! look!
+εἰσέρχομαι	to enter
+Ἰουδαῖος	"Jew, Jewish"
+ὁ νόμος	"law, principle"
+παρά	"(+gen) from, by; (+dat) with; (+acc) beside"
+γράφω	"to write, engrave, inscribe, record, paint"
+ὡς	"as, like, while, that; (interjection) how!"
+ὁ κόσμος	"world, mankind, earth; adornment, decoration"
+καθώς	"as, just as, inasmuch as"
+μέν	"indeed, on the one hand"
+ἡ χείρ	hand
+εὑρίσκω	to find
+ὁ ἄγγελος	"messenger, angel"
+ὁ ὄχλος	crowd; army; people
+ἡ ἁμαρτία	"sin, sin offering"
+τὸ ἔργον	work
+ἡ δόξα	opinion; glory
+ἄν	(particle) ever
+ἡ πόλις	"city, town"
+ἡ βασιλεία	kingdom
+τὸ ἔθνος	"nation, people, Gentile"
+*** 101 - 125 (/course/66563/koine-greek-3/5/)	
+τότε	then
+ἐσθίω	to eat
+ὁ Παῦλος	Paul; Paulus
+ἡ καρδία	heart
+ὁ Πέτρος	Peter
+ἄλλος	"other, another, otherwise"
+ἡ χάρις	"grace, favor; gratitude; gift"
+ἵστημι	"to stand, place, put"
+πορεύομαι	to go
+ὅστις	"who, which, whoever"
+δέ	"but, and, now"
+ὑπέρ	(+gen) for; (+acc) beyond; (adv) more
+καλέω	"to call, summon, invite"
+νῦν	"now, present"
+ἡ σάρξ	"flesh, meat, body, sinful nature"
+ἐγείρω	"to raise, lift up"
+ὁ προφήτης	prophet
+ἀγαπάω	to love
+ἀφίημι	"to forgive, permit, free, neglect, abandon"
+ὁ λαός	people
+τὸ σῶμα	body; slave
+πάλιν	again; in so far as
+ζάω	to live
+ἡ φωνή	"voice, sound, speech"
+δύο	two
+*** 126 - 150 (/course/66563/koine-greek-3/6/)	
+ἡ ζωή	"life, living, way of life"
+ὁ Ἰωάννης	John
+ἀποστέλλω	to send
+βλέπω	"to see, observe; have sight"
+ἀμήν	amen (Heb. truly)
+σύν	"(+dat) with, besides"
+νεκρός	dead; corpse
+ὁ δοῦλος	"slave; slavish, servile"
+ὅταν	"when, whenever"
+ὁ αἰών	"age, eternity"
+ὁ ἀρχιερεύς	high priest; pontifex
+βάλλω	"to throw, put"
+ὁ θάνατος	death
+ἡ δύναμις	"power, strength; authority; (military) force"
+παραδίδωμι	"to deliver, deliver over"
+μένω	"to remain, abide, stay"
+ἀπέρχομαι	"to go away, depart"
+ζητέω	"to seek, inquire"
+ἡ ἀγάπη	love; Kiss of Peace
+ὁ βασιλεύς	king
+ἡ ἐκκλησία	"congregation, assembly, church"
+ἴδιος	"one’s own, peculiar"
+κρίνω	to judge
+ὁ οἶκος	house (m)
+ἀποθνῄσκω	to die
+*** 151 - 175 (/course/66563/koine-greek-3/7/)	
+ὅσος	"as many as, as much as"
+ἡ ἀλήθεια	"truth, truthfulness, faithfulness"
+μέλλω	to be about to; to linger
+ὅλος	"whole, all"
+παρακαλέω	"to urge, exhort, comfort"
+ἀνίστημι	"to raise up, set up, resist, restore, arise"
+ἕως	"until; when, up to, as far as"
+σῴζω	to save
+ἡ ὥρα	hour
+ἐκεῖ	there
+ὅτε	"when, while"
+πῶς	how? in what way?
+ἡ ψυχή	"soul, self, inner life"
+ἀγαθός	good
+ἡ ἐξουσία	"authority, power; tribunate"
+αἴρω	to take up
+δεῖ	it is necessary
+ἡ ὁδός	"road, way"
+ἀλλήλων	one another
+καλός	"good, beautiful"
+ὁ ὀφθαλμός	eye
+τίθημι	"to put, make, appoint"
+τὸ τέκνον	child
+ἕτερος	"other, another"
+οὐδέ	"and not, neither, nor, not even"
+*** 176 - 200 (/course/66563/koine-greek-3/8/)	
+ὁ Φαρισαῖος	Pharisee
+τὸ αἷμα	blood; bloodshed
+ὁ ἄρτος	"bread, loaf"
+γεννάω	"to be father of, to bear, beget; engender"
+διδάσκω	to teach
+περιπατέω	"to walk, walk around"
+πρῶτος	"first, prominent, former"
+φοβέω	to fear
+ἐνώπιον	"(+gen) before, in front of"
+ἔτι	"yet, still, again"
+ἡ οἰκία	house (f)
+ὁ πούς	foot
+ὁ τόπος	"place, position; opportunity; passage"
+ἡ δικαιοσύνη	"righteousness, justice"
+ἡ εἰρήνη	peace
+ἡ θάλασσα	"sea, lake"
+κάθημαι	"to sit, sit down; stay, reside, settle"
+ἀκολουθέω	"to follow, go along with someone who takes the lead"
+ἀπόλλυμι	"to destroy, ruin; to lose"
+μηδείς	no; no one
+πίπτω	to fall
+ἑπτά	seven
+οὔτε	neither
+ἄρχω	to rule over; to begin (mid.) 
+πληρόω	"to fill; fulfill; complete, finish"
+*** 201 - 225 (/course/66563/koine-greek-3/9/)	
+προσέρχομαι	to come to
+ὁ καιρός	"time, season, opportunity"
+προσεύχομαι	to pray
+ἡ μήτηρ	mother
+ὥστε	"so that, in order that, thus"
+ἀναβαίνω	"to go up, rise up, advance"
+ἕκαστος	"each, each person"
+ὅπου	"where, whereas"
+ἐκβάλλω	to cast out; send away
+καταβαίνω	"to come down, go down"
+μᾶλλον	"more, rather"
+ὁ ἀπόστολος	apostle
+ὁ Μωϋσῆς	Moses
+δίκαιος	"righteous, just; right"
+πέμπω	to send
+ὑπάγω	to go away; to draw off
+πονηρός	"wicked, evil"
+τὸ στόμα	mouth
+ἀνοίγω	"to open, unlock, disclose"
+βαπτίζω	"to baptize, wash, dip"
+ἡ Ἰερουσαλήμ	Jerusalem
+τὸ σημεῖον	"sign, miracle"
+ἐμός	my
+τὸ εὐαγγέλιον	"good news, gospel"
+μαρτυρέω	to bear witness; suffer martyrdom
+*** 226 - 250 (/course/66563/koine-greek-3/10/)	
+τὸ πρόσωπον	face
+τὸ ὕδωρ	water
+δώδεκα	twelve
+ἡ κεφαλή	head
+ὁ Σίμων	Simon
+ἀποκτείνω	to kill
+χαίρω	to rejoice; hail
+ὁ Ἀβραάμ	Abraham
+πίνω	to drink
+τὸ φῶς	light
+αἰώνιος	eternal
+τὸ ἱερόν	temple
+τὸ πῦρ	fire
+αἰτέω	"to ask, ask for, demand"
+μόνος	"only, alone"
+τηρέω	"to keep, to guard; pay attention to, observe (e.g. commandments)"
+τρεῖς	three
+ὁ Ἰσραήλ	Israel
+τὸ ῥῆμα	"word, thing"
+τὸ σάββατον	"sabbath, week"
+ἄγω	"bring, lead, go, celebrate"
+ἡ ἐντολή	commandment
+πιστός	"faithful, reliable, trustworthy"
+τὸ πλοῖον	"boat, ship"
+ἀπολύω	"to release, divorce"
+*** 251 - 275 (/course/66563/koine-greek-3/11/)	
+ὁ καρπός	fruit
+πρεσβύτερος	older; elder
+φέρω	"to bring, carry; (pass. be extant)"
+φημί	to say
+εἴτε	"or, either/or, even if"
+ἐάν	(untransl. particle)
+ὁ γραμματεύς	scribe
+τὸ δαιμόνιον	demon
+ἐρωτάω	"to ask, question"
+τὸ ὄρος	"mountain, high hill"
+δοκέω	"to think, suppose, seem"
+τὸ θέλημα	"will, desire"
+ὁ θρόνος	"throne, seat"
+ἀγαπητός	beloved
+ἡ Γαλιλαία	Galilee
+δοξάζω	"to think, suppose; to glorify, extol, venerate"
+ἤδη	"now, already"
+τὸ Ἱεροσόλυμα	Jerusalem
+κηρύσσω	"to proclaim, preach"
+ἡ νύξ	night
+ὧδε	"here; in this way, so, thus"
+τὸ ἱμάτιον	garment
+προσκυνέω	to fall down to worship; to do obeisance
+πρῶτος	"first, prominent, former"
+ὑπάρχω	"to be, exist; possess, have advantage"
+*** 276 - 300 (/course/66563/koine-greek-3/12/)	
+ἀσπάζομαι	to greet
+ὁ Δαυίδ	David
+ὁ διδάσκαλος	teacher
+ὁ λίθος	stone
+συνάγω	"to gather, bring together; compile"
+ἡ χαρά	joy
+θεωρέω	"to observe, see"
+τοιοῦτος	"such, of such kind"
+δέχομαι	"to take, receive"
+ἐπερωτάω	"to ask, inquire, interrogate"
+ἡ συναγωγή	"collection, gathering, synagogue"
+ἡ ἀρχή	"beginning, first, principle; ruler, realm, rule"
+κράζω	to call out; clamor; to croak
+ὁ Πιλᾶτος	Pilate
+δεξιός	"right, right hand"
+εὐαγγελίζω	to proclaim good news
+μέσος	middle; (prep +gen) in the middle; (adv) among
+οὐχί	"not, no; interrogative expecting an affirmative answer"
+ὁ χρόνος	time
+διό	therefore
+ἡ ἐλπίς	hope
+ὅπως	"so that, in order that; how that"
+ἡ ἐπαγγελία	promise
+τὸ παιδίον	child
+πείθω	to persuade; believe; trust
+*** 301 - 325 (/course/66563/koine-greek-3/13/)	
+σπείρω	to sow
+εὐθύς	"immediately, next, suddenly"
+ἡ σοφία	skill; wisdom
+ἡ γλῶσσα	"tongue, language; bar, ingot"
+ἡ γραφή	"written document, scripture"
+ἔσχατος	last
+κακός	"evil, bad, wrong, harm"
+μακάριος	"blessed, happy"
+μηδέ	"nor, and not"
+ἡ παραβολή	proverb; poem; parable
+τυφλός	blind
+ἄρα	"then, therefore"
+τὸ ἔτος	year
+παραλαμβάνω	"to take, take along; take over, receive"
+τρίτος	third
+φανερόω	"to make known, reveal"
+ἡ χρεία	"need, use, duty"
+ἀποδίδωμι	"to give back, pay"
+ἔρημος	"desolate; wilderness, desert"
+ποῦ	where?
+ἁμαρτωλός	"sinner, sinful"
+κρατέω	"to grasp, be strong, take possession"
+ἡ κρίσις	"judgment, decision, legal case; meaning"
+οὐκέτι	no longer
+πρό	"(+gen) before, above"
+*** 326 - 350 (/course/66563/koine-greek-3/14/)	
+προσφέρω	"to bring, to offer"
+ὁ φόβος	"fear, terror; reverence"
+ἡ φυλακή	"guard, watch, prison"
+τὸ θηρίον	wild animal
+καθίζω	"to sit down, set, place; appoint; reside, stay, live"
+μή	"not, lest"
+μικρός	"small, little"
+οὐαί	woe!
+σταυρόω	to crucify
+ἡ σωτηρία	salvation
+ἀπαγγέλλω	"to tell, bring news, report"
+διώκω	"to pursue, persecute"
+ἡ θλῖψις	"trouble, tribulation, oppression"
+ὁ ναός	"temple, shrine; palace"
+ὅμοιος	"like, similar"
+οὐδέ	"and not, neither, nor, not even"
+ἄχρι	(+gen) until
+ἔμπροσθεν	"(+gen) before, in front of"
+ἔξω	"(+gen) out, outside, outsider"
+ἐπιγινώσκω	"to know; look upon, witness; recognize, decide"
+ἡ Ἰουδαία	Judea
+ὁ Ἰούδας	Judas; Judah; Jew
+κατοικέω	"to settle, dwell, inhabit"
+μόνος	"only, alone"
+ἁμαρτάνω	to sin
+*** 351 - 375 (/course/66563/koine-greek-3/15/)	
+ἡ γενεά	generation
+δέω	"to bind, stop"
+διέρχομαι	to pass through
+ὁ Ἡρῴδης	Herod
+θαυμάζω	"to marvel, wonder"
+θεραπεύω	to serve; heal
+σεαυτοῦ	of yourself (sg.)
+τὸ σπέρμα	"seed, offspring"
+φωνέω	"to call, to shout"
+ἡ ἀνάστασις	"standing up, rising, insurrection, resurrection"
+ἐγγίζω	"to bring near, come near"
+ὁ Ἰάκωβος	Jacob; James
+καινός	new
+λύω	"to loosen, release"
+τὸ μέρος	part
+πάσχω	to suffer
+ἄξιος	worthy
+ἐργάζομαι	to work
+εὐλογέω	to bless
+πάντοτε	always
+παρίστημι	"to present, stand by"
+σήμερον	today
+τέσσαρες	four
+ἡ τιμή	honor
+ἑτοιμάζω	to prepare
+*** 376 - 400 (/course/66563/koine-greek-3/16/)	
+ἕως	"until; when, up to, as far as"
+κλαίω	"to weep, cry"
+λογίζομαι	"to count, think, calculate"
+λοιπός	"rest, remaining, other; from now on, finally"
+μισέω	to hate
+τὸ μνημεῖον	"tomb, monument"
+οἰκοδομέω	to build
+τὸ τέλος	"end, goal; tribute"
+χωρίς	(+gen) without (prep.); separately (adv)
+ἅπτω	"to touch, hold, grasp; to light, ignite"
+δικαιόω	"to pronounce righteous, justify"
+ἐπιτίθημι	"to lay on, place, put, add"
+ἡ θύρα	door
+ἱκανός	"sufficient, able, worthy"
+περισσεύω	to abound
+πλανάω	to deceive
+πράσσω	"to do, to accomplish"
+τὸ πρόβατον	sheep
+δεύτερος	second
+ἡ ἐπιθυμία	"desire, lust"
+εὐχαριστέω	to give thanks
+πειράζω	"to tempt, test; try"
+πέντε	five
+ὑποτάσσω	to subject; to submit
+ὁ ἄρχων	ruler
+*** 401 - 425 (/course/66563/koine-greek-3/17/)	
+βούλομαι	"to will, want"
+διάβολος	"enemy, adversary, devil"
+διακονέω	"to serve, wait on"
+ἐκεῖθεν	from there
+ἐμαυτοῦ	"of myself, my own"
+καλῶς	well
+καυχάομαι	"to boast, glory"
+ἡ μαρτυρία	testimony; martyrdom
+παραγίνομαι	"to come, to appear"
+ὁ ἀγρός	"field, farm, country"
+ἄρτι	now
+ἐπιστρέφω	"to turn back, return, turn"
+εὐθέως	"immediately, at once, suddenly"
+ἡ ὀργή	wrath; anger
+τὸ οὖς	ear
+ἡ περιτομή	circumcision
+ἡ προσευχή	prayer
+ὁ σατανᾶς	Satan (Heb. adversary)
+ὁ Φίλιππος	Philip
+ὁ Ἰωσήφ	Joseph
+ὁ μάρτυς	witness; martyr
+ὀφείλω	to be obligated
+ὑποςτρέφω	to return
+ἅπας	"all, every"
+τὸ βιβλίον	"scroll, papyrus strip"
+*** 426 - 450 (/course/66563/koine-greek-3/18/)	
+βλασφημέω	"to verbally abuse, blaspheme"
+ἡ διακονία	"service, ministry"
+τὸ μέλος	"body part; musical part, melody"
+μετανοέω	to repent
+μήτε	and not;  neither . . . nor
+ὁ οἶνος	wine
+πτωχός	poor
+ἀρνέομαι	to deny
+ἀσθενέω	to be weak
+ἡ διαθήκη	covenant; testament
+ἐκπορεύομαι	"to go, come out"
+ναί	yes
+ὀλίγος	"little, few"
+ποῖος	what kind of?
+ἀκάθαρτος	unclean
+ἀναγινώσκω	to read
+δυνατός	"possible, strong, able"
+ἐχθρός	"hostile, enemy"
+ὁ ἥλιος	sun
+παραγγέλλω	to command
+ἡ ὑπομονή	endurance; staying
+ὁ ἄνεμος	wind
+ἐλπίζω	to hope
+ἔξεστιν	"it is right, possible"
+ὁ ἱερεύς	priest
+*** 451 - 475 (/course/66563/koine-greek-3/19/)	
+καθαρίζω	to cleanse
+ἡ παρρησία	boldness
+τὸ πλῆθος	multitude
+τὸ ποτήριον	cup
+τὸ σκότος	darkness
+φαίνω	"to appear, shine; cause to shine"
+φυλάσσω	"to guard, keep"
+ἡ φυλή	tribe
+ἀγοράζω	to buy
+τὸ ἀρνίον	"lamb, small lamb"
+δείκνυμι	to show
+ἡ διδαχή	teaching
+ἐπικαλέω	to call on
+ὁμοίως	likewise
+ἡ συνείδησις	conscience
+συνέρχομαι	to come together; to go together
+ἡ γνῶσις	knowledge
+ἐπιτιμάω	to rebuke
+ὁ Ἠλίας	Elijah
+ἰσχυρός	"strong, mighty"
+ὁ Καῖσαρ	Caesar
+ἡ μάχαιρα	dagger; short-sword
+ὁ μισθός	wages; reward
+ἡ παράκλησις	encouragement
+παρέρχομαι	"to pass by, pass away"
+*** 476 - 500 (/course/66563/koine-greek-3/20/)	
+τὸ πάσχα	passover; passover lamb
+ποτέ	"at some time, once, formerly"
+προσκαλέω	"to call, summon"
+σκανδαλίζω	to cause someone to sin
+φεύγω	to flee
+φίλος	"friend, beloved; friendly, dear, pleasant, welcome"
+ὥσπερ	"as, just as"
+ἁγιάζω	to sanctify
+ἀδικέω	to harm
+ἀληθινός	"true, genuine"
+ὁ Βαρναβᾶς	Barnabas
+γαμέω	to marry
+ὁ διάκονος	"servant, minister"
+ἐλεέω	to show mercy
+ἡγέομαι	"to lead, consider, count, regard"
+ἡ θυγάτηρ	daughter
+ἡ θυσία	sacrifice
+ἴδε	look! pay attention!
+ἰσχύω	"to be able, be strong"
+τὸ μυστήριον	"mystery, secret"
+νικάω	to conquer
+πλούσιος	rich
+προφητεύω	to prophesy
+τελέω	"to finish; carry out, perform"
+ἡ χώρα	"place, land, country"
+*** 501 - 525 (/course/66563/koine-greek-3/21/)	
+βαστάζω	to bear
+ἐνδύω	"to wear, put on"
+ὁ Ἰακώβ	Jacob
+καθαρός	pure
+καταργέω	"to leave idle, occupy, make of no effect, nullify"
+τὸ κρίμα	"judgment, decree, decision"
+ἡ κώμη	village
+ἡ Μαρία	Mary
+ἡ Μαριάμ	Miriam; Mary
+πλήν	"(+gen) only, except (prep.); but, nevertheless (conj.)"
+πόθεν	from where?
+πόσος	"how much, how many?"
+ὁ σταυρός	cross
+ἡ ἀδελφή	sister
+ἀληθής	"true, honest, genuine"
+ἀποκαλύπτω	to reveal
+ἀσθενής	weak; weakness
+γέ	"yet, indeed, surely"
+τὸ ἔλεος	mercy
+ἐπεί	"since, because, when; otherwise"
+ἥκω	"to have come, be present"
+ἰάομαι	to heal
+λυπέω	"to grieve, pain"
+ὀμνύω	to swear
+ὁμολογέω	"to confess, praise"
+*** 526 - 550 (/course/66563/koine-greek-3/22/)	
+ὀπίσω	(+gen) after (prep.); back (adv.)
+οὔπω	not yet
+πνευματικός	spiritual
+ὁ στρατιώτης	soldier
+συνίημι	"to understand, to think about"
+φρονέω	"to be wise, to think"
+ἡ χήρα	widow
+ἡ ἀδικία	unrighteousness
+ἡ Αἴγυπτος	Egypt
+ἀναβλέπω	to receive sight
+γνωρίζω	to make known
+δέκα	ten
+τὸ δένδρον	tree
+δουλεύω	to serve as a slave
+ὁ Ἕλλην	Greek person; gentile
+ἡ ἑορτή	"feast, festival"
+κελεύω	to command
+λευκός	white
+μανθάνω	to learn
+ἡ νεφέλη	cloud
+ἡ πορνεία	sexual immorality
+σός	your (sing.)
+φιλέω	"to love, have affection for; kiss"
+ἡ ἀκοή	"hearing, report; obedience"
+ἀναιρέω	"to destroy, carry off, kill"
+*** 551 - 575 (/course/66563/koine-greek-3/23/)	
+ἡ ἀσθένεια	weakness
+ὁ ἀστήρ	star
+ἕνεκα	"(+gen) because of, for the sake of"
+ἡ ἐπιστολή	"letter, epistle"
+καταλείπω	"to leave, forsake"
+κεῖμαι	to lie down; to be valid for
+νέος	"new, young"
+ὁ νοῦς	"mind, thought"
+οὗ	"where, to where"
+πάρειμι	"to be present, available (sum)"
+ἡ παρουσία	"coming, presence"
+πίμπλημι	"to fill, fulfill; satiate"
+προσέχω	to pay attention to
+ὁ σωτήρ	"savior, Savior"
+ὁ Τιμόθεος	Timothy
+ὁ ἀμπελών	vineyard
+ἀνάγω	"to take up, to raise, offer up, bring"
+ἄπιστος	"incredible, unbelievable, unbelieving"
+διότι	"because, for, therefore"
+ἡ εἰκών	image
+ἐλεύθερος	free
+τὸ ζῷον	living being; animal
+τὸ θυσιαστήριον	altar
+κατηγορέω	"to accuse, reproach; to be predicate"
+κοπιάω	"to toil, grow tired, be weary"
+*** 576 - 600 (/course/66563/koine-greek-3/24/)	
+κωλύω	to hinder
+μήποτε	"lest, perhaps"
+μιμνῄσκομαι	to remember; remind
+πεινάω	to be hungry
+περιβάλλω	"to put on, clothe"
+τὸ σκεῦος	"object, vessel"
+τελειόω	"to accomplish, finish, to make perfect"
+χαρίζομαι	"to give, favor, forgive"
+ἀγνοέω	to be ignorant; to ignore
+ἀντί	"(+gen) for, in place of, instead of"
+γρηγορέω	"to be or become alert, awake"
+δέομαι	"to pray, ask, beg"
+δοκιμάζω	"to prove, approve, test"
+ἐκλέγομαι	"to choose, select"
+ἐκλεκτός	"elect, chosen"
+ὁ Ἠσαΐας	Isaiah
+θεάομαι	"to see, look at"
+καθεύδω	to sleep
+κατεργάζομαι	"to work, prepare, make, oppress, subdue"
+ἡ κοιλία	"stomach, womb"
+ἡ Μακεδονία	Macedonia
+ἡ μετάνοια	repentance
+μηκέτι	"no longer, no more"
+ὁ παῖς	child; slave
+ἡ πληγή	"plague, blow, wound"
+*** 601 - 625 (/course/66563/koine-greek-3/25/)	
+πωλέω	to sell
+τὸ συνέδριον	council; Sanhedrin
+τεσσεράκοντα	forty
+ἡ χιλιάς	group of a thousand
+αὐξάνω	to grow; cause to grow
+βασιλεύω	to reign; to make a king
+ἡ διδασκαλία	teaching
+ἐνεργέω	"to work, produce"
+εὐδοκέω	"to be well pleased, to consent, to enjoy"
+ἐφίστημι	"to set, set over, establish; to come upon"
+θερίζω	to reap
+καθίστημι	"to put down, bring to, put in charge, make"
+λατρεύω	"to serve, worship"
+μνημονεύω	"to remember, mention"
+ὁ πειρασμός	"temptation, test"
+στρέφω	to turn
+ὁ τελώνης	tax collector
+τιμάω	to honor
+ὑπακούω	"to obey; to hear, listen"
+ὁ χιλίαρχος	"commander of a thousand; tribune, chief officer"
+ὡσεί	"like, as, about"
+ἡ αἰτία	cause
+ἡ ἀκροβυστία	uncircumcision
+τὸ ἀργύριον	"silver, money"
+τὸ γένος	"family, race, kind; offspring"
+*** 626 - 650 (/course/66563/koine-greek-3/26/)	
+ὁ γονεύς	parent
+ἐγγύς	(+gen) near
+ὁ ἑκατοντάρχης	commander of a hundred; centurion
+ἡ ἐπίγνωσις	knowledge
+ὁ ἡγεμών	"governor, leader, chief"
+ὁ Ἰσαάκ	Isaac
+ὁ ἰχθύς	fish
+νηστεύω	to fast
+νυνί	now
+τὸ ξύλον	"wood, tree"
+πολύς	"much, many"
+προάγω	to go before; to elevate
+ἡ σκηνή	tent; Tabernacle; stage (theatrical)
+σοφός	wise; skilled
+τοςοῦτος	"so much, so great"
+τρέχω	to run
+ὁ ὑπηρέτης	assistant
+ὑψόω	to lift up; to exalt
+ἀπέχω	"to receive, obtain, get, be far off"
+τὸ βάπτισμα	"washing, baptism"
+ὁ γεωργός	farmer
+διακρίνω	"to evaluate, consider, doubt"
+τὸ δῶρον	"gift, present"
+ἔξω	"(+gen) out, outside, outsider"
+ἐπαίρω	to lift up
+*** 651 - 675 (/course/66563/koine-greek-3/27/)	
+ἐπιλαμβάνομαι	to take hold of
+ἐπουράνιος	heavenly
+ἡ κοινωνία	"fellowship, participation"
+ὁ κριτής	judge
+ἡ κτίσις	"creation, creature"
+τὸ μαρτύριον	testimony; martyrdom
+μεριμνάω	to be anxious for
+παλαιός	old
+τὸ παράπτωμα	trespass
+παρατίθημι	to set before; commend
+πότε	when?
+ἡ προφητεία	prophecy
+τέλειος	"complete, perfect"
+ἀληθῶς	truly
+ἡ Ἀντιόχεια	Antioch
+ἡ ἀποκάλυψις	revelation; the Apocalypse
+ἡ ἀπώλεια	"destruction, ruin"
+ὁ ἀριθμός	number
+ἡ Ἀσία	Asia
+ἡ βλασφημία	"abusive speech, blasphemy"
+ἡ δέησις	"entreaty, request, prayer"
+εἰσπορεύομαι	"to enter, go in"
+ἐπιβάλλω	"to lay hands on, throw"
+ἐπιτρέπω	"to entrust to, permit, allow; command"
+ὁ θυμός	"anger; soul, spirit, sorrow, mind"
+*** 676 - 700 (/course/66563/koine-greek-3/28/)	
+καταγγέλλω	"to announce, declare, preach"
+κατακρίνω	to condemn
+κενός	"empty, foolish, worthless"
+κληρονομέω	to inherit
+κοιμάω	"to sleep, to calm"
+ὁ κόπος	"labor, trouble"
+κρείττων	better
+κρύπτω	to hide
+ὁ μήν	month
+μήτι	"unless; neither, nor"
+ἡ οἰκοδομή	"building, building up"
+παραχρῆμα	immediately
+ὁ ποιμήν	shepherd
+ὁ πόλεμος	war
+πολλάκις	often
+προςτίθημι	to put; to add
+ὁ πυλών	gate; porch
+ὁ στέφανος	crown
+τίκτω	to bear children
+φανερός	"known, plain"
+χρυσοῦς	golden
+ἡ ἀνάγκη	"necessity; distress, calamity"
+ἀρέσκω	to please
+ἡ ἄφεσις	"forgiveness, release, remission"
+τὸ βρῶμα	food
+*** 701 - 725 (/course/66563/koine-greek-3/29/)	
+ἑκατόν	hundred
+ἐλέγχω	"to reprove, convict"
+ἐξίστημι	"to amaze, confuse"
+ἐπάνω	"(+gen) over, above, upon, on"
+ἐπαύριον	tomorrow
+ἕτοιμος	ready
+ὁ θησαυρός	"treasure, treasury"
+ὁ ἵππος	horse
+ἡ Καισάρεια	Caesarea
+καταλύω	"to destroy, lodge"
+κατέχω	"to hold, withhold"
+κερδαίνω	to gain
+κρυπτός	hidden
+νίπτω	to wash
+περιτέμνω	to circumcise
+τὸ πλήρωμα	fullness
+ὁ ποταμός	river
+ἡ ῥίζα	root; origin
+ῥύομαι	to deliver
+ταράσσω	to trouble
+ὁ ὑποκριτής	interpreter; actor; hypocrite
+ὑπομένω	"to endure, remain, wait upon"
+τὸ χάρισμα	"gift, favor bestowed"
+ὦ	"omega; O (address), or Oh!; alas"
+ὡσαύτως	"likewise, similarly"
+*** 726 - 750 (/course/66563/koine-greek-3/30/)	
+ἀθετέω	to reject; to rebel against
+ἀνακρίνω	to examine
+ὁ γάμος	marriage
+τὸ δεῖπνον	"dinner, supper"
+ὁ δέσμιος	"bound, prisoner"
+τὸ δηνάριον	denarius
+διαλογίζομαι	"to reason, discuss, consider"
+διατάσσω	"to assign, arrange, command"
+διψάω	to thirst
+ἐκτείνω	to stretch out
+ἐκχέω	"to pour out, bring forth, come forth"
+ἐμβαίνω	to embark; to enter
+ἔπειτα	then
+ἐπιθυμέω	to desire
+ἐπιμένω	"to remain, stay, continue"
+ὁ ἐργάτης	worker
+ἡ εὐλογία	blessing
+ἡ Ἔφεσος	Ephesus
+κακῶς	"badly, severely, wrong, fierce"
+κατέρχομαι	"to come down, go down, return"
+ἡ Καφαρναούμ	Capernaum
+κλείω	"to close, shut"
+ὁ κλέπτης	thief
+ἡ λύπη	"grief, pain"
+μέχρι	(+gen) up to (prep.); until (conj.)
+*** 751 - 775 (/course/66563/koine-greek-3/31/)	
+ὁ νυμφίος	bridegroom
+οὐδέποτε	never
+τὸ πάθημα	suffering
+παρέχω	"to provide, cause, grant, present"
+πλήρης	full
+πλησίον	(+gen) near;  neighbor
+προςδοκάω	"to wait for, expect"
+ἡ σκοτία	darkness
+ἡ συκῆ	fig tree
+συλλαμβάνω	"to seize; help; conceive, become pregnant."
+συνίστημι	"to associate with, to recommend; to unite, to collect"
+ἡ σφραγίς	seal
+τὸ τέρας	"wonder, marvel; omen, monster"
+τολμάω	"to dare, act rashly"
+ἡ τροφή	"food, provisions, forage"
+ὑστερέω	to lack; be late; postpone
+χορτάζω	"to feed, to fill"
+ἀνέχω	"to lift, esteem, hinder, stop, bear, suffer, be patient"
+ἡ ἀνομία	lawlessness
+ἀπάγω	to lead away
+γεύομαι	"to taste, experience"
+γνωστός	"known, intelligible; subst.: friend (to + gen. or dat.)"
+γυμνός	naked
+ἡ Δαμασκός	Damascus
+δέρω	"to beat, skin, flay"
+*** 776 - 800 (/course/66563/koine-greek-3/32/)	
+ὁ δεσμός	"bond, chain, imprisonment"
+διαμαρτύρομαι	"to testify, declare solemnly"
+εἶτα	"then, next"
+ἡ ἐλαία	"olive, olive tree"
+ἐντέλλω	to command
+ἐπαγγέλλομαι	"to promise, to profess"
+ἡ εὐσέβεια	"godliness, piety; religion"
+ἡ εὐχαριστία	"thanksgiving, thankfulness; eucharist"
+ὁ θεμέλιος	foundation
+ἡ θρίξ	"hair, thread"
+ὁ Ἰορδάνης	Jordan
+καταλαμβάνω	"to take, overtake, reach"
+ὁ κληρονόμος	heir
+κτίζω	"to create, build, found"
+ὁ Λάζαρος	Lazarus
+ὁ λῃστής	"robber, bandit; insurrectionist"
+λοιπός	"rest, remaining, other; from now on, finally"
+μοιχεύω	to commit adultery
+νομίζω	"to think, suppose"
+ξηραίνω	to dry up
+ἡ οἰκουμένη	world
+ὁμοιόω	to make like
+ἡ ὀψία	evening
+παύω	"to cease, stop"
+πέραν	"(+gen) beyond, across"
+*** 801 - 825 (/course/66563/koine-greek-3/33/)	
+ἡ πέτρα	rock
+ποτίζω	to give a drink
+προλέγω	to say ahead of time; foretell
+πώς	"somehow, in some way"
+ῥαββί	Rabbi (Heb. my teacher)
+σαλεύω	to shake
+ὁ Σαῦλος	Saul
+τὸ σκάνδαλον	"offense, cause of sin"
+συμφέρω	"to be better, bring together"
+σφραγίζω	to seal
+ταχέως	"quickly, soon"
+ἡ τράπεζα	table
+ὁ τύπος	"image, pattern, example, sign"
+ἡ ὑπακοή	obedience
+ὁ χόρτος	grass
+ὠφελέω	"to gain, to benefit"
+ἡ ἄκανθα	thorns
+ἀλλότριος	"strange, foreign, stranger, belonging to another"
+ἀμφότεροι	both; all
+ἀναγγέλλω	"to report, announce, recount"
+ἀνάκειμαι	"to sit at table, recline at table"
+ἀναχωρέω	"to go back, depart"
+ἀνθίστημι	"to resist, oppose"
+ἅπαξ	"once, once for all"
+ἀπειθέω	"to disbelieve, disobey"
+*** 826 - 850 (/course/66563/koine-greek-3/34/)	
+ἁρπάζω	to snatch away
+ἀτενίζω	to look steadfastly
+αὔριον	tomorrow
+ἀφίστημι	"to withdraw, remove, depart, leave"
+τὸ γράμμα	character; letter (of alphabet); epistle
+ὁ διαλογισμός	"thought, opinion, discussion"
+ἕκτος	sixth
+ἐλάχιστος	least
+ὁ ἐνιαυτός	"year; cycle, period"
+ἐπίσταμαι	to know
+εὐφραίνω	"to cheer, to rejoice"
+ὁ ζῆλος	zeal; jealousy
+θύω	"to sacrifice, murder"
+κατανοέω	"to understand, consider"
+κατεσθίω	to devour
+κλάω	to break
+ἡ κληρονομία	inheritance
+κοινός	"common; common assembly; the state, commonwealth (n.)"
+κοινόω	to make common; communicate; defile; have intercourse
+κωφός	"speechless, deaf"
+ὁ λύχνος	lamp
+μακρόθεν	"far off, from afar"
+ἡ μακροθυμία	"patience, endurance"
+μερίζω	"to divide, distribute"
+τὸ μέτρον	"measurement, dimension; poetic meter"
+*** 851 - 875 (/course/66563/koine-greek-3/35/)	
+τὸ μύρον	ointment
+νήπιος	child
+νοέω	to understand
+ξένος	stranger; strange
+οἷος	"such as, as; (adv) for instance"
+ὁ ὄφις	snake
+ἡ παρθένος	virgin
+περισσός	"more, remaining, excessive, to the full"
+τὸ πετεινόν	bird
+ὁ πλοῦτος	riches
+προςδέχομαι	to receive; wait for
+ὁ Σαδδουκαῖος	Zadokite; Sadducee
+ὁ σεισμός	"shake, earthquake; shakedown (extortion)"
+ὁ σῖτος	grain
+τὸ τάλαντον	talent
+ταπεινόω	"to humble, humiliate"
+φρόνιμος	wise
+ἡ φύσις	nature
+χωλός	crippled
+ἀναλαμβάνω	"to take up, raise, undertake"
+ἡ ἀναστροφή	"way of life, lifestyle"
+ὁ Ἀνδρέας	Andrew
+ἄνωθεν	"from above, again"
+δαιμονίζομαι	"to be demon possessed, demonized"
+διαλέγομαι	"to dispute, discuss"
+*** 876 - 900 (/course/66563/koine-greek-3/36/)	
+διαφέρω	"to be better, to differ, spread, carry over"
+ὁ δράκων	dragon; giant serpent
+ἐκπλήσσω	to be amazed
+ἡ ἐλεημοςύνη	"pity, alms"
+ἐμπαίζω	to mock
+ἕξ	six
+ἐξαποςτέλλω	"to send away, send forth, destroy"
+ἐπιζητέω	to seek after
+ἡ ζύμη	"yeast, leaven"
+ὁ θερισμός	harvest
+καθάπερ	"as, just as, like"
+ὁ καπνός	smoke
+καταισχύνω	"to shame, dishonor, be ashamed"
+καταντάω	"to come, arrive"
+καταρτίζω	"to mend, restore, create, strengthen"
+κλέπτω	to steal
+ἡ Μάρθα	Martha
+ὁ Ναζωραῖος	Nazarene
+παιδεύω	"to instruct, discipline"
+ἡ παιδίσκη	young woman; slave-girl
+ἡ παράδοςις	deliverance; tradition
+πρίν	before; (adv) formerly
+στηρίζω	"to support, make firm, strengthen"
+συνεργός	helping; fellow worker
+τίμιος	"precious, rare; honorable"
+*** 901 - 925 (/course/66563/koine-greek-3/37/)	
+ὁ Τίτος	Titus
+ὁ τρόπος	"way, manner; customs, kind of life, deportment"
+τύπτω	"to strike, beat"
+ὕψιστος	highest; most high; Most High
+ὁ Φῆστος	Festus
+χωρίζω	to remove; to depart
+ἄδικος	unjust; unrighteous
+ὁ ἀλέκτωρ	"rooster, cock"
+ἀνά	"up, upon, on; (adv.) thereupon; each, apiece"
+ἀναπαύω	"to stop, rest, refresh; to die"
+ἀναπίπτω	"to  fall down, recline, sit down"
+ὁ ἀσκός	"wineskin, leather bag"
+ἡ αὐλή	"courtyard, court"
+ἡ Βαβυλών	Babylon
+ὁ βαπτιστής	"washer, baptizer, Baptist"
+βασανίζω	"to torment, torture"
+ἡ Βηθανία	Bethany
+τὸ βῆμα	"step, platform, judgment seat"
+βοάω	to cry out
+ἡ βουλή	"counsel; council, senate"
+ἡ βροντή	thunder
+ἡ γέεννα	"hell, Gehenna"
+τὸ γόνυ	knee
+δεῦτε	"come! come, now!"
+ἡ διάνοια	"mind, thought, intention"
+*** 926 - 950 (/course/66563/koine-greek-3/38/)	
+τὸ δίκτυον	net; lattice
+τὸ ἔθος	"custom, habit"
+ἐμβλέπω	to gaze at the face; to consider
+ἐξάγω	"to lead away, bring out"
+ἔσωθεν	"within, inside, from within"
+ὁ Ζεβεδαῖος	Zebedee
+ὁ κάλαμος	reed
+κατακαίω	"to burn up, consume"
+κατάκειμαι	to lie down
+κολλάω	"to glue, to join to"
+τὸ κράτος	"power, might"
+λίαν	exceedingly
+ἡ λυχνία	"lampstand, candlestick"
+ἡ Μαγδαληνή	Magdalene
+μάλιστα	"especially, exceedingly"
+μεταβαίνω	"to turn, enter, depart"
+μωρός	foolish
+ἡ Ναζαρά	Nazareth
+ὁ ὀδούς	tooth
+ὁ οἰκοδεσπότης	householder
+τὸ ὅραμα	vision; sight
+τὸ ὅριον	"border, coast, domain, limit"
+παραιτέομαι	to ask; to refuse
+περισσοτέρως	even more so
+πιάζω	to seize
+*** 951 - 975 (/course/66563/koine-greek-3/39/)	
+πληθύνω	to multiply
+πλουτέω	to be rich
+ἡ πόρνη	prostitute
+ἡ πρόθεσις	"setting forth, offering; purpose"
+προςλαμβάνω	"to increase; to receive, accept"
+πρωΐ	in the morning
+πυνθάνομαι	to inquire
+ὁ πῶλος	colt
+ἡ ῥάβδος	"stick, staff, scepter"
+Ῥωμαῖος	Roman
+σαλπίζω	to sound the trumpet
+ὁ Σιλᾶς	Silas
+ὁ Σολομών	Solomon
+σπλαγχνίζομαι	to have compassion
+ἡ σπουδή	haste; speed; zeal; pursuit; exertion
+συνέχω	"to surround, control, constrain"
+ταχύς	"swift, quickly, soon"
+τρίς	three times
+τυγχάνω	to obtain; to happen; to hit upon
+ὑγιαίνω	"to be healthy, be sound"
+ἡ φιάλη	bowl
+φονεύω	to murder
+ὁ χοῖρος	pig
+τὸ χρυσίον	"gold, golden"
+ψεύδομαι	to lie
+*** 976 - 1000 (/course/66563/koine-greek-3/40/)	
+ἀγαλλιάω	"to exult, rejoice"
+ἡ ἀγορά	market
+ὁ Ἀγρίππας	Agrippa
+ἡ ἅλυσις	chain
+ὁ Ἁνανίας	"Ananias, Hananiah, Hanani, Hanan"
+ἡ ἀνατολή	"east, sunrise"
+ἀντιλέγω	"to speak in response, speak against; deny"
+ἀπαρνέομαι	"to deny, renounce"
+ἡ ἀπιστία	unbelief
+ἀρχαῖος	"old, ancient"
+ἄφρων	foolish
+ὁ Βαραββᾶς	Barabbas
+ἡ βρῶσις	"food, eating, rust"
+Γαλιλαῖος	Galilean
+γέμω	to be full
+διαμερίζω	to divide
+ὁ δόλος	deceit
+ἡ δωρεά	"gift, bounty; grant"
+ἐάω	"to permit, pass over"
+ἐγγύς	(+gen) near
+τὸ εἴδωλον	"false god, idol; ghost, phantom"
+εἴκοςι	twenty
+εἰσάγω	to bring in
+ἐκχύννω	to pour out
+τὸ ἔλαιον	olive oil
+*** 1001 - 1025 (/course/66563/koine-greek-3/41/)	
+ἡ ἐλευθερία	freedom
+ἐνδείκνυμι	"to show forth, exhibit"
+ἐξουθενέω	to despise
+ἔξωθεν	"(+gen) from outside, outside"
+ὁ ἔπαινος	praise
+ἐπαισχύνομαι	to be ashamed
+ἐπιπίπτω	"to fall, fall upon, attack"
+ἐπισκέπτομαι	"to visit, care for"
+ὁ Ζαχαρίας	"Zechariah, Zecharias"
+ζηλόω	to be zealous; to be jealous
+ζῳοποιέω	"to make alive, keep alive"
+θανατόω	to put to death
+θάπτω	to bury
+ὁ Θωμᾶς	Thomas
+ὁ Ἰσκαριώθ	Iscariot
+καίω	"to burn, kindle, light"
+ἡ κακία	"evil, trouble"
+ἡ καταβολή	"foundation, building, structure"
+κατασκευάζω	"to prepare, construct, build, create"
+τὸ καύχημα	"object of boasting, pride"
+ἡ καύχησις	"boasting, pride"
+τὸ κέρας	"horn; (army) wing, flank"
+ὁ κλάδος	branch
+ὁ κλῆρος	"lot, portion; clergy"
+ἡ κλῆσις	calling
+*** 1026 - 1050 (/course/66563/koine-greek-3/42/)	
+ὁ κράβαττος	"bed, cot"
+ἡ λίμνη	lake
+μετρέω	to measure
+ὁ νεανίσκος	young man
+ἡ νόσος	disease
+ὁμοθυμαδόν	of one accord
+ἡ πηγή	water spring
+ποιμαίνω	"to shepherd, feed"
+τὸ πρᾶγμα	"thing, deed"
+ἡ πραΰτης	gentleness
+ἡ σάλπιγξ	trumpet
+ἡ Σαμάρεια	Samaria
+τὸ σπλάγχνον	"entrails, heart, affection"
+σπουδάζω	"to do one’s best; to hasten, labor over"
+συγγενής	"relative, kin"
+σφόδρα	very much
+σχίζω	to split
+τελευτάω	to die
+τριάκοντα	thirty
+ἡ Τύρος	Tyre
+ὑγιής	"whole, healthy"
+ὑμέτερος	your (pl.)
+ὑποκάτω	"(+gen) under, beneath"
+ὕστερος	"afterwards, last, later"
+ὑψηλός	"high, proud"
+*** 1051 - 1075 (/course/66563/koine-greek-3/43/)	
+φυτεύω	to plant
+φωτίζω	to give light
+χείρων	worse
+χίλιοι	thousand
+ὁ χιτών	"tunic, shirt"
+χράομαι	"to use; to warn, declare"
+ὁ ψευδοπροφήτης	false prophet
+ὁ ἁγιασμός	holiness
+ὁ ᾅδης	Hades (Pluto)
+ἀδύνατος	"unable, impossible; powerless; indissoluble"
+ἡ ἀκαθαρσία	uncleanness
+ἀναφέρω	"to bring up, back raise up, bear, pay, add to, offer up"
+ἀπολαμβάνω	to receive
+ὁ Ἀπολλῶς	Apollos
+ἀπολογέομαι	to defend oneself
+ἡ ἀπολύτρωσις	"redemption, release"
+ἡ ἀσέλγεια	sensuality
+ὁ ἀσπασμός	greeting
+ἀφαιρέω	"to seize, to take away; cut off"
+ἀφορίζω	"to separate, divide"
+ἡ Ἀχαΐα	Achaia
+ἡ βίβλος	"scroll, book, record"
+ὁ βίος	life
+τὸ δάκρυον	teardrop
+ὁ δεσπότης	"master, lord, slaveowner"
+*** 1076 - 1100 (/course/66563/koine-greek-3/44/)	
+τὸ δικαίωμα	"ordinance, requirement, righteousness"
+ὁ διωγμός	persecution
+ἐγκαταλείπω	"to leave behind, desert, forsake"
+ἐκκόπτω	"to cut off, cut down, destroy"
+ἐκπίπτω	to fall
+ἐμφανίζω	"to exhibit, manifest, explain, inform"
+ἔνατος	ninth
+ἔνοχος	"liable, guilty"
+ἐντεῦθεν	"from here, on this side. . . on that side"
+ἐξομολογέω	"to confess, admit"
+ἐπειδή	"since, because, for"
+ἐπιτάσσω	"to command, order"
+ἐπιτελέω	"to complete, perform"
+θλίβω	"to crush, compress, oppress, trouble"
+ἡ Ἰόππη	Joppa
+ἡ ἰσχύς	"strength, might"
+κλητός	"called, invited; guest"
+ὁ κοινωνός	"partaker; partner, companion"
+κομίζω	"to bring, receive"
+κοςμέω	"to adorn, set in order, arrange"
+μακράν	"far, far off, far away"
+μακροθυμέω	to be patient
+μέλει	"it is a concern, it is a care"
+ξενίζω	to entertain as a guest
+ὅδε	"this, here; he, she, it"
+*** 1101 - 1125 (/course/66563/koine-greek-3/45/)	
+ὁ οἰκονόμος	"manager, steward"
+ὀνομάζω	to name
+ὄντως	"really, indeed"
+ὁ ὅρκος	oath
+ὁ παντοκράτωρ	all mighty; almighty
+παράγω	to bring; to pass by
+παραλυτικός	"paralytic, paralyzed"
+ἡ παρεμβολή	"barracks, encampment"
+πατάσσω	to strike
+πενθέω	to mourn
+ἡ περιστερά	"dove, pigeon"
+ἡ πλάνη	error
+ἡ πλεονεξία	greediness; lust
+ποικίλος	many colored; various kinds
+ὁ πόρνος	sexually immoral man; prostitute chaser
+προςκαρτερέω	to be close at hand; to persevere in
+πρότερος	"former, formerly"
+ἡ πύλη	gate
+σέβω	to worship
+σιγάω	to be silent
+σιωπάω	to be silent
+στήκω	"to stand, stand firm"
+ὁ στρατηγός	"captain, commander; chief magistrate"
+συζητέω	"to argue, question"
+ὁ σύνδουλος	fellow slave
+*** 1126 - 1150 (/course/66563/koine-greek-3/46/)	
+σφάζω	to slay
+τέταρτος	fourth
+ὑπαντάω	to meet
+τὸ ὑπόδημα	"sandal, shoe"
+φείδομαι	to spare
+ἡ χρηστότης	kindness
+ὁ χρυσός	gold
+χωρέω	"to hold, to receive; to penetrate"
+τὸ χωρίον	"place, field"
+τὸ ψεῦδος	lie; falsehood
+ὁ ψεύστης	liar
+ἡ ἄβυσσος	abyss
+ἀγαθοποιέω	to do good
+ὁ Ἀδάμ	Adam
+ἡ αἵρεσις	"faction, sect, school; heresy"
+ἀκριβῶς	"diligently, precisely, accurately"
+ἀλείφω	to anoint
+ἡ ἄμπελος	"vine, vineyard"
+ἀναγκάζω	"to compel, force"
+ἀναστρέφω	"to live, conduct oneself; to return, overturn"
+ἀνατέλλω	"to rise, cause to rise, to grow, spring up"
+ἄνομος	lawless
+ἄνω	"above, up, upper, upward"
+ἡ ἀπαρχή	firstfruits
+ἀποδοκιμάζω	to reject
+*** 1151 - 1175 (/course/66563/koine-greek-3/47/)	
+ἀποςτρέφω	to turn away
+ἀποτίθημι	"to put off, away"
+ἄρσην	"male, man"
+ὁ ἀρχισυνάγωγος	ruler of the synagogue
+ἀσεβής	ungodly
+ἡ ἀστραπή	lightning
+βόσκω	"to feed, graze"
+ἡ γαστήρ	"stomach, womb"
+ἡ γνώμη	"opinion; intent, purpose; consent"
+ἡ γωνία	"corner, leader"
+διασκορπίζω	"to scatter, squander"
+διατρίβω	"to remain, stay"
+δωρεάν	freely
+ἕβδομος	seventh
+εἰδωλόθυτος	(meat) offered to idols
+ἡ ἐκδίκησις	vengeance
+ἡ Ἐλισάβετ	Elisabeth
+ἐντρέπω	"to make ashamed, respect"
+ἑξήκοντα	sixty
+ἐπέρχομαι	"to come upon, be at hand"
+ἐπιδίδωμι	to give
+ἐπιποθέω	to greatly desire
+ἡ ἔρις	strife
+εὐάρεστος	acceptable
+ἡ εὐδοκία	"good pleasure, good will, approval; satisfaction"
+*** 1176 - 1200 (/course/66563/koine-greek-3/48/)	
+εὐώνυμος	left
+θνῄσκω	to die
+ὁ Ἰσραηλίτης	Israelite
+ὁ Ἰωνᾶς	Jonah
+καθαιρέω	"to take down, destroy"
+ὁ Καϊάφας	Caiaphas
+κατάγω	"to bring down, lead down"
+ἡ κατάπαυσις	"rest, place of rest"
+καταφρονέω	to despise
+κάτω	"down, below, under"
+τὸ κήρυγμα	"preaching, proclamation"
+ὁ Κηφᾶς	Cephas (Aram. rock)
+ὁ κίνδυνος	"danger, peril"
+τὸ κλάσμα	fragment
+ὁ κλαυθμός	"weeping, crying"
+ἡ κλίνη	"bed, cot, couch"
+κραυγάζω	"to call out, shout"
+κρούω	to knock
+ἡ λαμπάς	lamp
+λαμπρός	bright; illustrious
+λεπρός	"leper; leprous, scaly, scabby"
+ὁ λέων	lion
+λιθάζω	to stone
+ὁ μαργαρίτης	pearl
+μεστός	full
+*** 1201 - 1225 (/course/66563/koine-greek-3/49/)	
+μεταπέμπω	to send for
+ἡ μνᾶ	mina (coin)
+μονογενής	"only, unique"
+ἡ νῆσος	island
+νομικός	lawyer; trained in law
+ὅθεν	"therefore, where, from where"
+οἰκέω	to dwell
+ἡ οἰκονομία	"management, plan"
+ὀνειδίζω	to reproach
+ὀπίσω	(+gen) after (prep.); back (adv.)
+οὐράνιος	heavenly
+παρρησιάζομαι	to speak with boldness
+περίχωρος	surrounding region
+πιπράσκω	to sell
+ἡ πλατεῖα	"street, square"
+πλεονάζω	to increase
+προέρχομαι	to go before
+προπέμπω	to send on one’s way
+ἡ προςφορά	offering
+ὁ Σαμαρίτης	Samaritan
+ὁ Σαούλ	Shaul; Saul
+ἡ σελήνη	moon
+ἡ Σιδών	Sidon
+τὸ Σόδομα	Sodom
+ἡ στάσις	"standing; position; argument, riot, revolt"
+*** 1226 - 1250 (/course/66563/koine-greek-3/50/)	
+ἡ στολή	clothing; robe
+ἡ τάξις	"order, band"
+τὸ τεῖχος	wall
+τρέφω	to feed
+τὸ ὑστέρημα	what is lacking
+ὁ Φῆλιξ	Felix
+φθείρω	"to corrupt, destroy"
+ὁ φθόνος	envy
+ἡ φθορά	"corruption, decay"
+ὁ φόνος	murder; slaughter
+χάριν	(+gen) for the sake of
+χρηματίζω	"to deal with; to warn, direct, reveal; be titled, called"
+ἁγνός	pure
+ἀγωνίζομαι	"to strive, fight, struggle"
+ἀδόκιμος	"unqualified, worthless, disreputable"
+αἰνέω	to praise
+τὸ ἅλας	salt
+ἅμα	"(+dat) together, at once, at the same time"
+ἄμωμος	"blameless, spotless"
+ἀναγκαῖος	necessary
+ἀντίκειμαι	to oppose
+ἄπειμι	"to be absent, be away (sum)"
+ἀπεκδέχομαι	to await
+ἀπιστέω	"to disbelieve, distrust"
+ἡ ἁπλότης	"generosity, sincerity"
+*** 1251 - 1275 (/course/66563/koine-greek-3/51/)	
+ἀποκαθίστημι	"to restore, return"
+ἡ ἀπολογία	defense
+ἀργός	"idle, lazy; useless"
+ἀρκέω	"to be content, be enough"
+ἄφθαρτος	"imperishable, immortal, incorruptible"
+τὸ βάθος	depth
+βέβαιος	"sure, firm, certain"
+βεβαιόω	to confirm
+ἡ Βηθλέεμ	Bethlehem
+βοηθέω	to help
+ὁ βοῦς	"ox, cow"
+τὸ βρέφος	infant
+γεμίζω	to fill
+γογγύζω	to grumble
+ὁ δάκτυλος	finger; toe
+δεῦρο	to here; to now; come!
+διακόσιοι	two hundred
+διανοίγω	"to open up, reveal"
+διαστέλλω	"to order, command"
+διασῴζω	to escape
+διηγέομαι	"to describe in detail; tell, explain"
+δουλόω	to enslave
+τὸ δρέπανον	sickle
+εἰσφέρω	to bring in
+ἐκφέρω	"to carry out, carry away"
+*** 1276 - 1300 (/course/66563/koine-greek-3/52/)	
+ἐκφεύγω	to escape
+ἕλκω	"to attract, drag"
+ἐναντίος	"against, opposed, opposite"
+τὸ ἔνδυμα	clothing
+ἡ ἐνέργεια	"working, action, energy"
+ἐνθάδε	"here, to this place"
+ἐξαιρέω	"to take out, remove, choose, deliver"
+ἐπιλανθάνομαι	to forget
+ἐπισυνάγω	"to gather together, to narrow"
+ἡ ἐσθής	clothing
+ἔσω	(+gen) inside (prep.); within (adv.)
+εὐθύς	"straight; proper, right"
+εὐλογητός	blessed
+ὁ εὐνοῦχος	eunuch
+ὁ ζηλωτής	zealot; jealous
+τὸ ζιζάνιον	"weed, darnel"
+ἡ ζώνη	"belt, waistband"
+ἡ ἡλικία	"time of life, life span, height"
+θησαυρίζω	to store up treasure
+καλύπτω	to cover
+καρποφορέω	to bring forth fruit
+κατηχέω	"to instruct, catechize"
+ἡ Κιλικία	Cilicia
+κινέω	"to move, disturb"
+κοινωνέω	"to share, take part"
+*** 1301 - 1325 (/course/66563/koine-greek-3/53/)	
+κόπτω	"to smite, cut down, mourn"
+τὸ κοράσιον	girl
+ὁ Κορνήλιος	Cornelius
+ὁ Λευί	Levi
+ὁ Μᾶρκος	Mark; Marcus
+μεγαλύνω	"to enlarge, magnify, boast, grow"
+μεθερμηνεύω	"to translate, interpret"
+ὁ Μελχισέδεκ	Melchizedek
+μέντοι	"but, nevertheless"
+μετέχω	to partake
+τὸ μέτωπον	forehead
+τὸ μνῆμα	tomb
+ἡ μυριάς	"myriad, ten thousand; countless thousands"
+νουθετέω	"to warn, admonish"
+ἡ νύμφη	bride
+ὁ Νῶε	Noah
+ξηρός	"dry, withered"
+ὀκτώ	eight
+ὀξύς	"sharp, sharply"
+ὀργίζω	to be angry
+ὁρίζω	to determine
+ὅσιος	"hallowed, holy, sanctified; pious, pure"
+ἡ ὀσφῦς	waist
+πάντως	by all means
+ἡ πατρίς	homeland
+*** 1326 - 1350 (/course/66563/koine-greek-3/54/)	
+πέραν	"(+gen) beyond, across"
+περιτίθημι	to put on
+τὸ πλοῦτος	riches
+πορνεύω	to commit sexual immorality
+τὸ πραιτώριον	"praetorium, army headquarters"
+προΐστημι	"to manage, stand before, lead"
+προςκόπτω	to strike against; to stumble
+προςπίπτω	to fall upon; to fall down before
+πρωτότοκος	firstborn
+ἡ Ῥώμη	Rome
+σαπρός	rotten
+τὸ στράτευμα	military campaign; army
+συγκαλέω	to call together
+συλλέγω	"to gather, collect, glean"
+συμβαίνω	"to happen, befall"
+τὸ συμβούλιον	"plan, council"
+ἡ Συρία	"Syria, Aram"
+τὸ σχίσμα	division
+ταπεινός	humble
+τάσσω	to appoint; to station
+τὸ τάχος	quickness; quickly
+τὸ τεκνίον	little child
+ἡ ὑπερβολή	exceeding quality; excess
+τὸ χάραγμα	"mark, stamp"
+ἀγανακτέω	to be indignant
+*** 1351 - 1375 (/course/66563/koine-greek-3/55/)	
+ἡ ἀγέλη	herd
+ἁγνίζω	to purify
+ἀεί	always
+τὸ ἄζυμος	unleavened bread
+ὁ ἀήρ	air
+ἄκαρπος	unfruitful
+ἀνθρώπινος	human
+ἀνταποδίδωμι	"to give back, pay back, recompense"
+ἀξιόω	to count worthy
+ἡ ἀπάτη	"deceit, deceitfulness"
+ἡ ἀπείθεια	"unbelief, disobedience"
+ἀποδέχομαι	to receive
+ἀπολείπω	to leave
+ἀτιμάζω	to dishonor
+ἡ ἀτιμία	dishonor
+ἡ ἀφθαρσία	"incorruptibility, immortality"
+ἡ ἀφορμή	occasion
+ὁ Βεελζεβούλ	Beelzebub
+ἡ Βηθσαϊδά	Bethsaida
+βρέχω	"to rain, drench"
+ὁ βρυγμός	"grinding, gnashing"
+γαμίζω	to give in marriage
+δέκατος	"tenth, tithe"
+δηλόω	"to make clear, declare"
+διαστρέφω	"to turn, to pervert"
+*** 1376 - 1400 (/course/66563/koine-greek-3/56/)	
+διατίθημι	to make (a covenant)
+ἡ δοκιμή	"character, proof"
+δόκιμος	"approved; excellent, pure"
+τὸ δῶμα	"roof, housetop"
+Ἑβραϊστί	in the Hebrew/Aramaic language
+ἐγκαλέω	"to call in, accuse"
+ὁ εἰδωλολάτρης	idolater
+ἐκζητέω	to search earnestly
+ἡ ἐκλογή	"election, choice; selection, extract"
+ἡ ἔκστασις	"trance, vision; amazement"
+ἐλευθερόω	"to free, set free, release"
+ἐμπίπτω	"to fall in, fall upon, attack"
+ἐνδυναμόω	to be strong
+ἔνειμι	"to be in, be there  (sum)"
+ἐνίστημι	"to begin, be, be upon, be present"
+ἐπίγειος	"earthly, terrestrial"
+ἐπιδείκνυμι	"to show, display, exhibit"
+ἐπίκειμαι	"to lie on, crowd, insist, attack"
+ὁ ἐπιστάτης	"chief, commander, Master"
+ἡ ἐπιταγή	commandment; authority
+ἐποικοδομέω	to build up
+ἡ ἐριθεία	strife
+εὔκοπος	easy
+εὔχομαι	"to wish, pray, long for; to vow"
+ἡ ζήτησις	search; debate
+*** 1401 - 1425 (/course/66563/koine-greek-3/57/)	
+ἡμέτερος	our
+θαρσέω	"to be confident, courageous"
+τὸ θεῖον	sulphur
+ὁ θόρυβος	"confusion, noise, tumult"
+ὁ ἰατρός	"physician, doctor, healer"
+ἡ Ἰεριχώ	Jericho
+ἴσος	equal
+ὁ καθαρισμός	"cleansing, purification"
+καθέζομαι	to sit
+καταπίνω	"to swallow, swallow up, drown"
+κλίνω	"to lay, tip over"
+ὁ κόκκος	"grain, seed, scarlet"
+κρεμάννυμι	"to hang, hang on, hang up"
+κτάομαι	"to obtain, acquire"
+κυριεύω	"to rule over, dominate"
+λάμπω	to shine
+λιθοβολέω	to throw stones
+ὁ λιμός	famine
+μαστιγόω	"to whip, beat with a whip"
+μεταλαμβάνω	"to share in, receive"
+μεταξύ	(+gen) between; meanwhile (adv.)
+ἡ μνεία	"remembrance, mention"
+ὁ νότος	south; south wind
+ὀλίγος	"little, few"
+οὐθείς	"nobody, no one"
+*** 1426 - 1450 (/course/66563/koine-greek-3/58/)	
+ὁ ὀφειλέτης	debtor
+πάλαι	long ago
+πανταχοῦ	everywhere
+ἡ παράβασις	disobedience
+πεντήκοντα	fifty
+περιβλέπω	to look around
+περισσότερος	more
+πνέω	to blow
+πολεμέω	to wage war
+ἡ πονηρία	wickedness
+ποταπός	what sort of? what kind of?
+πρέπω	to be fitting
+προςμένω	to wait; to remain with
+προςτάσσω	to command
+προςφωνέω	"to call, speak"
+τὸ πτῶμα	corpse
+ῥίπτω	"to throw, cast down"
+ἡ ῥομφαία	sword
+σαρκικός	"material, worldly"
+ἡ Σιών	Zion
+ἡ σκιά	shadow
+ἡ σπεῖρα	military unit; cohort
+τὸ στάδιον	stade (length); stadium; walkway
+ὁ Στέφανος	Stephen
+τὸ στοιχεῖον	element; letter (of alphabet)
+*** 1451 - 1475 (/course/66563/koine-greek-3/59/)	
+στρατεύω	to serve as a soldier; to wage war
+συγχαίρω	to rejoice with
+συμβιβάζω	"to advise; to bring together, unite"
+ὁ Συμεών	Simeon
+συνανάκειμαι	"to recline together, to eat with"
+ἡ σύνεσις	"understanding, intelligence"
+συντρίβω	"to crush, to break"
+ἡ ταπεινοφροςύνη	humility
+ὁ τάφος	grave
+ὁ τράχηλος	"neck, throat"
+τρίτος	third
+ὑπομιμνῄσκω	to remind
+τὸ ὑποπόδιον	footstool
+φθάνω	"to come before, to overtake, to reach"
+τὸ φίλημα	kiss
+φιμόω	to put to silence
+ἡ φλόξ	flame
+ὁ φονεύς	murderer
+τὸ φρέαρ	"well, pit"
+φυσιόω	to cause conceit
+χαλάω	to let down; to loosen
+τὸ χεῖλος	"lip, shore"
+χρηστός	kind
+ὁ ψαλμός	psalm
+ἡ ᾠδή	song
+*** 1476 - 1500 (/course/66563/koine-greek-3/60/)	
+ὥσπερ	"as, just as"
+ὁ ἀγών	gathering; contest
+ὁ αἰγιαλός	shore
+ἡ αἰσχύνη	shame
+τὸ ἄκρον	"top, end, height, extremity, thumb"
+ὁ Ἀκύλας	Aquila
+ὁ Ἀλέξανδρος	Alexander
+ἀλλάσσω	"to change, exchange, follow in order"
+τὸ ἀνάθεμα	accursed
+ἀνακλίνω	"to sit down, recline"
+ἀναμιμνῄσκω	"to remind, remember"
+ἀναπληρόω	"to fill up, supply, fulfill"
+ἀνόητος	foolish
+ἀνυπόκριτος	"sincere, irrevocable"
+ἀξίως	in a worthy manner
+ἀπειθής	disobedient
+ἀποδημέω	to take a journey
+ἡ ἀποθήκη	"barn, storehouse"
+ἀποκόπτω	to cut off; castrate; excommunicate
+ἀπορέω	to be at a loss
+ἀποςτερέω	to defraud
+ἀποτάσσω	to say good-bye
+ἀποφέρω	"to carry off; obtain, win back"
+ἀπωθέω	"to push back, drive off, cast away, reject"
+ἡ ἀσέβεια	"ungodliness, impiety"
+*** 1501 - 1525 (/course/66563/koine-greek-3/61/)	
+βάρβαρος	foreign; foreigner; barbarian
+βαρέω	"to be heavy, to weigh down"
+τὸ βάρος	"burden, load, weight"
+βαρύς	"heavy, hard"
+ὁ βασανισμός	"torment, torture"
+τὸ βδέλυγμα	"something detestable, abomination"
+βουλεύω	"to take counsel, to plan, to devise"
+ἡ διάλεκτος	language
+διαπεράω	"to go over, pass through"
+διαφθείρω	to destroy
+ἡ διαφθορά	"decay, rot"
+διεγείρω	to raise up; to awaken
+διερμηνεύω	"to explain, interpret"
+δίς	twice
+ἡ δοκός	"log, beam"
+ἐγκακέω	to become discouraged
+ἐγκεντρίζω	to spur on; to graft
+εἰκῇ	"in vain, randomly"
+εἴπερ	"since, if it is true that"
+ἐκδέχομαι	"to receive, wait for"
+ἐκδικέω	to avenge
+ἐκδύω	"to strip, take off"
+ἐμπτύω	to spit upon
+ἕνδεκα	eleven
+ἐξαπατάω	to deceive
+*** 1526 - 1550 (/course/66563/koine-greek-3/62/)	
+ἐξαυτῆς	immediately
+ἐξηγέομαι	"to explain, order; interpret, exposite"
+ἐπαινέω	to praise
+ἐπιβαίνω	to sit
+ἡ ἐπιφάνεια	"appearing, manifestation"
+ἐραυνάω	"to search, examine"
+ἡ ἐργασία	"work, gain, profit"
+ἡ ἔχθρα	"enmity, hatred"
+ζημιόω	"to punish, to lose"
+ὁ ζυγός	"yoke, balance scales"
+ἡ Ἡρῳδιάς	Herodias
+θαρρέω	"to be courageous, brave"
+θαυμαστός	"marvelous, wonderful"
+θερμαίνω	"to warm, warm oneself"
+θνητός	mortal
+τὸ θυμίαμα	incense
+τὸ Ἰκόνιον	Iconium
+ἱνατί	why?
+καθότι	"because, for, as"
+κακόω	"to do evil, harm"
+τὸ κάρφος	"twig, speck, splinter"
+καταλλάσσω	to reconcile
+τὸ καταπέτασμα	"veil, curtain"
+ἡ κατάρα	"curse, cursing"
+καταφιλέω	to kiss
+*** 1551 - 1575 (/course/66563/koine-greek-3/63/)	
+ἡ κιβωτός	"box, chest, ark"
+ἡ κλείς	key
+κόκκινος	scarlet
+ὁ κόλπος	"bosom, chest"
+ἡ Κόρινθος	Corinth; Corinthos
+ὁ κόφινος	basket
+ἡ κραυγή	"shout, outcry"
+ὁ Κυρηναῖος	Cyrenian
+λανθάνω	"to forget, to hide"
+ἡ Λαοδίκεια	Laodicea
+λείπω	"to leave, lack, forsake"
+ἡ λειτουργία	"service, ministry, worship"
+ὁ λύκος	wolf
+ὁ μάγος	"wise man, magician"
+ἡ μάστιξ	whip
+μάταιος	"empty, vain"
+μέλας	black
+ἡ μέριμνα	"care, anxiety"
+ὁ μεσίτης	mediator
+μεταμέλομαι	"to regret, repent"
+μετατίθημι	"to remove, change"
+μέτοχος	partaker
+μηδέ	"nor, and not"
+ὁ μιμητής	imitator
+μόλις	"scarcely, hardly"
+*** 1576 - 1600 (/course/66563/koine-greek-3/64/)	
+ὁ μόσχος	calf
+Ναζαρηνός	Nazarene
+ὁ Ναθαναήλ	Nethanel; Nathanael
+νήφω	"to be sober, self-controlled"
+τὸ νόημα	"mind, thought"
+ὅθεν	"therefore, where, from where"
+τὸ ὁμοίωμα	likeness
+ἡ ὁμολογία	confession; vow
+τὸ ὄναρ	dream
+τὸ ὄξος	sour wine; vinegar
+τὸ ὅπλον	weapon; armor
+ἡ ὀσμή	"smell, stench"
+ἡ παιδεία	"instruction, discipline"
+παραδέχομαι	to receive
+ἡ παρασκευή	preparation; preparation day (Friday)
+παρατηρέω	to watch
+ἡ πενθερά	mother-in-law
+πεντακισχίλιοι	five thousand
+ἡ πεποίθησις	confidence
+περιάγω	to go around
+περιζώννυμι	"to wrap around, make oneself ready"
+ὁ πηλός	"mud, clay"
+ἡ πήρα	bag
+πλέω	to sail
+πληροφορέω	to be set on; to assure fully
+*** 1601 - 1625 (/course/66563/koine-greek-3/65/)	
+ὁ ποιητής	"maker, creator; poet"
+ἡ πρᾶξις	"deed, action"
+προκόπτω	"to advance, grow; cut beforehand"
+προορίζω	to decide beforehand
+τὸ πρόσκομμα	stumbling stone
+ἡ πρόφασις	"motive, false motive, excuse, pretext"
+ὁ πυρετός	fever
+πυρόω	to burn
+πώποτε	"ever, at any time"
+ῥήσσω	"to break, tear, attack, burst out"
+σβέννυμι	"to extinguish, quench"
+σημαίνω	"to indicate, signify"
+ἡ σινδών	"linen cloth, garment"
+σκληρύνω	to harden; to make stubborn
+σκοπέω	to pay attention to; watch closely
+σπεύδω	to hasten
+τὸ σπήλαιον	cave
+ὁ σπόρος	seed; seed-time
+στενάζω	"to groan, mourn"
+στρωννύω	"to spread, furnish"
+συλλαλέω	to speak with
+συμβάλλω	"to meet, consider, compare"
+συμφωνέω	to agree with
+συναντάω	"to meet, come upon"
+συνευδοκέω	to approve of; to agree to
+*** 1626 - 1650 (/course/66563/koine-greek-3/66/)	
+ἡ συντέλεια	"consummation, completion, perfection, end"
+συντελέω	"to finish, to end"
+σωφρονέω	to be in a right mind
+ἡ Τρῳάς	Troas
+τρώγω	to eat
+ὁ ὕπνος	sleep
+τὸ ὑπόδειγμα	"example, pattern"
+ὑποδείκνυμι	"to show, inform"
+ἡ ὑπόκρισις	hypocrisy
+τὸ ὕψος	height
+φαῦλος	"evil, base; ordinary"
+φθαρτός	"perishable, corruptible"
+ἡ φιλαδελφία	brotherly love
+φορέω	to wear; to bear
+τὸ φορτίον	burden
+τὸ φύλλον	leaf
+ὁ χειμών	winter; bad weather
+χειροποίητος	hand-made
+τὸ χρῆμα	"possessions, wealth"
+ψυχικός	"natural, unspiritual"
+ὡσαννά	"hosanna (Aram. save, I pray)"
+ὁ Ἀαρών	Aaron
+ἡ ἀγαλλίασις	gladness
+ᾄδω	to sing
+ὁ ἀετός	"eagle, vulture"
+*** 1651 - 1675 (/course/66563/koine-greek-3/67/)	
+Αἰγύπτιος	Egyptian
+αἰσχύνω	to be ashamed
+αἴτιος	"cause, source"
+ἡ ἀκαταστασία	confusion
+ὁ ἁλιεύς	fisherman
+ὁ Ἁλφαῖος	Alphaeus
+ἄμεμπτος	blameless
+ἡ ἄμμος	sand
+ἀνακράζω	to cry out
+ἡ ἀνάπαυσις	rest
+ἀναπέμπω	to send
+ἀνέγκλητος	blameless
+ἀνεκτός	more tolerable
+ἡ ἄνεσις	"rest, relaxation, relief"
+ὁ ἀνθύπατος	proconsul
+ὁ ἀντίδικος	"adversary, foe"
+ἀντιτάσσω	to resist
+ὁ ἀντίχριστος	antichrist
+ἀόρατος	"invisible, unseen"
+ἀπέναντι	"(+gen) opposite, before, against"
+ὁ ἄργυρος	silver
+ἡ ἀρετή	moral excellence
+ὁ Ἀρίσταρχος	Aristarchus
+ἅρπαξ	"rapacious, thieving; thief"
+ἄρρωστος	sick
+*** 1676 - 1700 (/course/66563/koine-greek-3/68/)	
+ἡ Ἄρτεμις	Artemis
+ἀσύνετος	without understanding
+ἀσφαλής	"certainty, safe, steadfast"
+ἀφανίζω	"to hide, conceal, darken; ruin, destroy"
+ἄχρι	(+gen) until
+βασιλικός	royal; royal officer; palace
+βέβηλος	"vile, profane"
+βύσσινος	made of fine linen
+τὸ γαζοφυλάκιον	treasury
+ὁ Γάϊος	Gaius
+τὸ γάλα	milk
+ἡ γένεσις	"birth, lineage, offspring, family"
+δαπανάω	to spend
+δεκατέσσαρες	fourteen
+δεκτός	acceptable
+δεύτερος	second
+δή	"indeed, then, therefore, now"
+διαμένω	to continue
+διαπορεύομαι	to pass through
+διαρήγνυμι	to break through; tear
+δικαίως	"justly, rightly"
+τὸ δόγμα	"determination, judgment, decree; dogma, doctrine"
+ἡ δουλεία	slavery
+ἡ δυσμή	"going down, setting (of sun)"
+ἑβδομήκοντα	seventy
+*** 1701 - 1725 (/course/66563/koine-greek-3/69/)	
+ἐγκόπτω	"to cut off, hinder"
+εἰ	if; whether
+τὸ εἶδος	"form, outward appearance"
+εἰσακούω	"to hear, hearken"
+ἡ εἴσοδος	"entrance, coming"
+ἐκλύω	"to loosen, weaken, fail"
+ἐκμάσσω	to wipe
+ἐκτρέπω	"to turn, change, wander"
+ἐλαύνω	"to drive, row"
+ἐμβριμάομαι	to rebuke; speak harshly; warn
+ἐμπίπλημι	to fill
+ὁ ἔμπορος	"traveler, merchant"
+ἔμφοβος	afraid
+ἐναντίον	(+gen) before
+ἐννέα	nine
+ἐνοικέω	to dwell in
+ἔντιμος	precious
+ἐντυγχάνω	"to turn to, appeal, converse"
+ἐξαίφνης	"suddenly, immediately"
+ἐξαλείφω	"to plaster, wash over, wipe out"
+ἑξῆς	next in order; on the next day
+ἔπειμι	"to be upon, so set upon, remain (sum)"
+ἐπέχω	"to hold, hold back; to notice, give close attention to"
+ἡ ἐπιγραφή	superscription
+ἐπιγράφω	"to write, write upon"
+*** 1726 - 1750 (/course/66563/koine-greek-3/70/)	
+ἐπιεικής	"gentle, forbearing"
+ἐπισκιάζω	to overshadow
+ὁ ἐπίσκοπος	"overseer, bishop, guardian"
+ἐπιτυγχάνω	"to obtain, attain, be successful"
+ἐπιχορηγέω	"to supply, give"
+ἐρημόω	to make desolate
+εὖ	"well, good"
+εὐπρόσδεκτος	acceptable
+εὐσχήμων	"respected, presentable, graceful"
+ἐφάπαξ	"once, once for all"
+Ἐφέσιος	Ephesian
+ἡ ἔχιδνα	"snake, viper"
+τὸ ζήτημα	"dispute, question"
+ὁ ζόφος	gloom
+ἡδέως	"gladly, with pleasure"
+ἡ ἡδονή	"pleasure, delight"
+ἥμισυς	one half
+ἡσυχάζω	"to remain quiet, be at rest"
+θεμελιόω	to found
+ἡ Θεσσαλονίκη	Thessalonica
+θηλάζω	to nurse
+θῆλυς	"female, feminine, delicate, soft"
+ὁ θώραξ	breastplate
+ὁ Ἰάσων	Jason
+ὁ ἰδιώτης	"unlearned, untrained, private person"
+*** 1751 - 1775 (/course/66563/koine-greek-3/71/)	
+ὁ Ἰεσσαί	Jesse
+ὁ ἱματισμός	clothing
+καθεξῆς	"in order, sequence"
+καίπερ	though
+καταδικάζω	to condemn
+κατακλίνω	"to sit down, cause to sit down"
+καταλαλέω	to speak evil of
+καταπατέω	"to trample on, oppress"
+καταράομαι	to curse
+κατέναντι	"(+gen) opposite, before, in the presence of"
+κενόω	"to make of no effect, make empty"
+ὁ κῆπος	garden
+κολαφίζω	to beat
+ὁ κονιορτός	"dust, dustcloud"
+τὸ κράσπεδον	"fringe, border"
+ἡ Κρήτη	Crete; Cretan; Kerethite
+κύκλῳ	(+gen) round (prep.);  in a circle (adv.)
+τὸ κῦμα	wave
+ἡ Κύπρος	Cyprus
+ὁ κύων	dog; (metaph) male prostitute
+ἡ λατρεία	"service, worship"
+ὁ λειτουργός	"servant, minister"
+ἡ ληνός	winepress
+ἡ λιμός	famine
+λούω	to wash
+*** 1776 - 1800 (/course/66563/koine-greek-3/72/)	
+ὁ Μαθθαῖος	Matthew
+μαίνομαι	"to be insane, to be furious"
+ὁ Μακεδών	Macedonian
+μαρτύρομαι	to testify; to call to witness
+μεθίστημι	"to remove, change, turn aside"
+μεθύσκω	to get drunk
+μεθύω	"to be drunk, drink freely"
+ἡ μερίς	"part, portion"
+μεταδίδωμι	"to impart, share, distribute"
+μετασχηματίζω	to transform
+μιαίνω	"to defile, pollute"
+ὁ μῦθος	"myth, fable, story"
+ἡ μωρία	foolishness
+ἡ νηστεία	"fast, fasting"
+ὁ Νικόδημος	Nicodemus
+ὄγδοος	eighth
+ὁδηγέω	"to lead, guide"
+ὁ ὁδηγός	"leader, guide"
+τὸ ὀθόνιον	"linen cloth, wrapping"
+ὁ οἰκτιρμός	compassion
+ὀλιγόπιστος	of little faith
+ὁ ὀνειδισμός	"disgrace, insult"
+ὄπισθεν	(+gen) behind (prep.); from behind (adv.)
+ὁποῖος	of what sort; (adv) in like manner
+ὁρμάω	to rush
+*** 1801 - 1825 (/course/66563/koine-greek-3/73/)	
+ἡ οὐρά	tail
+τὸ ὀψάριον	fish
+ἡ παγίς	"snare, trap"
+παίω	"to strike, hit"
+ἡ Παμφυλία	Pamphylia
+ἡ πανουργία	craftiness
+ὁ παραβάτης	one who disobeys; transgressor
+ἡ παραγγελία	commandment
+ὁ παράκλητος	"helper, advocate"
+παρακύπτω	to look through; to lean in; to stoop down
+παραλύω	"to weaken, disable, be paralyzed"
+παραπορεύομαι	to pass by
+ἡ παροιμία	"proverb, maxim; parable"
+πατέω	to trample
+τὸ πένθος	mourning
+περιαιρέω	to take away
+περίκειμαι	"to be bound, surrounded"
+περίλυπος	very sorrowful
+ἡ περιποίησις	preservation; obtaining; possession
+τὸ περίσσευμα	abundance
+πέτομαι	to fly
+ὁ πίναξ	"plate, platter; plank, tablet"
+πλάνος	error; deceitful
+πλεονεκτέω	to be greedy; take advantage of
+ἡ πλευρά	side; rib
+*** 1826 - 1850 (/course/66563/koine-greek-3/74/)	
+τὸ πλοιάριον	small boat
+ἡ ποίμνη	flock
+προβαίνω	"to go on, advance; be old"
+προγινώσκω	"to know ahead of time, choose ahead of time"
+ἡ προθυμία	"willingness, eagerness, goodwill"
+πρόκειμαι	"to set before, to lie before"
+ἡ πρωτοκλισία	place of honor
+πταίω	to cause to fall; to fall
+ἡ πτέρυξ	wing
+πωρόω	"to harden, make stubborn; become dim"
+σείω	to shake
+σιδηροῦς	made of iron
+τὸ σίναπι	mustard plant
+σκηνόω	"to pitch a tent, dwell in a tent"
+σκληρός	"hard, cruel"
+σκορπίζω	to scatter
+ὁ σκορπίος	scorpion
+σκοτίζω	to darken
+ἡ σπυρίς	basket
+ὁ στάχυς	head of grain
+τὸ στῆθος	"chest, breast"
+στοιχέω	"to walk, live; prosper"
+συγχέω	"to mingle together, confuse, confound"
+συμπνίγω	to choke
+συνεργέω	"to work with, assist; collaborate"
+*** 1851 - 1875 (/course/66563/koine-greek-3/75/)	
+συνεσθίω	to eat with
+σύρω	"to drag, draw"
+συσταυρόω	to crucify with
+τετρακισχίλιοι	four thousand
+ὁ τρόμος	trembling
+ὁ Τυχικός	Tychicus
+ὑβρίζω	to boast; to insult
+ὁ ὑετός	rain
+ἡ υἱοθεσία	adoption
+ὑπερβάλλω	"to exceed, surpass"
+ὑπερέχω	"to excel, exceed, be better than"
+ὑπερήφανος	"proud, arrogant"
+ὑπολαμβάνω	to suppose; to lift up; to reply
+ἡ ὑπόστασις	"support, foundation, confidence"
+ὁ Φαραώ	Pharaoh
+ὁ φόρος	"tribute, tax"
+τὸ φύραμα	lump of dough
+φωτεινός	"bright, full of light"
+ὁ χαλκός	"bronze, brass, brass gong"
+χρῄζω	to have need
+χρίω	to anoint
+χρονίζω	to stay long; to delay
+ψάλλω	to play a harp; to sing a psalm
+ψευδομαρτυρέω	to bear false testimony
+ὁ Ἅβελ	Abel
+*** 1876 - 1900 (/course/66563/koine-greek-3/76/)	
+ἡ ἀγαθωσύνη	goodness
+ἄγαμος	unmarried
+ἡ ἄγκυρα	anchor
+ἡ ἄγνοια	ignorance
+ἀγρυπνέω	"to lose sleep, watch"
+ἀδιαλείπτως	without ceasing
+ἡ Ἀθῆναι	Athens
+αἰσχρός	"filthy, shameful"
+αἰχμαλωτίζω	to put into captivity
+ἡ ἀκρίς	"locust, locust swarm"
+ὁ ἀκροατής	hearer
+ἁλληλουϊά	hallelujah (Heb. praise Yah[weh])
+τὸ ἁμάρτημα	"sin, sin offering"
+ἀμελέω	to neglect
+ἀμίαντος	undefiled
+ὁ ἀμνός	lamb
+ἀναθεματίζω	"to curse, to devote"
+ἀνακάμπτω	to return
+ἀνακύπτω	"to stand up, turn upward"
+ἡ ἀνάμνησις	remembrance
+τὸ ἄνθος	flower
+ἀνίημι	"to send back, throw up, leave, lift up, forgive, relax"
+ὁ Ἅννας	Hannas; Annas
+ἀντέχω	"to resist, withstand, seek after"
+ἡ ἀντιλογία	"contradiction, lawsuit, controversy"
+*** 1901 - 1925 (/course/66563/koine-greek-3/77/)	
+ἀντλέω	to draw
+ἄνυδρος	"dry, waterless"
+ἀνυπότακτος	unruly
+ἀποβαίνω	"to turn, go away, depart"
+ἀπογράφω	"to register, enroll"
+ἀποδείκνυμι	"to show, exhibit, demonstrate, commend"
+ἀποδεκατόω	to tithe
+ἀπόκειμαι	to store away
+ἀποκεφαλίζω	to behead
+ἡ ἀπόκρισις	answer; separating
+ἀποκρύπτω	to hide
+ἀποκυλίω	to roll away
+ἀποπλέω	to sail off; to serve
+ἀποςπάω	"to draw, lead away"
+ἡ ἀποςτολή	"sending away; discharge; reward, gift; apostleship; apostolate"
+ἀρεστός	pleasing
+ἡ Ἁριμαθαία	Arimathaea
+ἀριστερός	left hand
+τὸ ἅρμα	chariot
+ὁ ἀρχηγός	"prince, ruler; originator, founder"
+τὸ ἄρωμα	spices
+ἄσπιλος	without spot
+τὸ ἄστρον	star
+ἀσφαλίζω	"to make sure, to keep safe"
+ἄτιμος	"unhonored, dishonored"
+*** 1926 - 1950 (/course/66563/koine-greek-3/78/)	
+ἄτοπος	"out of place, untrodden, odd; paradoxical, absurd"
+αὐτοῦ	"here, there"
+ἀφόβως	without fear
+ἡ ἀφροςύνη	foolishness
+ἄφωνος	"speechless; unsounded, unvoiced; consonant"
+βαθύς	deep
+τὸ βαλλάντιον	coin bag
+ὁ βαπτισμός	"baptism, washing"
+βάπτω	to dip
+ὁ Βαρθολομαῖος	Bartholomew
+ἡ βασίλισσα	queen
+ὁ Βενιαμίν	Benjamin
+βλαστάνω	to sprout
+βλάσφημος	"blasphemous, blasphemer"
+βραχύς	"short, small, little"
+ἡ Γαλατία	Galatia
+τὸ γένημα	"product, harvest, offspring"
+τὸ γέννημα	"produce, harvest, offspring"
+γλυκύς	sweet
+γνήσιος	genuine
+ὁ γογγυσμός	"murmuring, grumbling"
+γονυπετέω	to kneel
+γυμνάζω	"to exercise, harass"
+δαμάζω	"to tame, subdue"
+δανείζω	to lend; borrow
+*** 1951 - 1975 (/course/66563/koine-greek-3/79/)	
+δειπνέω	"to eat, dine"
+τὸ δεσμωτήριον	prison
+ὁ δῆμος	people
+δημόσιος	public
+διαδίδωμι	"to divide, distribute"
+διαπορέω	to doubt
+διάφορος	"different, superior; unlike"
+διηνεκής	continually
+διορύσσω	"to dig through, break through"
+τὸ δόμα	gift; dwelling
+ὁ Ἑβραῖος	Hebrew/Aramaic
+ἡ ἐγκράτεια	self-control
+ἐθνικός	"pagan, Gentile"
+ἡ εἰδωλολατρία	idolatry
+εἰρηνεύω	to have peace
+εἴσειμι	"to enter, come before; recognize"
+εἴωθα	"to be accustomed, custom"
+ἐκδίδωμι	"to give up, publish, hand over, lease"
+ἐκθαμβέω	to be alarmed
+ἐκλείπω	"to fail, desert"
+ἐκπειράζω	"to tempt, test"
+ἐκριζόω	to uproot
+ἐκτίθημι	"to explain, expose, make public"
+ἐκτινάσσω	to shake off
+ἐκτός	unless; outside; (+gen) out of (prep.)
+*** 1976 - 2000 (/course/66563/koine-greek-3/80/)	
+ἐκτός	unless; outside; (+gen) out of (prep.)
+ἐλεάω	"to be merciful, show mercy"
+ἐμμένω	to continue
+ἔμπροςθεν	"(+gen) before, in front of"
+ἡ ἔνδειξις	"indication, evidence"
+ἔνδοξος	"honored, eminent; glorious"
+ἐνενήκοντα	ninety
+ἡ ἐνθύμησις	"inborn idea, esteem, thought"
+ἐξαγοράζω	"to buy time, redeem"
+ἔξειμι	"to go out, go away"
+ἐξουσιάζω	"to exercise authority, have power"
+ἐπακολουθέω	to follow
+τὸ ἐπίβλημα	"piece, house robe"
+ἡ ἐπιβουλή	plot
+ἡ ἐπίθεσις	laying on
+ἡ ἐπισκοπή	"visitation, office, census; providence"
+ἐπιστηρίζω	"to strengthen, support"
+ἐπιφαίνω	"to appear, shine on"
+ἐπιφωνέω	"to cry, answer"
+ἑπτάκις	seven times
+ἡ ἐρημία	"desert, solitude, desolation"
+τὸ ἑρπετόν	"reptile, creeping thing"
+εὐλαβής	"reverent, cautious"
+εὐοδόω	to prosper
+ἡ ζημία	"loss, penalty"
+*** 2001 - 2025 (/course/66563/koine-greek-3/81/)	
+ζυμόω	"to ferment, cause to rise"
+ἡ ἡσυχία	"silence, quiet"
+ὁ Θεσσαλονικεύς	Thessalonian
+θορυβέω	"to stir up, to trouble"
+θρηνέω	"to lament, sing a dirge"
+ἡ θρησκεία	"worship, religion"
+τὸ Θυάτειρα	Thyatira
+ἡ ἴασπις	jasper
+ὁ ἱμάς	"thong, strap"
+ἡ Ἰταλία	Italy
+καθίημι	"to let down, drop"
+καθό	"according to, as, because"
+κακολογέω	"to speak evil of, curse"
+κακοποιέω	"to do evil, harm"
+κακοῦργος	"evil, evil-doer, criminal"
+τὸ κάλυμμα	"veil, covering"
+ἡ κάμηλος	camel
+ἡ κάμινος	furnace
+κάμπτω	to bend
+ἡ Κανά	Cana
+ὁ κανών	"rail, post; limit, rule; principle; canon"
+κατάγνυμι	"to break, shatter"
+κατακαυχάομαι	to boast against
+ὁ κατακλυσμός	"flood, deluge"
+κατακυριεύω	to have power over
+*** 2026 - 2050 (/course/66563/koine-greek-3/82/)	
+ἡ καταλλαγή	reconciliation
+καταπαύω	"to put to rest, depose"
+κατασείω	"to make a sign, give a signal"
+κατασκηνόω	"to live, settle, nest"
+καταφέρω	"to bring down, flow down, fall"
+ὁ κατήγορος	accuser
+καυματίζω	to scorch
+κείρω	"to cut, shave, shear"
+τὸ κέντρον	"sting, goad"
+ὁ κῆνσος	tax
+ἡ κιθάρα	"harp, lyre"
+κινδυνεύω	to be in danger
+τὸ κλῆμα	branch; root
+ἡ κοίτη	"bed, marital relationship"
+κολοβόω	"to shorten, cut off"
+κραταιόω	"to become strong, prevail"
+κράτιστος	most excellent
+τὸ κτῆμα	possession
+τὸ κτῆνος	animal
+τὸ κτίσμα	"what is created, creature"
+κυκλόω	"to surround, encircle"
+κυλλός	crippled
+τὸ κυνάριον	dog
+ἡ κυριότης	"power, authority"
+λαγχάνω	to receive; cast lots
+*** 2051 - 2075 (/course/66563/koine-greek-3/83/)	
+λάθρᾳ	secretly
+τὸ λάχανον	vegetable
+ἡ λέπρα	leprosy
+τὸ λόγιον	"oracle, revelation; oracular breast-piece"
+λοιδορέω	"to insult, scoff at, revile"
+ὁ Λώτ	Lot
+μαθητεύω	"to make a disciple of, teach"
+μαλακός	"soft, fancy; homosexual"
+ὁ μαμωνᾶς	"mammon (Aram. money, wealth)"
+τὸ μάννα	manna
+ἡ μάχη	"battle, quarrel, strife"
+μάχομαι	"to quarrel, fight"
+τὸ μέλι	honey
+τὸ μεσονύκτιον	midnight
+μετακαλέω	to call
+μεταμορφόω	to change form
+ἡ μετοικεσία	"deportation, captivity"
+μηνύω	to make known
+μίγνυμι	"to mix, mingle"
+μιμέομαι	to imitate
+ἡ μοιχαλίς	adulteress
+μοιχάω	to commit adultery
+ὁ μύλος	"mill, millstone; molar"
+μωραίνω	"make foolish, tasteless"
+ἡ νεότης	youth
+*** 2076 - 2100 (/course/66563/koine-greek-3/84/)	
+τὸ νῖκος	"victory, victory prize"
+ὀδυνάω	to cause pain; to be in pain
+ὁ οἰκέτης	"slave, servant"
+ὁ ὄλεθρος	"destruction, ruin"
+ὅλως	at all
+ὁμιλέω	to associate with; to talk; to have intercourse
+ὁμοῦ	together
+ἡ ὄνος	donkey
+ἡ ὀπτασία	vision
+ἡ ὅρασις	sight; vision
+ὀρθῶς	rightly
+ἡ ὁρκωμοςία	"oath, oathtaking"
+ὀρχέομαι	to dance
+τὸ ὀστέον	bone
+οὐδέπω	not yet
+ὄφελον	I wish
+τὸ ὀψώνιον	wages
+παλαιόω	"to make or become old, wear out"
+παραζηλόω	to make jealous
+παρακολουθέω	to follow closely
+παραμένω	"to remain, continue"
+παραμυθέομαι	to comfort; appease
+παρασκευάζω	to prepare
+παραφέρω	"to take away, transport"
+παραχειμάζω	to spend the winter
+*** 2101 - 2125 (/course/66563/koine-greek-3/85/)	
+πάροικος	stranger
+ὁ πατριάρχης	family leader; patriarch
+πειθαρχέω	to obey
+πέμπτος	fifth
+τὸ πέρας	"end, finish"
+περιΐστημι	"to put around; stand around, avoid"
+ἡ περισσεία	"advantage, abundance"
+περισσῶς	all the more
+πετρώδης	rocky place
+ὁ πῆχυς	arm; cubit
+πικραίνω	to make bitter
+ἡ πικρία	bitterness
+τὸ πλάτος	breadth
+ὁ πλεονέκτης	greedy person
+πλήν	"(+gen) only, except (prep.); but, nevertheless (conj.)"
+ἡ πληροφορία	"full assurance, certainty"
+πλουσίως	richly
+τὸ ποίμνιον	flock
+ὁ πολίτης	citizen
+ὁ πόνος	"labor, toil; pain"
+πόρρω	far away
+ἡ πορφύρα	purple cloth
+πορφυροῦς	purple
+πού	somewhere
+πραΰς	gentle
+*** 2126 - 2150 (/course/66563/koine-greek-3/86/)	
+προγράφω	to write formerly
+προοράω	to see ahead of time
+προςάγω	to bring to
+ὁ προςήλυτος	resident alien; proselyte
+πρόσκαιρος	temporary
+ἡ προςωπολημψία	favoritism
+ἡ πρωτοκαθεδρία	seat of honor
+ὁ πύργος	tower
+ῥαντίζω	to sprinkle
+ἡ ῥύμη	street
+ὁ σάκκος	sackcloth
+σάρκινος	"fleshly, worldly, mortal, weak"
+ἡ Σάρρα	Sarah
+σεμνός	serious; reverent; (n) holiness
+ὁ Σιλουανός	Silvanus
+τὸ Σινά	Sinai
+σκολιός	"crooked, bent"
+σκύλλω	to trouble
+τὸ σουδάριον	handkerchief
+σπουδαίως	earnestly
+στέγω	to cover; to endure
+ἡ στενοχωρία	distress
+στερεός	"firm, solid"
+ἡ στοά	"porch, portico"
+τὸ στρουθίον	small sparrow; ostrich
+*** 2151 - 2175 (/course/66563/koine-greek-3/87/)	
+ὁ στῦλος	pillar
+συγκλείω	to shut up; make a prisoner
+συγκληρονόμος	sharing inheritance together; co-inheritor
+ὁ συγκοινωνός	participant
+τὸ σῦκον	fig
+συμβουλεύω	"to advise, counsel"
+συμπαραλαμβάνω	"to take with, take along"
+συμπορεύομαι	"to come with, go with"
+συναρπάζω	"to seize, catch up"
+ὁ σύνδεσμος	"ligament, joint; bond, chain; conspiracy"
+συνετός	intelligent
+τὸ σωτήριον	salvation; peace-offering
+σώφρων	self-controlled; wise
+τὸ ταμεῖον	inner room
+ἡ ταπείνωσις	humiliation
+ὁ ταῦρος	bull
+ὁ τετραάρχης	tetrarch
+τετρακόσιοι	four hundred
+ὁ τεχνίτης	craftsman
+τηλικοῦτος	so great
+ὁ τράγος	male goat
+ὑμνέω	"to sing a hymn, praise song; to praise"
+τὸ ὑπερῷον	upstairs room
+ὑποδέχομαι	to receive
+ὑποςτέλλω	to draw back
+*** 2176 - 2200 (/course/66563/koine-greek-3/88/)	
+ἡ ὑποταγή	obedience
+ἡ φάτνη	"manger, feeding trough, stall"
+ὁ Φίλιπποι	Philippi
+ὁ φραγμός	"fence, wall"
+τὸ φρόνημα	mind
+φρουρέω	"to keep, to guard; to set a garrison"
+ἡ χάλαζα	"hail, hailstone"
+χλωρός	green
+χοϊκός	made of earth
+ψηλαφάω	"to touch, feel"
+ψυχρός	cold
+τὸ ψωμίον	piece of bread
+ἡ ὠδίν	"birth-pains, pain"
+ὡραῖος	beautiful
+ὠφέλιμος	beneficial
+ἀββά	(Aram.) Father; (fem.) Abiah
+ὁ Ἀβιά	Abijah
+ἀγγαρεύω	to compel
+ἡ ἁγιωσύνη	holiness
+ἄγριος	wild
+ἀδημονέω	to be very heavy
+τὸ ἀδίκημα	"sin, unrighteousness"
+ἡ ἀθανασία	immortality
+αἱρέω	to choose
+τὸ αἴτημα	request
+*** 2201 - 2225 (/course/66563/koine-greek-3/89/)	
+ἡ αἰχμαλωσία	"captivity, captives"
+ἀκέραιος	harmless
+ἀκυρόω	"to cancel, nullify, render powerless, destroy"
+ἄλαλος	speechless
+ἅλλομαι	"to leap, jump up"
+ἀλοάω	to thresh
+ἄλογος	speechless; unutterable; irrational; unexpected
+τὸ ἄλφα	alpha
+ἡ ἀλώπηξ	fox
+ὁ Ἀμιναδάβ	Aminadab
+ἀμφιέννυμι	to clothe
+ὁ Ἀμώς	Amos; Amoz; Amon
+ἄν	if
+ἡ ἀνάγνωσις	reading
+ἀναζητέω	"to seek, to investigate"
+ἀναστατόω	"to agitate, subvert, overthrow"
+ἀνατρέπω	"to overthrow, throw down, overturn"
+ἀνατρέφω	"to nourish, bring up, educate"
+ἀνεπίλημπτος	"blameless, irreproachable"
+ἀνέρχομαι	"to go up, return, enter"
+ἄνευ	(+gen) without
+ἀνήκω	"to belong to, relate to, be convenient"
+ὁ ἀνθρωποκτόνος	murderer
+ἀνορθόω	"to raise, lift up, restore, make straight"
+ἀντιλαμβάνω	"to take hold of together, support, take part in"
+*** 2226 - 2250 (/course/66563/koine-greek-3/90/)	
+ἀπαίρω	"to remove, lead away"
+ἀπαλλάσσω	"to set free, remove, put away"
+ἀπαλλοτριόω	"to estrange, alienate, be a stranger"
+ἡ ἀπάντησις	"meeting, appointment, occurrence"
+ἀπατάω	to deceive
+ἡ ἀπειλή	"threatening, threat"
+ἀποκαταλλάσσω	to reconcile
+ἀπόκρυφος	hidden
+τὸ ἀποςτάσιον	"departure, divorce notice"
+ἀποςυνάγωγος	banished from a synagogue
+ἀποφεύγω	to escape
+ἀποφθέγγομαι	to utter
+ἀποχωρέω	to depart
+ἀπρόσκοπος	blameless
+ἆρα	then
+ἀργυροῦς	made of silver
+ἀριθμέω	to number
+ἀριστάω	to dine
+τὸ ἄριστον	breakfast; noon meal
+ἀρκετός	sufficient
+ἀροτριάω	to plow
+ἡ ἁρπαγή	"extortion, robbery, seizure"
+ὁ ἀρραβών	down payment
+ἀρτύω	to season
+ὁ ἀρχιτρίκλινος	head steward
+*** 2251 - 2275 (/course/66563/koine-greek-3/91/)	
+ἄσβεστος	unquenchable; (n.) unblemished (plaster)
+ἀστοχέω	"to lose one’s way, miss, fail"
+ἡ ἀσφάλεια	safety
+ἀσφαλῶς	safely
+ἡ ἀσωτία	reckless living; debauchery
+αὐλέω	to play a flute
+ἄφνω	suddenly
+ἀχειροποίητος	made without hands
+ὁ Βαλαάμ	Balaam
+ἡ βάσανος	"torment, torture"
+ὁ βάτος	thorn-bush
+ἡ βάτος	thorn-bush
+ἡ Βερνίκη	Bernice
+ἡ Βηθφαγή	Bethphage
+ἡ βία	violence
+τὸ βιβλαρίδιον	"small scroll, book"
+βιωτικός	pertaining to this life
+ὁ βόθυνος	"ditch, pit, trench"
+τὸ βούλημα	"counsel, will, intent"
+βραδύς	slow
+ὁ βραχίων	arm
+βραχύς	"short, small, little"
+ὁ βυρσεύς	tanner
+ἡ γαλήνη	calmness
+ὁ Γαλλίων	Gallio
+*** 2276 - 2300 (/course/66563/koine-greek-3/92/)	
+ὁ γείτων	neighbor
+ἡ Γεννησαρέτ	Gennesaret
+Γερασηνός	Gerasene
+ἡ Γολγοθᾶ	Golgotha
+ἡ Γόμορρα	Gomorrah
+ὁ γόμος	cargo
+ἡ γυμνότης	nakedness
+δεικνύω	to show
+δειλός	"cowardly, afraid"
+δεκαπέντε	fifteen
+ἡ Δεκάπολις	Decapolis
+δελεάζω	to entice
+ἡ Δέρβη	Derbe
+δεσμεύω	to bind
+τὸ δεσμός	"bond, chain, imprisonment"
+ὁ δεσμοφύλαξ	jailer
+δῆλος	"evident, clear"
+ὁ Δημᾶς	Demas
+ὁ Δημήτριος	Demetrius
+διαβαίνω	"to cross over, come over; transcend"
+διαβλέπω	to see clearly
+διαγγέλλω	to announce through a messenger; to preach
+διαγίνομαι	to live; to pass time
+τὸ διάδημα	"crown, diadem"
+διαζώννυμι	"to wrap around, put on"
+*** 2301 - 2325 (/course/66563/koine-greek-3/93/)	
+ἡ διαίρεσις	diversity
+ἡ διάκρισις	"dispute, dissolution"
+διαρπάζω	"to seize, despoil, plunder"
+διασπείρω	to scatter abroad
+ἡ διασπορά	"Diaspora, dispersion"
+ἡ διαστολή	"order, distinction"
+διαφημίζω	to spread around
+διδακτός	taught
+ὁ Δίδυμος	Didymus (Twin)
+διΐστημι	"to set apart, separate"
+ἡ δίκη	"punishment; justice, right, custom"
+διπλοῦς	double
+δίστομος	two-edged
+ἡ δούλη	slave (f)
+ἡ δραχμή	drachma (weight or coin)
+ὁ δρόμος	"race-course, race; circuit"
+ὁ δυνάστης	"ruler, king, official"
+δυνατέω	"to be able, powerful"
+δυσκόλως	with difficulty
+δωρέομαι	to give
+ἐάνπερ	"if only, if indeed"
+Ἑβραΐς	Hebrew/Aramaic
+ἐγγράφω	"to inscribe, write"
+ἑδραῖος	steadfast
+ἡ εἰλικρίνεια	sincerity
+*** 2326 - 2350 (/course/66563/koine-greek-3/94/)	
+ἑκατονταπλασίων	hundredfold
+ἐκδημέω	to be absent
+ἐκκλάω	"to break open, break off"
+ἐκκλίνω	"to bend away, pervert, turn away"
+ἐκπλέω	to sail
+ἐκπνέω	"to expire, die"
+ἐκτενῶς	"constantly, earnestly"
+ἐκψύχω	"to faint, die"
+ἐλάσσων	"worse, less"
+ἐλαττόω	"to lower, make less"
+ὁ Ἐλιακίμ	Eliakim
+τὸ ἕλκος	"wound, sore, ulcer"
+ὁ Ἑλληνιστής	Hellenist
+ἐναντίον	(+gen) before
+ἑνδέκατος	eleventh
+ἐνδημέω	to be at home
+ἐνεργής	"active, effective"
+ἐνέχω	to have a grudge against; be entangled
+τὸ ἔνταλμα	commandment
+ἔντρομος	trembling
+ἐντυλίσσω	to wrap in
+ὁ Ἑνώχ	Enoch
+ἐξακολουθέω	to follow
+ἐξανίστημι	"to raise up, rise up"
+ἐξετάζω	to scrutinize; to examine carefully
+*** 2351 - 2375 (/course/66563/koine-greek-3/95/)	
+ἡ ἔξοδος	"departure, end, death, Exodus"
+ἐξώτερος	"outer, outermost"
+ἐπάγω	to bring upon
+ἐπάν	"when, as soon as"
+ἐπανάγω	"to bring, return"
+ἐπαρκέω	"to supply, help, assist"
+ὁ Ἐπαφρᾶς	Epaphras
+ἐπιβαρέω	to be a fiscal burden on
+ἐπιβιβάζω	"to set on, put on"
+ἐπιβλέπω	"to look on with care, attentiveness"
+ἐπιμελέομαι	to take care of
+ἐπιστέλλω	to write
+ὁ ἐπίτροπος	"steward, guardian, administrator; procurator"
+ἐπιχειρέω	"to undertake, attempt"
+ὁ Ἔραστος	Erastus
+ἡ ἐρήμωσις	desolation
+ἑρμηνεύω	to interpret
+ἡ ἑσπέρα	evening
+ὁ Ἑσρώμ	Hesrom
+ὁ ἑταῖρος	"friend, companion; accompanying"
+ἑτοίμως	readily
+ὁ εὐαγγελιστής	evangelist
+εὐαρεστέω	"to please, be pleasing"
+εὐγενής	of high or noble birth
+εὔθετος	"fit, well-fitting"
+*** 2376 - 2400 (/course/66563/koine-greek-3/96/)	
+εὐθυμέω	to take courage; cheer up
+εὐκαιρέω	to have leisure
+εὐσεβής	"godly, pious"
+εὐσχημόνως	honestly
+ἡ εὐχή	"prayer, vow"
+εὔχρηστος	"profitable, useful"
+ἡ εὐωδία	"fragrant aroma, sweet smell"
+ἐχθές	yesterday
+ὁ Ζαβουλών	Zebulun
+ὁ Ζακχαῖος	Zacchaeus
+ζεστός	hot
+ὁ Ζοροβαβέλ	Zerubbabel
+ζώννυμι	"to fasten, dress"
+ζῳογονέω	"to save life, keep alive"
+ἡλίκος	"how great, how large"
+ὁ Ἡρῳδιανοί	Herodians
+ὁ Ἠσαῦ	Esau
+ὁ ἦχος	"sound, noise; roar"
+θαμβέω	"to amaze, be amazed"
+τὸ θάμβος	deep sleep; fear; amazement
+τὸ θέατρον	"theater, spectacle"
+θεῖος	(adj) divine; (n) uncle
+ἡ θεραπεία	"house servants; healing, medical treatment; purification"
+τὸ θέρος	summer
+θιγγάνω	to touch
+*** 2401 - 2425 (/course/66563/koine-greek-3/97/)	
+θροέω	"to alarm, stir"
+τὸ ἴαμα	healing; remedy
+ἡ ἴασις	"healing, health"
+ὁ Ἰερεμίας	Jeremiah
+ἱερός	"holy, sacred; (subst.) temple; (pl.) sacrifices"
+ἡ ἱερωσύνη	priesthood
+ὁ ἰός	poison
+ὁ Ἰοῦστος	Justus
+ἡ ἰσότης	equality
+τὸ ἴχνος	"footprint, track"
+ὁ Ἰωβήδ	Obed
+ὁ Ἰωσῆς	Joses
+ἡ καθαίρεσις	destruction
+ἡ καθέδρα	seat
+ὁ Κάϊν	Cain
+κακοπαθέω	to suffer hardship
+ὁ κακοποιός	mischievous; evil-doing
+καταγελάω	to laugh at
+καταγινώσκω	to condemn
+κατακαλύπτω	to cover
+τὸ κατάκριμα	condemnation
+τὸ κατάλυμα	"inn, guest room"
+καταμαρτυρέω	to witness against
+καταναρκάω	to be a burden
+καταξιόω	to consider worthy
+*** 2426 - 2450 (/course/66563/koine-greek-3/98/)	
+καταπίπτω	to fall down
+κατέναντι	"(+gen) opposite, before, in the presence of"
+κατενώπιον	(+gen) before
+κατευθύνω	"to direct, keep straight, guide, prosper"
+ἡ κατηγορία	accusation
+κατισχύω	"to overcome, strengthen"
+ὁ καύσων	burning heat
+ὁ κεντυρίων	"centurion, leader of a hundred"
+ὁ κεραμεύς	potter
+κεράννυμι	"to mix, mingle"
+τὸ κέρδος	gain
+ὁ κῆρυξ	"herald, preacher"
+ὁ Κλαύδιος	Claudius
+τὸ κλίμα	region
+ὁ κολλυβιστής	moneychanger
+ἡ κολυμβήθρα	"pool, reservoir"
+κοπάζω	"to stop, cease, rest"
+ἡ κουστωδία	guard (of soldiers)
+τὸ κρανίον	skull
+ὁ κρημνός	"steep bank, precipice"
+τὸ κριτήριον	"judgment-seat, tribunal, case"
+κύκλῳ	(+gen) round (prep.);  in a circle (adv.)
+ὁ Κύπριος	Cypriot
+ὁ κῶμος	carousing
+ἡ λαῖλαψ	"storm, whirlwind"
+*** 2451 - 2475 (/course/66563/koine-greek-3/99/)	
+ἡ λαλιά	speech
+ἡ λεγιών	legion
+λειτουργέω	"to serve, worship"
+τὸ λεπτόν	lepton (copper coin)
+ὁ Λευίτης	Levite
+λίθινος	made of stone
+ἡ λοιδορία	"insult, cursing, reviling"
+ὁ Λουκᾶς	Luke
+ἡ Λύδδα	Lydda
+ἡ Λύστρα	Lystra
+τὸ Λύστρα	Lystra
+λυτρόω	"to ransom, redeem"
+ἡ λύτρωσις	"redemption, ransoming"
+ὁ μακαρισμός	"blessedness, happiness"
+ἡ μαλακία	"sickness, disease, weakness"
+ὁ Μανασσῆς	Manasseh
+ὁ μαστός	"breast, chest"
+ἡ ματαιότης	futility
+ἡ μεγαλειότης	majesty
+ἡ μεγαλωσύνη	majesty
+ὁ μεγιστάν	"person of greatness, noble"
+ἡ μέθη	strong drink; drunkenness
+μενοῦνγε	"rather, on the contrary"
+μέσος	middle; (prep +gen) in the middle; (adv) among
+τὸ μεσουράνημα	mid-heaven
+*** 2476 - 2500 (/course/66563/koine-greek-3/100/)	
+ἡ μετάθεσις	change
+τὸ μῆκος	length (dimension)
+ἡ Μίλητος	Miletus
+ἡ μισθαποδοςία	reward
+ὁ μισθωτός	hired laborer
+τὸ μνημόσυνον	memorial
+μνηστεύω	"to become betrothed, engaged for marriage"
+ὁ μόδιος	basket (for grain)
+μοιχαλίς	adulteress
+ἡ μοιχεία	adultery
+ὁ μοιχός	adulterer
+μολύνω	to defile
+ἡ μορφή	"form, appearance"
+ὁ μόχθος	"labor, trouble"
+ὁ Ναασσών	Nahshon
+ὁ ναύτης	sailor
+ὁ νεανίας	young man
+νεκρόω	to put to death
+ὁ Νεφθαλίμ	Naphtali
+νηφάλιος	"sober, self-controlled"
+ὁ Νινευίτης	Ninevite
+ὁ νομοδιδάσκαλος	teacher of the law
+νοςφίζω	"to steal, pilfer; turn away, deprive"
+ἡ νουθεσία	warning
+ὁ νυμφών	wedding hall; bridal chamber
+*** 2501 - 2525 (/course/66563/koine-greek-3/101/)	
+ξυράω	to shave
+ὁ οἰκεῖος	"kin, family member; friendly, personal, suitable"
+οἰκτίρμων	compassionate
+οἴομαι	to suppose
+ὀκνηρός	"hesitating, unready, timid; troublesome"
+τὸ ὁλοκαύτωμα	whole burnt offering
+ὅμως	"yet, nevertheless; likewise"
+ὀρέγω	to desire
+ὁ ὄρθρος	dawn; early in the morning
+τὸ ὄρνεον	bird
+ὀρύσσω	"to dig, dig out"
+ὁσάκις	as often as
+ἡ ὀφειλή	"debt, duty"
+τὸ ὄφελος	gain
+ἡ ὄψις	face
+τὸ πάθος	"trouble; emotion; passion, suffering"
+ὁ παιδαγωγός	teacher
+ἡ πανοπλία	"whole, complete armor"
+πάντοθεν	on all sides
+παραβαίνω	"to disobey, deviate, transgress"
+ὁ παράδεισος	garden; paradise
+ἡ παραθήκη	deposit
+ἡ παρακοή	disobedience
+παρακούω	to refuse to listen
+ὁ παρεπίδημος	"pilgrim, refugee"
+*** 2526 - 2550 (/course/66563/koine-greek-3/102/)	
+ἡ πατριά	"family, people"
+πατρῷος	paternal; belonging from one’s father
+ἡ πέδη	"fetter, chain"
+ἡ πεντηκοςτή	Pentecost
+ἡ Πέργη	Perga
+περιέρχομαι	to travel about
+περικαλύπτω	to cover
+περιπίπτω	"to strike; to fall among, to embrace"
+περιποιέω	"to preserve, keep safe, keep alive; purchase"
+περιφέρω	to carry about
+ἡ πλάξ	tablet
+πλατύνω	to enlarge
+πλέκω	to weave
+ὁ πλόος	voyage
+πλουτίζω	to enrich
+πλύνω	to wash
+πνίγω	to choke
+πνικτός	choked
+πολυτελής	expensive
+πολύτιμος	expensive
+ὁ Πόντιος	Pontius
+πορθέω	to destroy
+ποςάκις	how often?
+ἡ πόσις	drink
+τὸ πρεσβυτέριον	body of elders
+*** 2551 - 2575 (/course/66563/koine-greek-3/103/)	
+ὁ πρεσβύτης	"older, elderly man"
+ἡ Πρίσκα	Prisca
+ἡ Πρίσκιλλα	Priscilla
+πρόδηλος	very evident
+ὁ προδότης	traitor
+πρόθυμος	"willing, eager, ready"
+ἡ προκοπή	"progress, success"
+προλαμβάνω	to do ahead of time; to be surprised
+προνοέω	"to try, care for"
+ἡ προςαγωγή	access; freedom to enter
+προςτρέχω	to run out; to run to
+προτίθημι	to set forth; to purpose
+προχειρίζω	"to choose, to appoint"
+ἡ πρύμνα	stern (of a boat)
+πτύω	to spit
+ἡ πτωχεία	poverty
+ἡ πύρωσις	burning
+ἡ πώρωσις	stubbornness
+τὸ ῥάπισμα	"stroke, blow, slap"
+ἡ ῥύσις	flow
+ὁ Σαλαθιήλ	Salathiel
+ὁ Σαμουήλ	Samuel
+ἡ Σάρδεις	Sardis
+σαρόω	to sweep
+σεβαστός	"emperor, imperial; sovereign"
+*** 2576 - 2600 (/course/66563/koine-greek-3/104/)	
+ἡ σεμνότης	seriousness; reverence
+ὁ σής	moth
+ὁ Σιλωάμ	Shiloah; Siloam
+σιτευτός	"well-fed, fattened"
+σκάπτω	to dig
+ἡ σκάφη	bowl; ship’s boat
+τὸ σκέλος	leg
+τὸ σκήνωμα	"tent, dwelling place"
+σκιρτάω	"to stir, leap"
+ἡ σκληροκαρδία	"hard-heartedness, stubbornness"
+σκοτεινός	dark
+σκοτόω	to darken
+σπαράσσω	to tear apart; to throw into convulsions
+ὁ σπόγγος	sponge
+ἡ σποδός	ashes
+σπόριμος	seed-bearing; grainfield
+σπουδαῖος	"earnest, excellent"
+ἡ σταφυλή	bunch of grapes
+ἡ στέγη	roof
+στεῖρα	"barren, infertile woman"
+στενός	narrow
+στενοχωρέω	to keep in check; be narrow; press closely
+στερεόω	to make strong
+ὁ Στεφανᾶς	Stephanas
+στεφανόω	to crown
+*** 2601 - 2625 (/course/66563/koine-greek-3/105/)	
+ἡ συγγένεια	"kindred, family"
+συγκοινωνέω	to take part in
+συγκρίνω	to interpret; to compare
+συζάω	to live with
+συμμαρτυρέω	to demonstrate to be true
+συμπληρόω	"to draw near, swamp"
+συναίρω	to settle
+ὁ συναιχμάλωτος	fellow-prisoner
+συνακολουθέω	"to accompany, follow"
+συναναμίγνυμι	to mix together; to associate with
+συναπάγω	to lead off; condescend
+συναποθνῄσκω	to die with
+συνεγείρω	to help raise up; to raise together with
+ἡ συνήθεια	companionship; custom
+συντάσσω	"to appoint, instruct; arrange, organize, compose"
+συντηρέω	to preserve
+συντίθημι	"to put together, to agree"
+συντρέχω	to run together
+ἡ σφαγή	"slaughter, butchery"
+σχεδόν	almost
+ἡ σωφροςύνη	"self-control; prudence, good sense"
+ἡ Ταρσός	Tarsus
+τὸ τελώνιον	tax booth
+τετρααρχέω	to be tetrarch
+τετράπους	four-footed
+*** 2626 - 2650 (/course/66563/koine-greek-3/106/)	
+ἡ τέχνη	"craft, trade; skill"
+ἡ τήρησις	"keeping, custody"
+ἡ Τιβεριάς	Tiberias
+τίλλω	to pluck
+τοίνυν	"therefore, then, hence"
+τρέμω	to tremble
+ἡ τρίβος	path
+ὁ Τρόφιμος	Trophimus
+τρυγάω	to gather
+τυφλόω	to blind
+τυφόω	to be proud
+ὑάλινος	made of glass
+ἡ ὕβρις	"insolence; insult; violence, injury"
+ἡ ὑδρία	"water jar, pitcher"
+ἡ ὑπάντησις	meeting
+ὑπεραίρω	to surpass; be lifted up; to lord it over
+ὑπεράνω	(+gen) far above; from now on
+ὑπερεκπερισσοῦ	"more than ever, far beyond"
+ὑπήκοος	obedient
+ὑπηρετέω	to serve
+ὑποδέω	"to put on, bind on"
+ἡ ὑπόμνησις	"remembrance, reminder"
+ὑπονοέω	to think; to expect
+ὑποφέρω	to endure
+φανερῶς	"openly, publicly"
+*** 2651 - 2675 (/course/66563/koine-greek-3/107/)	
+ὁ Φαρές	Perez
+φάσκω	"to claim, assert, affirm"
+φθέγγομαι	"to speak, utter"
+φιλόξενος	hospitable
+φιλοτιμέομαι	to vie for; aspire
+φοβερός	"terrible, fearful, horrifying"
+ἡ Φοινίκη	Phoenicia
+φράσσω	"to silence, stop"
+ἡ Φρυγία	Phrygia
+ὁ φύλαξ	guard
+φυσικός	"natural, native; physical"
+φύω	"to grow, come up"
+τὸ χρῖσμα	anointing; anointment
+ὁ Χριστιανός	Christian
+ψευδής	"lie, false; liar"
+ἡ ψῆφος	"stone, pebble"
+τὸ ψῦχος	"cold, coldness"
+τὸ ὦ	"omega; O (address), or Oh!; alas"
+ὠδίνω	to suffer birth-pains
+τὸ ὠτίον	ear
+ὁ Ἀβιούδ	Abiud
+ὁ Ἅγαβος	Agabus
+ἀγαθοεργέω	to do good
+ἡ Ἁγάρ	Hagar
+ἡ ἀγγελία	message
+*** 2676 - 2700 (/course/66563/koine-greek-3/108/)	
+ἄγε	come! go!
+ἄγναφος	unshrunk
+ἡ ἁγνεία	purity
+ἡ ἁγνότης	purity
+ἡ ἀγνωσία	ignorance
+ἀγοραῖος	belonging to the marketplace; loafer
+ἡ ἄγρα	"catch, prey"
+ἡ ἀγριέλαιος	wild olive tree
+ἡ ἀγρυπνία	"sleeplessness, care"
+ἡ ἀδελφότης	brotherhood
+ἄδηλος	"unseen, unknown, obscure, uncertain"
+ἀδιάλειπτος	continual
+ἀδυνατέω	to be impossible
+ἄζυμος	unleavened bread
+ὁ Ἀζώρ	Azor
+ἀθέμιτος	unlawful thing
+ἄθεσμος	illicit; wicked
+ἡ ἀθέτησις	"nullification, removal"
+Ἀθηναῖος	Athenian
+ἀθλέω	to strive
+ἀθῷος	innocent
+ἀΐδιος	eternal
+ὁ Αἰθίοψ	Ethiopian
+ὁ Αἰνέας	Aeneas
+ὁ αἶνος	praise
+*** 2701 - 2725 (/course/66563/koine-greek-3/109/)	
+αἰσχροκερδής	greedy
+αἰφνίδιος	sudden
+ἄκακος	innocent
+ἀκάνθινος	made of thorns
+ἀκατακάλυπτος	uncovered
+ἀκατάκριτος	uncondemned
+ἀκατάστατος	unstable
+ἡ ἀκρασία	"excess, lack of self-control"
+ἀκριβόω	to inquire diligently
+ἀκρογωνιαῖος	cornerstone
+ἡ ἀλάβαστρος	alabaster jar
+τὸ ἀλάβαστρος	alabaster jar
+ἡ ἀλαζονεία	boasting
+ὁ ἀλαζών	"boaster, imposter; boastful (adj)"
+ἀλαλάζω	"to wail, clang, shout aloud"
+ὁ Ἀλεξανδρεύς	Alexandrian
+Ἀλεξανδρῖνος	of Alexandria
+τὸ ἄλευρον	"meal, grain"
+ἀληθεύω	"to tell the truth, prove faithful"
+ἀλήθω	to grind
+ἁλίζω	to salt
+ἡ ἅλων	"floor, threshing-floor"
+ἅμα	"(+dat) together, at once, at the same time"
+ἄμαχος	not a brawler
+ἀμέμπτως	blamelessly
+*** 2726 - 2750 (/course/66563/koine-greek-3/110/)	
+ἀμέριμνος	"secure, without care"
+ἀμετάθετος	"immutable, unalterable, unchanged"
+ἀμεταμέλητος	without regret
+ἄμετρος	boundless; excessive
+ὁ ἀναβαθμός	stairs
+τὸ ἀνάγαιον	upstairs room
+ἀναγεννάω	"to beget again, cause to be born again"
+ἀναδείκνυμι	"to show, reveal, designate"
+ἀναδέχομαι	"to receive, to accept"
+ἀναζάω	to come back to life
+ἀναθεωρέω	to observe closely
+ἀναίτιος	"blameless, innocent"
+ἀνακαθίζω	to sit up
+ἀνακαινόω	to renew
+ἡ ἀνακαίνωσις	renewal
+ἀνακαλύπτω	"to uncover, disclose"
+ἀνακεφαλαιόω	"to sum up, bring together"
+ἀναλόω	"to consume, destroy"
+ἀναλύω	"to set free, return, separate, unravel"
+ἀνάπειρος	crippled
+ἀναπολόγητος	without excuse
+ἀνάπτω	"to light up, set fire to"
+ἀνασείω	to stir up
+ἀνασπάω	"to pull out, bring up"
+ἀνατίθημι	"to set up, dedicate, declare, ascribe"
+*** 2751 - 2775 (/course/66563/koine-greek-3/111/)	
+ἀναφαίνω	to appear
+ἀνεξιχνίαστος	"untraceable, inscrutable"
+ἀνετάζω	"to inquire, search out, question"
+ἀνευρίσκω	"to discover, seek"
+ἡ ἀνθρακιά	heap of hot embers
+ἀνθρωπάρεσκος	"people-pleasing, people-pleaser"
+ἄνιπτος	unwashed
+ἡ ἄνοια	madness
+ἀνοικοδομέω	"to rebuild, restore, repair"
+ἀνόμως	lawlessly
+ἀνόσιος	unholy
+ἡ ἀνοχή	forbearance; cessation; truce
+τὸ ἀντάλλαγμα	"something as an exchange, item for exchange"
+τὸ ἀνταπόδομα	repayment
+ἀνταποκρίνομαι	"to reply, answer back again"
+ἡ ἀντιμισθία	recompense
+ἀντιπαρέρχομαι	"to come upon, surprise, pass by on the other side"
+ἀνώτερος	"higher, upper"
+ἀνωφελής	"unprofitable, useless"
+ἡ ἀξίνη	axe
+ἀπαιτέω	"to demand back, ask again"
+ἁπαλός	"tender, delicate"
+ἀπαντάω	"to come before, meet, encounter"
+ἀπειλέω	to threaten
+ἀπεκδύομαι	to take off; to disarm
+*** 2776 - 2800 (/course/66563/koine-greek-3/112/)	
+ἁπλοῦς	"single, sincere, plain, simple"
+ἀποβάλλω	"to cast away, cast off"
+ἡ ἀποβολή	loss
+ἡ ἀπογραφή	"registration, list, enrollment"
+ἀπόδεκτος	"acceptable, pleasing"
+ἡ ἀποδοχή	"approval, acceptance; restoration"
+ἡ ἀπόθεσις	removal
+ἡ ἀποκαραδοκία	eager expectation
+ἀποκυέω	"to bear young, bring forth"
+ἡ ἀπόλαυσις	enjoyment
+ἀπολούω	to wash away
+ἀποπλανάω	to lead astray
+ἀποπνίγω	to choke
+ἡ ἀποςτασία	"apostasy, rebellion"
+ἀποτελέω	"to complete, bring to an end; produce"
+ἀποτινάσσω	to shake off
+ἡ ἀποτομία	severity
+ἀποτόμως	severely
+ἀποχωρίζω	to separate
+ἡ Ἀραβία	Arabia
+ὁ Ἀράμ	"Aram, Ram"
+Ἄρειος	Arius
+ὁ ἀρσενοκοίτης	one who has sex with men
+ὁ ἀρχάγγελος	archangel
+ὁ Ἄρχιππος	Archippus
+*** 2801 - 2825 (/course/66563/koine-greek-3/113/)	
+ἀσάλευτος	unmovable
+ὁ Ἀσάφ	Asaph
+ὁ Ἀσήρ	Asher
+τὸ ἀσσάριον	assarion (copper coin)
+ἡ Ἆσσος	Assos
+ἀστεῖος	beautiful
+ἀστήρικτος	unstable
+ἄστοργος	lacking normal affection
+ἀστράπτω	to flash
+ἀσχημονέω	to behave improperly
+ἡ ἀσχημοςύνη	shameless act
+ἀτάκτως	in idleness
+ἄτεκνος	childless
+ἄτερ	(+gen) without
+ἡ ἀτμίς	"vapor, mist, smoke"
+αὐθάδης	self-willed
+αὐθαίρετος	of one’s own accord
+ὁ αὐλητής	flute-player
+αὐλίζομαι	"to lodge, spend the night"
+ἡ αὔξησις	increase
+αὔξω	to increase
+αὐστηρός	"hard, severe"
+ἡ αὐτάρκεια	self-sufficiency
+αὐτόματος	by itself; (n.) by chance
+ὁ ἀφεδρών	latrine
+*** 2826 - 2850 (/course/66563/koine-greek-3/114/)	
+ἡ ἁφή	"joint; infection, wound"
+ἀφιλάργυρος	not covetous
+ἀφοράω	"to look away, look up to"
+ἀφρίζω	to foam
+ὁ Ἀχάζ	Ahaz
+ἀχάριστος	ungrateful; unthankful
+ὁ Ἀχίμ	Achim
+ἀχρεῖος	"useless, unprofitable, worthless"
+τὸ ἄχυρον	"straw, chaff"
+βαρέως	with difficulty
+ὁ Βαρσαββᾶς	Barsabbas
+βασίλειος	royal; emperor
+βδελύσσομαι	"to feel nausea, be sick; be loathsome"
+ἡ βεβαίωσις	confirmation
+βεβηλόω	"to desecrate, profane"
+ἡ Βέροια	Berea
+βιάζω	"to force, use violence"
+ἡ Βιθυνία	Bithynia
+βλάπτω	to harm
+ὁ Βόες	Boaz
+ἡ βοήθεια	help
+βολίζω	take a depth sounding
+ὁ βορρᾶς	north
+ὁ βουλευτής	counselor
+ὁ βουνός	"hill, high place"
+*** 2851 - 2875 (/course/66563/koine-greek-3/115/)	
+τὸ βραβεῖον	prize
+βραδύνω	"to delay, go slowly, be negligent"
+ἡ βροχή	rain
+βυθίζω	to sink
+ὁ Γαβριήλ	Gabriel
+Γαλατικός	Galatian
+ὁ Γαμαλιήλ	Gamaliel
+τὸ Γεθσημανί	Gethsemane
+γελάω	to laugh
+ἡ γενεαλογία	genealogy
+τὸ γενέσια	birthday
+γεννητός	born
+γηράσκω	"to be old, grow old"
+τὸ γλωσσόκομον	"box, money bag; coffin"
+δειγματίζω	"to disgrace, make a show"
+δεινῶς	terribly
+δεκαοκτώ	eighteen
+δεκατόω	"to collect tithes, pay tithes"
+δερμάτινος	"made of skin, hide"
+ὁ δεσμώτης	prisoner
+διαβεβαιόομαι	to speak confidently
+διαγινώσκω	"to discern, investigate"
+διαγογγύζω	"to murmur, grumble"
+διάγω	to pass through; to lead; to spend one’s life
+διαιρέω	"to divide, separate"
+*** 2876 - 2900 (/course/66563/koine-greek-3/116/)	
+διαλαλέω	to discuss
+διαπονέομαι	to grieve
+διαπρίω	to be furious
+διασαφέω	"to explain, show clearly"
+διασπάω	to tear apart
+ἡ διαταγή	"decree, ordinance"
+διατηρέω	"to keep, maintain"
+διαχειρίζω	to slay
+διδακτικός	able to teach
+τὸ δίδραχμον	two-drachma coin
+ἡ διετία	two years
+διϊσχυρίζομαι	to rely on
+ἡ δικαίωσις	justification
+ὁ δικαστής	judge
+διοδεύω	to travel through
+διόπερ	"therefore, therefore indeed"
+διστάζω	to doubt
+ἡ διχοςτασία	"division, dissension"
+διχοτομέω	to cut in two
+δίψυχος	double-minded
+τὸ δοκίμιον	"test, act of testing"
+ἡ Δορκάς	Dorcas
+ἡ δόσις	"giving, gift"
+δοῦλος	"slave; slavish, servile"
+ἡ δοχή	"banquet, reception"
+*** 2901 - 2925 (/course/66563/koine-greek-3/117/)	
+δυναμόω	to strengthen
+δύνω	to set
+δυσβάστακτος	hard to carry
+τὸ δώρημα	gift
+ἐγκαινίζω	"to renew, restore, consecrate, dedicate"
+τὸ ἔγκλημα	"accusation, charge, complaint"
+ἐγκρατεύομαι	"to show self control, restrain oneself"
+ἐγκρύπτω	"to hide, hide in, conceal"
+ὁ Ἑζεκίας	Hezekiah
+εἰλικρινής	sincere
+εἵνεκεν	"on account of, because of, for the sake of"
+εἰρηνικός	"peaceable, peaceful"
+ἡ ἔκβασις	"end, result, way of escape"
+ἐκδιηγέομαι	"to tell in detail, declare"
+ἔκδικος	"avenging, avenger; given over"
+ἐκεῖσε	there
+ἐκκαθαίρω	"to clean out, clear out"
+ἐκκεντέω	"to goad, spur out, pierce, stab"
+ἐκκλείω	to exclude
+ἐκμυκτηρίζω	"to deride, mock"
+ἑκουσίως	"willingly, voluntarily"
+ἔκπαλαι	for a long time
+ἐκπέμπω	to send out
+ἐκτελέω	to finish
+ἐκτρέφω	"to nourish, raise"
+*** 2926 - 2950 (/course/66563/koine-greek-3/118/)	
+ἔκφοβος	terrified
+ἐκφύω	to put out
+ἑκών	willing
+ἐλαφρός	"slight, insignificant"
+ὁ Ἐλεάζαρ	Eleazar
+ἐλεεινός	"pitied, pitiable, miserable"
+ἐλεήμων	"pitiful, merciful"
+ὁ Ἐλιούδ	Eliud
+ἑλίσσω	to roll up
+ἡ Ἑλληνίς	Greek (f)
+Ἑλληνιστί	in the Greek language
+ἐλλογέω	"to reckon, impute"
+ἐλωΐ	Eloi (Aram.  my God)
+ἐμβάπτω	to dip
+ὁ ἐμπαίκτης	mocker
+ἐμπλέκω	to entangle; be involved in
+ἐμπορεύομαι	"to do business, engage in trade"
+ἐμφανής	visible
+ἐναγκαλίζομαι	to take in one’s arms
+ἔναντι	(+gen) before
+ἐνάρχομαι	to begin
+ἐνδιδύσκω	to wear
+ἔνδικος	just
+ἐνδοξάζομαι	to glorify
+ἡ ἐνέδρα	"ambush, plot"
+*** 2951 - 2975 (/course/66563/koine-greek-3/119/)	
+ἐνεδρεύω	to lie in wait for
+τὸ ἐνέργημα	operation
+ἐνευλογέω	"to bless, praise"
+ἔνθεν	"from there, thereupon, from that point"
+ἐνθυμέομαι	"to think, ponder"
+ἐνισχύω	to strengthen
+ἡ ἔννοια	"intent, conception"
+ἔννομος	lawful
+ἡ ἑνότης	"unity, oneness"
+ἐνοχλέω	"to trouble, cause trouble"
+ἐνταφιάζω	to prepare for burial
+ὁ ἐνταφιασμός	preparation for burial
+ἡ ἔντευξις	"prayer, petition"
+ἐντός	"(+gen) within, inside"
+ἡ ἐντροπή	shame
+ἐνυπνιάζομαι	to dream
+ἐξαγγέλλω	"to make known, proclaim"
+ἑξακόσιοι	six hundred
+ἐξανατέλλω	"to cause to spring up, spring up"
+ἐξαπορέω	"to be in despair, trouble"
+ἐξαρτίζω	"to be completed, equip"
+ἐξεγείρω	"to raise up, wake up, arise, revive"
+ἐξορύσσω	"to dig out, break up"
+ἔξωθεν	"(+gen) from outside, outside"
+ἐξωθέω	"to eject, drive out, expel"
+*** 2976 - 3000 (/course/66563/koine-greek-3/120/)	
+ἔοικα	to be like
+τὸ ἐπάγγελμα	promise
+ἐπαιτέω	to beg
+ἐπαναπαύομαι	"to rest on, rely on"
+ἐπανέρχομαι	to return
+ἐπανίστημι	to rise; to turn against
+ἐπάνω	"(+gen) over, above, upon, on"
+ἡ ἐπαρχεία	province
+ὁ Ἐπαφρόδιτος	Epaphroditus
+ἐπεγείρω	"to awaken, stir up, raise"
+ἐπενδύομαι	"to put on, be fully clothed"
+ἐπηρεάζω	to mistreat
+ἐπιδέχομαι	"to receive, welcome, take on"
+ἐπιδημέω	to visit
+ἡ ἐπιείκεια	"kindness, forbearance"
+ἐπικατάρατος	cursed
+ἐπιλέγω	"to call, name, choose"
+ἐπιλύω	to explain
+ἐπιούσιος	the next day
+ἡ ἐπιπόθησις	longing
+ἐπιρίπτω	"to throw at, throw on, add to"
+ἐπίσημος	"notable; well-known; symbol ""6"" (neuter)"
+ἐπισκοπέω	"to see to it, oversee, take care"
+ἡ ἐπίστασις	"pressure, burden, stirring up"
+ἡ ἐπισυναγωγή	"assembly, gathering"
+*** 3001 - 3025 (/course/66563/koine-greek-3/121/)	
+ἐπιφέρω	"to bring, give, carry"
+ἐπιφώσκω	to dawn
+ἡ ἐπιχορηγία	"supply, support"
+ἐπιχρίω	to anoint
+ἐποπτεύω	"to see, observe, oversee; visit, punish"
+ἐρεθίζω	to provoke
+τὸ ἔριον	wool
+ὁ ἔριφος	"young goat, kid"
+ἡ ἑρμηνεία	"interpretation, explanation, translation"
+ὁ Ἑρμῆς	Hermes
+ἐρυθρός	red
+τὸ ἔσοπτρον	mirror
+ἔσχατος	last
+ἐσώτερος	(+gen) inside (prep.); inner (adv.)
+ἑτεροδιδασκαλέω	to teach different doctrine
+ἡ Εὕα	Eve
+ἡ εὐεργεσία	"service, act of kindness"
+εὐθυδρομέω	to run a straight course (Philo)
+εὐθύνω	"to make straight, correct"
+ἡ εὐκαιρία	opportune moment
+εὔκαιρος	"suitable, timely"
+εὐκαίρως	"when convenient, opportunely"
+ἡ εὐλάβεια	"reverence, caution"
+εὐνουχίζω	to make a eunuch
+εὐσεβέω	"to act piously, to worship"
+*** 3026 - 3050 (/course/66563/koine-greek-3/122/)	
+εὐσεβῶς	in a godly way
+εὔσπλαγχνος	"tenderhearted, compassionate"
+εὐτόνως	"vigorously, vehemently"
+ὁ Εὐφράτης	Euphrates
+ἡ εὐφροςύνη	"joy, merriment"
+ἡ ἐφημερία	division
+ἐφικνέομαι	to reach
+ἐφοράω	"to watch over, observe"
+τὸ ζεῦγος	yoke of beasts
+ὁ Ζεύς	Zeus
+ζέω	to boil
+τὸ ζῆλος	zeal; jealousy
+ζωγρέω	to catch alive
+ἡγεμονεύω	to govern
+τὸ ἡδύοςμον	mint
+ἠλί	eli (Aram. my God)
+ὁ ἧλος	nail
+ἡνίκα	when
+ἡσύχιος	quiet
+ἡττάομαι	"to be overcome, defeated"
+τὸ ἥττημα	defeat
+ὁ Θαδδαῖος	Thaddaeus
+θάλπω	"to warm, take care of"
+τὸ θαῦμα	"wonder, miracle"
+ὁ Θεόφιλος	Theophilus
+*** 3051 - 3075 (/course/66563/koine-greek-3/123/)	
+ὁ θεριστής	reaper
+θριαμβεύω	to triumph over
+τὸ θυγάτριον	little daughter
+ἡ θυρίς	window
+ὁ θυρωρός	"doorkeeper, porter"
+ἡ θυρωρός	"doorkeeper, porter"
+ὁ Ἰάϊρος	Jairus
+ἡ ἱερατεία	"priestly office, priesthood"
+τὸ ἱεράτευμα	priesthood
+ὁ Ἱεροςολυμίτης	Jerusalemite
+ὁ Ἰεχονίας	Jehoiachin (Jeconiah)
+ἱκανόω	"to make able, fit"
+ἱλάσκομαι	"to be merciful, pardon, be propitious"
+ὁ ἱλασμός	"propitiation, means of forgiveness"
+τὸ ἱλαστήριον	"propitiation, place of forgiveness"
+ἵλεως	"merciful, propitious"
+ἱματίζω	to clothe
+ὁ Ἰουδαϊσμός	Judaism
+ὁ Ἰούλιος	Julius; July
+ὁ ἱππεύς	"cavalryman, horseman"
+ἡ ἶρις	rainbow; iris plant
+τὸ ἰχθύδιον	little fish
+ὁ Ἰωαθάμ	Jotham
+ἡ Ἰωάννα	Joanna
+ὁ Ἰωράμ	Joram
+*** 3076 - 3100 (/course/66563/koine-greek-3/124/)	
+ὁ Ἰωσαφάτ	Jehosaphat
+ὁ Ἰωσίας	Josiah
+ὁ καθηγητής	"teacher, leader"
+καθήκω	"to belong to; to be lawful, proper; to let down, lower"
+ὁ Καϊνάμ	Cainan
+ἡ καινότης	newness
+καίτοι	"yet, and yet, although"
+κακουχέω	to mistreat
+ὁ κάμηλος	camel
+καμμύω	to close
+κάμνω	to be sick; be weary
+ὁ Καναναῖος	Cananaean (Zealot)
+ἡ Καππαδοκία	Caphtor; Cappadocia
+ὁ καρδιογνώστης	heart-knower
+καταβάλλω	to throw down
+καταδουλόω	to enslave
+καταδυναστεύω	to oppress
+κατακλάω	to break
+κατακλείω	to shut up
+κατακολουθέω	to follow after
+ἡ κατάκρισις	condemnation
+ἡ καταλαλιά	"slander, defamation"
+καταπονέω	to oppress
+καταποντίζω	"to throw into the sea, sink"
+κατασκάπτω	"to ruin, destroy, burn to the ground"
+*** 3101 - 3125 (/course/66563/koine-greek-3/125/)	
+ἡ κατασκήνωσις	"building, nest"
+καταστέλλω	"to settle, appease"
+καταστρέφω	to overthrow; be subdued; ended
+ἡ καταστροφή	"ruin, destruction"
+ἡ κατάσχεσις	possession holding back
+κατατίθημι	"to lay, place"
+καταφεύγω	to flee
+καταχέω	to pour
+καταχράομαι	"to use, make full use"
+κατεξουσιάζω	to rule over
+τὸ κατοικητήριον	"house, dwelling place"
+τὸ καῦμα	heat
+καυσόω	to burn up
+ἡ Κεγχρεαί	Cenchrea
+ἡ κενοφωνία	foolish talk
+ἡ κεραία	small stroke (of a letter)
+τὸ κεράμιον	"jar, earthen vessel"
+τὸ κεφάλαιον	"main thing, main point; chapter"
+κιθαρίζω	to play the harp or lyre
+ὁ κιθαρῳδός	harpist
+ἡ κλάσις	breaking
+ὁ κλίβανος	"oven, furnace"
+τὸ κλινίδιον	"cot, stretcher"
+ἡ κλοπή	theft
+ὁ κλύδων	"wave, raging water"
+*** 3126 - 3150 (/course/66563/koine-greek-3/126/)	
+ὁ κοδράντης	quadrans (copper coin)
+κολάζω	to punish
+ἡ κόλασις	punishment
+κομάω	to wear long hair
+κονιάω	"to whitewash, plaster"
+κορέννυμι	"to fill, have enough"
+κοςμικός	worldly
+κόσμιος	"respectable, modest"
+τὸ κρέας	meat
+ὁ Κρής	Cretan; Kerethite
+κρίθινος	made of barley
+τὸ κρίνον	lily
+ὁ Κρίσπος	Crispus
+ὁ κρύσταλλος	"crystal, ice"
+κρυφαῖος	"secret, hidden"
+ὁ κυβερνήτης	"leader, navigator"
+κυκλόθεν	"from all around; (+gen) about, all around"
+κύπτω	"to stoop, bow down"
+ἡ κυρία	"lady, master (f); dominion, power (LXX)"
+κυριακός	"Lord’s; Lord’s Day (Sunday); ""church"" (f)"
+κυρόω	"to ratify, confirm, put into effect"
+λατομέω	"to cut, hew"
+λεμά	lema (Aram. why?)
+τὸ λέντιον	"towel, cloth, apron"
+λευκαίνω	to whiten
+*** 3151 - 3175 (/course/66563/koine-greek-3/127/)	
+ὁ λίβανος	frankincense
+ὁ λιβανωτός	frankincense; censer
+λικμάω	"to winnow, crush, scatter"
+ὁ λιμήν	"harbor; haven, refuge"
+τὸ λίνον	linen
+ἡ λίτρα	pound (Roman weight)
+ἡ λογεία	contribution
+λογικός	rational
+ὁ λογισμός	"thought, deliberation, reasoning; reason"
+ὁ λοίδορος	"abusive, slanderer"
+ὁ λοιμός	"pestilence, pestilent"
+ὁ Λούκιος	Lucius
+τὸ λουτρόν	"washing, washing place; baptism"
+ἡ Λυδία	Lydia
+ὁ Λυσίας	Lysias
+τὸ λύτρον	ransom
+ὁ Μαθθάτ	Matthat
+ὁ Μαθθίας	Matthias
+μακαρίζω	"to bless, call happy"
+μακρός	"long, far"
+μακρός	"long, far"
+μάτην	"futile, purposeless, vainly"
+ὁ Ματθάν	Matthan
+ὁ Ματταθίας	Mattithiah; Mattathias
+ἡ μεθοδεία	craftiness
+*** 3176 - 3200 (/course/66563/koine-greek-3/128/)	
+ὁ μέθυσος	drunken; drunkard
+μελετάω	"to care for, study, practice, think about"
+ὁ Μελχί	Melchi
+μέμφομαι	"to find fault with, to blame"
+ὁ μερισμός	"division, distribution"
+ἡ μεσημβρία	"noon, south"
+ἡ Μεσοποταμία	Mesopotamia
+ὁ Μεσσίας	Messiah
+μετάγω	"to guide, direct"
+μεταίρω	"to depart, remove, carry off"
+μεταλλάσσω	to change; quit (life)
+μεταξύ	(+gen) between; meanwhile (adv.)
+μεταστρέφω	to turn
+μετοικίζω	"to move, send off, deport"
+μηδαμῶς	by no means
+μήποτε	"lest, perhaps"
+μήπω	not yet
+ἡ μήτρα	womb; matrix
+ὁ μίσθιος	hired laborer
+μισθόω	to hire
+ὁ Μιχαήλ	Michael
+ἡ μονή	"room, place to live"
+μονόφθαλμος	one-eyed
+ἡ μόρφωσις	outward form
+μυρίος	"innumerable, countless; (adv.) incessantly"
+*** 3201 - 3225 (/course/66563/koine-greek-3/129/)	
+ἡ Μυσία	Mysia
+μωμάομαι	to blame
+ἡ νάρδος	oil of nard
+ναυαγέω	to be shipwrecked
+ἡ νέκρωσις	death
+νεύω	to motion
+νήθω	to spin
+νῆστις	fasting
+ὁ Νικολαΐτης	Nicolaitan
+ἡ νομή	pasture
+νομίμως	lawfully
+νομοθετέω	to give the law; to legislate
+νυστάζω	"to become sleepy, drowsy"
+νωθρός	"lazy, sluggish"
+ἡ ξενία	hospitable; friendly gift; guest room
+ξύλινος	wooden; wood-carrier
+ὀγδοήκοντα	eighty
+ἡ ὁδοιπορία	"traveling, journey"
+ἡ ὀδύνη	"pain, sorrow"
+ὁ ὀδυρμός	"mourning, lamentation"
+ὁ Ὀζίας	"Uzziah; Ozias, Uzza"
+ἡ ὀθόνη	large cloth; sail; fine linen
+τὸ οἰκητήριον	dwelling; home
+ὁ οἰκιακός	member of a household
+οἰκτίρω	"to have pity, compassion"
+*** 3226 - 3250 (/course/66563/koine-greek-3/130/)	
+ὁ οἰνοπότης	"wine-drinker, drunkard"
+ὁλόκληρος	"sound, whole"
+τὸ ὄμμα	eye
+ὁμοιοπαθής	similar; of the same nature
+ἡ ὁμοιότης	"likeness, resemblance"
+ὁ Ὀνήσιμος	Onesimus
+ὁ Ὀνησίφορος	Onesiphorus
+ὀνικός	to a donkey
+ἡ ὀπή	"cave, hole, opening"
+ὄπισθεν	(+gen) behind (prep.); from behind (adv.)
+ἡ ὀργυιά	fathom
+ὀρεινός	"mountainous, hilly"
+ὀρθός	"straight, upright, erect; orthodox"
+ὁρκίζω	to implore; make someone swear
+ἡ ὁρμή	zeal; rushing; assault
+ἡ ὄρνις	bird; rooster (m); hen (f)
+ὀρφανός	orphaned
+ἡ ὁσιότης	"piety, holiness"
+ὀστράκινος	made of baked clay
+οὐρανόθεν	from heaven
+ἡ οὐσία	"property; being, essence"
+τὸ ὀφείλημα	debt
+ἡ ὀφθαλμοδουλία	service to impress
+ὀψέ	(+gen) after (prep.); evening (adv.)
+ὁ πάγος	"mountain peak, rocky hill, Areopagus (with AREIOS); frost"
+*** 3251 - 3275 (/course/66563/koine-greek-3/131/)	
+ὁ παιδευτής	"instructor, corrector"
+ἡ παῖς	child; slave
+ἡ παλιγγενεσία	regeneration
+παντελής	"complete, completely"
+παραβιάζομαι	to defy; to press; to persuade
+παραινέω	"to advise, exhort"
+παράκειμαι	to be present
+παραλέγομαι	to lie beside; to sail along
+παραλογίζομαι	to deceive
+ὁ παραπικρασμός	provocation
+παρεισέρχομαι	to enter
+παρεκτός	"(+gen) except, apart from"
+παρίημι	"to let go, neglect, droop"
+παροικέω	to live in as a stranger
+ἡ παροικία	"journeying; lodging; diocese, district"
+ὁ πάροινος	drunkard
+παροξύνω	to provoke; be upset
+ὁ παροξυσμός	sharp disagreement; encouragement
+παροργίζω	to make angry
+ἡ Πάφος	Paphos
+παχύνω	"to grow thick, dull"
+πεζῇ	on foot
+ἡ πεῖρα	attempt; test
+τὸ πέλαγος	depths; open sea
+πεντακόσιοι	five hundred
+*** 3276 - 3300 (/course/66563/koine-greek-3/132/)	
+ἡ Πέργαμος	Pergamus
+περιαστράπτω	to flash around
+τὸ περιβόλαιον	"cloak, covering"
+περίεργος	meddling; magical; curious
+περιέχω	"to surround, seize, contain, say"
+ἡ περικεφαλαία	helmet
+περιλάμπω	to shine around
+περιλείπομαι	"to remain, survive"
+πέρυσι	year ago
+τὸ πηδάλιον	rudder
+πηλίκος	how great? how large?
+πικρός	bitter
+πικρῶς	bitterly
+πιστικός	"pure, genuine"
+πλάσσω	"to form, mould; make up, fabricate"
+ὁ πλήκτης	"violent person, bully"
+πνευματικῶς	spiritually
+ἡ πνοή	wind
+πόθεν	from where?
+τὸ ποίημα	created thing; deed
+ὁ πολιτάρχης	"city ruler, official"
+ἡ πολιτεία	"citizenship; civic life, republic; life"
+πολιτεύομαι	"to live, live as a citizen"
+τὸ πόμα	drink
+ὁ Πόντος	Pontus (Sea)
+*** 3301 - 3325 (/course/66563/koine-greek-3/133/)	
+ὁ Πόπλιος	Publius
+ἡ πορεία	journey
+ὁ πορισμός	"gain, profit"
+πόρρωθεν	"from afar, at a distance"
+ὁ πράκτωρ	"officer, ruler"
+ἡ πρασιά	garden-bed; group
+ἡ πρεσβεία	embassy; ambassador; messenger; presbyterate
+πρεσβεύω	"to be an ambassador; to serve, negotiate"
+προαμαρτάνω	to sin previously
+προβάλλω	to put forth
+ἡ πρόγνωσις	foreknowledge/forechoice
+ὁ πρόγονος	parent
+προενάρχομαι	to begin
+προεπαγγέλλω	to promise long before
+προετοιμάζω	to prepare ahead of time
+προκαταγγέλλω	to announce beforehand
+ἡ πρόνοια	"foreknowledge, forethought; providence, care"
+προπετής	reckless
+προπορεύομαι	to go beforehand
+ὁ προςαίτης	beggar
+προςαναπληρόω	"to supply, fill up"
+προςανατίθημι	to go for advice
+ἡ προςδοκία	expectation
+προςκολλάω	"to cause to stick; to stick, cleave to; to be united"
+προςκυλίω	to roll against
+*** 3326 - 3350 (/course/66563/koine-greek-3/134/)	
+προςλαλέω	to speak to
+προςοχθίζω	to be angry
+προςρήσσω	to burst upon
+προτρέχω	to run ahead
+προϋπάρχω	to exist previously
+προφέρω	to bring out
+προφητικός	prophetic
+ἡ προφῆτις	prophet (f)
+ἡ πρωΐα	"early morning, in the morning"
+πρωϊνός	morning
+ἡ πρῷρα	bow (of a boat)
+τὸ πτερύγιον	wing; edge; highest point; projection
+πτοέω	to terrify
+τὸ πτύον	winnowing fork
+ἡ πτῶσις	fall; disaster; carcass
+πυκνός	"frequent, quick, rapid, shrewd"
+ἡ πυρά	funeral pyre; burnt sacrifice altar
+πυρέσσω	to have a fever
+πυρράζω	to be red
+πυρρός	red
+ἡ Ῥαάβ	Rahab
+ῥαββουνί	Rabbi (Aram. my teacher)
+ῥαβδίζω	to beat with a stick
+ὁ ῥαβδοῦχος	policeman; jailer
+τὸ ῥάκος	piece of cloth; rag
+*** 3351 - 3375 (/course/66563/koine-greek-3/135/)	
+ὁ ῥαντισμός	sprinkling
+ῥαπίζω	to strike
+ἡ ῥαφίς	needle
+ῥιζόω	to take root
+ὁ Ῥοβοάμ	Rehoboam
+ὁ Ῥοῦφος	Rufus
+ῥυπαρός	"shabby, impure, dirty"
+σαβαχθάνι	(Aram.) you have abandoned me
+Σαβαώθ	"Sabaoth (Heb.) of hosts, armies"
+ὁ Σαδώκ	Zadok
+ὁ Σαλά	Shelah
+ἡ Σαλήμ	Salem
+ὁ Σαλμών	Salu
+ἡ Σαλώμη	Salome
+ἡ Σαμαρῖτις	Samaritan (f)
+τὸ σανδάλιον	sandal
+τὸ σάρδιον	"sardius, carnelian"
+τὸ σάτον	saton (dry measure)
+τὸ σέβασμα	object or place of worship
+σεληνιάζομαι	to be moonstruck; to be an epileptic
+ἡ σιαγών	"cheek, jaw"
+ἡ σιγή	silence
+Σιδώνιος	Sidonian; Sidonius
+τὸ σκῆνος	tent
+σκυθρωπός	gloomy
+*** 3376 - 3400 (/course/66563/koine-greek-3/136/)	
+ἡ Σμύρνα	Smyrna
+ἡ σμύρνα	myrrh
+σοφίζω	to give wisdom; make wise
+ἡ Σπανία	Spain
+σπαργανόω	to wrap in baby cloths
+σπαταλάω	to live in luxury
+σπάω	"to draw out; draw in; suck, sniff"
+σπένδω	to pour out as a drink-offering
+ὁ σπίλος	stain
+σπιλόω	to stain
+ἡ στεῖρα	"barren, infertile woman"
+στέλλω	to journey; to avoid
+ὁ στεναγμός	groaning
+ἡ στρατεία	warfare; fight; expedition; army host
+ἡ στρατιά	army
+στρηνιάω	to live in sensuality
+στυγνάζω	"to be sad, shocked, appalled"
+συγκάθημαι	to sit with; dwell with
+συγκαθίζω	to sit together
+συγκακοπαθέω	to share in suffering
+συγκεράννυμι	"to mix together, unite"
+συζεύγνυμι	to join together
+συζωοποιέω	to make alive together with
+συκοφαντέω	to accuse falsely; to slander
+συμβασιλεύω	to reign with
+*** 3401 - 3425 (/course/66563/koine-greek-3/137/)	
+συμμέτοχος	"sharer, co-partaker"
+σύμμορφος	to share the likeness
+συμπαθέω	to have sympathy for
+συμπάσχω	to suffer together
+συμπέμπω	to send with
+τὸ συμπόσιον	"drinking party, banquet, group"
+σύμφορος	advantageous
+συναθλέω	to work together with
+συναθροίζω	to gather
+συναναβαίνω	"to go up together, to travel with"
+συναντιλαμβάνομαι	"to assist, help"
+συναρμολογέω	to be joined together
+σύνειμι	to be present (sum)
+συνεισέρχομαι	to go in with
+ὁ συνέκδημος	traveling partner
+συνευωχέομαι	to eat together
+συνθάπτω	to bury with
+συνθλάω	"to break, shatter"
+συνθλίβω	"to collide, to crowd"
+σύνοιδα	"to know; to share knowledge, be aware of; conscience (subst)"
+συνοράω	"to see, consider"
+ἡ συνοχή	distress
+συντόμως	briefly
+συσπαράσσω	to throw into convulsions
+συστέλλω	"to humilate, subdue; to wrap up"
+*** 3426 - 3450 (/course/66563/koine-greek-3/138/)	
+ὁ συστρατιώτης	fellow-soldier
+συστρέφω	"to gather, tie up"
+ἡ συστροφή	"uproar, band, conspiracy"
+συσχηματίζω	to conform to
+ἡ Συχέμ	Shechem
+τὸ σχῆμα	"form, outward form"
+τὸ σχοινίον	rope
+σχολάζω	to have leisure; to devote oneself to
+σωματικός	bodily
+σωρεύω	to heap
+ὁ Σωσθένης	Sosthenes
+ἡ Ταβιθά	Tabitha
+ἡ ταλαιπωρία	misery; hardship
+ταλαίπωρος	wretched; miserable
+ὁ τάραχος	"agitation, confusion"
+ὁ Ταρσεύς	Tarsean
+τάχα	"perhaps; quickly, presently"
+ταχινός	soon
+ὁ τέκτων	carpenter; craftsman
+ἡ τελειότης	completeness
+ἡ τελείωσις	"completion, fulfillment"
+ὁ Τέρτυλλος	Tertullus
+τεσσαρεσκαιδέκατος	fourteenth
+τεσσερακονταετής	forty years old
+τιμωρέω	"to punish, torment"
+*** 3451 - 3475 (/course/66563/koine-greek-3/139/)	
+ὁ τίτλος	"inscription, notice"
+τοιγαροῦν	"therefore, then"
+ὁ τόκος	"childbirth, offspring; produce, interest"
+τραυματίζω	to wound
+τραχύς	"rugged, rough, harsh, savage"
+τριακόσιοι	three hundred
+ὁ τρίβολος	"briar, thistle"
+τὸ τρύβλιον	"bowl, cup"
+ἡ τρυφή	"dainty; delight; luxury, self-indulgence"
+ὁ ὑβριστής	insolent person
+ὁ Ὑμέναιος	Hymenaeus
+ὁ ὕμνος	hymn; praise song
+ἡ ὕπαρξις	"possession, property"
+ὑπεναντίος	against; meeting; opposed
+ὑπερλίαν	"outstanding, special"
+ὑπέρογκος	boastful; difficult
+ἡ ὑπεροχή	"height; authoritativeness, dignity"
+ὑπερπερισσεύω	to increase more
+τὸ ὑποζύγιον	donkey
+ὑποπλέω	to sail under shelter of
+ὑποτίθημι	to put under; to risk; to point out
+ἡ ὑποτύπωσις	pattern
+ὑποχωρέω	to withdraw
+ὑπωπιάζω	"to wear out, treat severely"
+ἡ ὕσσωπος	hyssop
+*** 3476 - 3500 (/course/66563/koine-greek-3/140/)	
+ἡ ὑστέρησις	"need, want"
+τὸ ὕψωμα	height; exaltation
+ὁ φάγος	glutton
+ἡ φανέρωσις	"disclosure, manifestation"
+τὸ φάντασμα	ghost
+ἡ φαρμακεία	"sorcery, magic"
+ὁ φάρμακος	"poisoner; magician, sorcerer"
+τὸ φέγγος	"light, splendor"
+φειδομένως	sparingly
+ἡ φήμη	report
+ὁ φθόγγος	sound
+ἡ Φιλαδέλφεια	Philadelphia
+ἡ φιλανθρωπία	"kindness, love of mankind"
+φιλάργυρος	"money-loving, avaricious"
+ἡ φιλοξενία	hospitality
+φλογίζω	to set on fire
+ὁ φοῖνιξ	"palm tree, palm branch; date-palm, date"
+φορτίζω	to burden
+φραγελλόω	beat with a whip
+ἡ φρήν	mind; understanding
+ἡ φρόνησις	wisdom
+ὁ φωλεός	"hole, den"
+ὁ φωστήρ	"light, star"
+ὁ φωτισμός	light
+χαλεπός	"fierce, harsh, difficult"
+*** 3501 - 3525 (/course/66563/koine-greek-3/141/)	
+χαλιναγωγέω	to bridle
+ὁ χαλινός	"bit, bridle"
+τὸ χαλκολίβανον	fine bronze
+χαμαί	to the ground; on the ground
+ἡ Χανάαν	Canaan
+χαριτόω	"to be gracious, be favored, bestow on freely"
+ἡ Χαρράν	Haran
+χειραγωγέω	to lead by the hand
+χειροτονέω	"to appoint, choose"
+ἡ χιών	snow
+ἡ χλαμύς	cloak
+ἡ χοῖνιξ	measure (quart-sized)
+ἡ χολή	gall; gall bladder
+ἡ Χοραζίν	Chorazin
+χορηγέω	to supply
+ὁ χοῦς	"soil, dust"
+ὁ χρεοφειλέτης	debtor
+ἡ χρῆσις	"use, profit"
+χρυσόω	to cover with gold
+ὁ ψευδάδελφος	false brother
+ἡ ψευδομαρτυρία	false testimony
+ὁ ψευδόμαρτυς	false witness
+ὁ ψευδόχριστος	false Christ
+ψηφίζω	"to figure out, count"
+τὸ ψιχίον	small crumb
+*** 3526 - 3550 (/course/66563/koine-greek-3/142/)	
+ψωμίζω	"to feed, to give away"
+ὁ ὦμος	shoulder
+τὸ ὠτάριον	ear
+ἡ ὠφέλεια	"advantage, gain"
+ὁ Ἀβαδδών	Abaddon
+ἀβαρής	not burdensome
+ὁ Ἀβιαθάρ	Abiathar
+ἡ Ἀβιληνή	Abilene
+ἡ ἀγαθοποιΐα	doing good
+ὁ ἀγαθοποιός	doing good
+ἡ ἀγανάκτησις	indignation
+τὸ ἀγγεῖον	vessel
+ἀγγέλλω	to announce
+τὸ ἄγγος	container
+ἀγενεαλόγητος	without genealogy
+ἀγενής	"insignificant, inferior"
+ἡ ἁγιότης	holiness
+ἡ ἀγκάλη	arm
+τὸ ἄγκιστρον	hook
+ὁ ἁγνισμός	purification
+τὸ ἀγνόημα	error
+ἁγνῶς	"sincerely, purely"
+ἄγνωστος	unknown
+ἀγράμματος	"unlearned, illiterate"
+ἀγραυλέω	to be outdoors
+*** 3551 - 3575 (/course/66563/koine-greek-3/143/)	
+ἀγρεύω	to catch
+ἡ ἀγωγή	manner of life
+ἡ ἀγωνία	agony
+ἀδάπανος	without charge
+ὁ Ἀδδί	Addi
+ἡ ἀδηλότης	uncertainty
+ἀδήλως	uncertainly
+ἀδιάκριτος	"without partiality, mixed"
+ἀδίκως	wrongfully
+ὁ Ἀδμίν	Admin
+ἄδολος	sincere
+Ἀδραμυττηνός	Adramyttium
+ὁ Ἀδρίας	Adriatic Sea
+ἡ ἁδρότης	abundance
+ἡ Ἄζωτος	Azotus
+ἄθεος	"ungodly, godless"
+ἡ ἄθλησις	struggle
+ἀθροίζω	to gather together
+ἀθυμέω	to be discouraged
+αἴγειος	goatskin
+ἡ αἰδώς	"modesty; respect, honor"
+ἡ αἱματεκχυσία	shedding of blood
+αἱμορροέω	to bleed
+ἡ αἴνεσις	praise
+τὸ αἴνιγμα	"riddle, enigma"
+*** 3576 - 3600 (/course/66563/koine-greek-3/144/)	
+ἡ Αἰνών	Aenon
+αἱρετίζω	to choose
+αἱρετικός	"factious; heretical, heretic"
+αἰσθάνομαι	to perceive
+ἡ αἴσθησις	"judgment, perception, knowledge"
+τὸ αἰσθητήριον	senses
+αἰσχροκερδῶς	greedily
+ἡ αἰσχρολογία	filthy speech
+ἡ αἰσχρότης	"filthiness, shamefulness"
+τὸ αἰτίωμα	"charge, accusation"
+αἰχμαλωτεύω	to lead captive
+ὁ αἰχμάλωτος	captive
+ἀκαιρέομαι	to lack opportunity
+ἀκαίρως	untimely
+ἀκατάγνωστος	cannot be condemned
+ἀκατάλυτος	"endless, perpetual"
+ἀκατάπαυστος	unceasing
+τὸ Ἁκελδαμάχ	Akeldama
+ἀκλινής	"unswerving, regular"
+ἀκμάζω	"to ripen, to be ripe, flourish"
+ἀκμήν	"yet, still"
+ἀκρατής	lacking self-control
+ἄκρατος	"without mixture, unmixed"
+ἡ ἀκρίβεια	accuracy; precise meaning
+ἀκριβής	"strict, precise, exact"
+*** 3601 - 3625 (/course/66563/koine-greek-3/145/)	
+τὸ ἀκροατήριον	hearing place
+τὸ ἀκροθίνιον	spoils
+ἀκωλύτως	unhindered
+ἄκων	unwilling
+ἀλάλητος	unutterable
+ἡ ἀλεκτοροφωνία	"before dawn, cockcrow"
+ἁλιεύω	to fish
+τὸ ἀλίσγημα	pollution
+ἀλλαχόθεν	from elsewhere; some other way
+ἀλλαχοῦ	elsewhere
+ἀλληγορέω	"to speak allegorically, figuratively"
+ὁ ἀλλογενής	"stranger, foreigner, alien"
+ὁ ἀλλοτριεπίσκοπος	busybody
+ἀλλόφυλος	"foreign, Philistine"
+ἄλλως	otherwise
+ἡ ἀλόη	aloes
+ἁλυκός	salt
+ἄλυπος	"painless, free from pain"
+ἀλυσιτελής	unprofitable
+ἡ ἅλωσις	"capture, capturing"
+ἀμαθής	unlearned
+ἀμαράντινος	unfading
+ἀμάραντος	unfading
+ἀμάρτυρος	"unattested, without witness, evidence"
+ἀμάω	"to mow, reap"
+*** 3626 - 3650 (/course/66563/koine-greek-3/146/)	
+ἡ ἀμέθυστος	amethyst
+ἀμετακίνητος	unmovable
+ἀμετανόητος	"impenitent, unrepentant"
+ὁ ἀμήτωρ	motherless person
+ἡ ἀμοιβή	"exchange, alternation, repayment"
+ὁ ἀμπελουργός	"dresser of vineyard, vineyard-worker"
+ὁ Ἀμπλιᾶτος	Ampliatus
+ἀμύνομαι	"to defend, take revenge"
+ἀμφιβάλλω	to cast a net
+τὸ ἀμφίβληστρον	net
+ἀμφιέζω	to clothe
+ἡ Ἀμφίπολις	Amphipolis
+τὸ ἄμφοδον	street block; stronghold
+ἀμώμητος	blameless
+τὸ ἄμωμον	amomum (a spice)
+ἀνά	"up, upon, on; (adv.) thereupon; each, apiece"
+ἀναβάλλω	"to lay on, throw on, to defer"
+ἀναβιβάζω	"to bring up, draw, drag"
+ἡ ἀνάβλεψις	recovering of sight
+ἀναβοάω	to cry
+ἡ ἀναβολή	delay
+ἀναγκαστῶς	under compulsion
+ἀναγνωρίζω	"to make known; see again, recognize"
+ἡ ἀνάδειξις	showing
+ἀναδίδωμι	"to deliver, to give over"
+*** 3651 - 3675 (/course/66563/koine-greek-3/147/)	
+ἀναζώννυμι	to gird up
+ἀναζωπυρέω	"to stir up, to rekindle"
+ἀναθάλλω	"to flourish, sprout anew"
+τὸ ἀνάθημα	gift; accursed thing
+ἡ ἀναίδεια	"persistence, shamelessness"
+ἡ ἀναίρεσις	"death, destruction"
+ἀνακαινίζω	to renew
+ἡ ἀνάκρισις	examination
+ἡ ἀνάλημψις	"receiving up, a taking up"
+ἡ ἀναλογία	proportion
+ἀναλογίζομαι	to consider
+ἄναλος	lose saltiness
+ἡ ἀνάλυσις	departure
+ἀναμάρτητος	"without sin, innocent"
+ἀναμένω	"to wait for, remain"
+ἀνανεόω	to renew
+ἀνανήφω	to regain senses
+ἀναντίρρητος	undeniable; indisputable
+ἀναντιρρήτως	without objection
+ἀνάξιος	unworthy
+ἀναξίως	unworthily
+ἀναπείθω	"to persuade, dissuade"
+ἀναπηδάω	"to jump up, bound, leap back; stand up"
+ἀναπτύσσω	"to unfold, unroll, open"
+ἀναρίθμητος	innumerable
+*** 3676 - 3700 (/course/66563/koine-greek-3/148/)	
+ἀνασκευάζω	to subvert
+ἀνασταυρόω	to crucify again
+ἀναστενάζω	to groan deeply
+ἀνατάσσομαι	"to compile, write"
+ἀναφωνέω	to speak out
+ἡ ἀνάχυσις	pouring out; wide stream; excess
+ἡ ἀνάψυξις	"refreshing; rest, repose"
+ἀναψύχω	to refresh
+ὁ ἀνδραποδιστής	kidnapper
+ἀνδρίζομαι	"to act like a man, be brave"
+ὁ Ἀνδρόνικος	Andronicus
+ὁ ἀνδροφόνος	murderous; murderer
+ἀνεκδιήγητος	unspeakable
+ἀνεκλάλητος	unspeakable
+ἀνέκλειπτος	unfailing
+ἀνελεήμων	unmerciful
+ἀνέλεος	merciless
+ἀνεμίζω	driven with the wind
+ἀνένδεκτος	impossible
+ἀνεξεραύνητος	unsearchable
+ἀνεξίκακος	patient
+ἀνεπαίσχυντος	with no need for shame; unashamed
+ἀνεύθετος	unsuitable
+ὁ ἀνεψιός	"nephew, cousin"
+τὸ ἄνηθον	dill
+*** 3701 - 3725 (/course/66563/koine-greek-3/149/)	
+ἀνήμερος	"untame, wild, savage"
+ἀνθομολογέομαι	"to confess openly, sing praise, give thanks"
+ὁ ἄνθραξ	"charcoal, coal"
+ἡ Ἅννα	"Hannah, Anna"
+ἡ ἄνοιξις	opening
+ἀνταγωνίζομαι	to struggle against
+ἀνταναπληρόω	to fill up
+ἡ ἀνταπόδοςις	"repayment, reward"
+ἀντιβάλλω	to exchange
+ἀντιδιατίθημι	to oppose
+ἡ ἀντίθεσις	opposition
+ἀντικαθίστημι	"to resist, set in opposition to, confront"
+ἀντικαλέω	to bid against
+ἄντικρυς	"straight on, openly; opposite"
+ἡ ἀντίλημψις	help
+ἀντιλοιδορέω	to revile back
+τὸ ἀντίλυτρον	ransom
+ἀντιμετρέω	to measure again
+ὁ Ἀντιοχεύς	Antiochian
+ὁ Ἀντιπᾶς	Antipas
+ἡ Ἀντιπατρίς	Antipatris
+ἀντιπέρα	(+gen) opposite
+ἀντιπίπτω	"to fall upon, resist"
+ἀντιστρατεύομαι	to war against
+τὸ ἀντίτυπος	copy; symbol
+*** 3726 - 3750 (/course/66563/koine-greek-3/150/)	
+ἀντίτυπος	copy; symbol
+τὸ ἄντλημα	bucket
+ἀντοφθαλμέω	"to look in the face, head into, face"
+ἀνωτερικός	upper
+ἀπάγχω	to hang
+ἀπαίδευτος	uneducated; ignorant
+ἀπαλγέω	to lose all feeling
+ἀπαράβατος	unchangeable
+ἀπαρασκεύαστος	unprepared
+ὁ ἀπαρτισμός	finish
+ἀπασπάζομαι	to say farewell; take leave of
+ὁ ἀπάτωρ	fatherless person
+τὸ ἀπαύγασμα	"brightness, radiance"
+ἀπεῖπον	"to despise, spurn, forbid"
+ἀπείραστος	untemptable
+ἄπειρος	"unskillful, inexperienced"
+ἡ ἀπέκδυσις	putting off
+ἀπελαύνω	"to drive away, expel"
+ὁ ἀπελεγμός	bad reputation
+ὁ ἀπελεύθερος	freeman
+ὁ Ἀπελλῆς	Apelles
+ἀπελπίζω	"to expect, hope for; suspect, despair"
+ἀπέραντος	"endless, boundless"
+ἀπερισπάστως	without distraction
+ἀπερίτμητος	uncircumcised
+*** 3751 - 3775 (/course/66563/koine-greek-3/151/)	
+ἁπλῶς	"simply, sincerely, generously"
+ἀποβλέπω	"to give attention to, look upon"
+ἀπόβλητος	rejected
+ἀπογίνομαι	to have no part in
+ἡ ἀπόδειξις	exhibiting; proof
+ἀπόδημος	on a journey
+ἀποδιορίζω	to cause divisions
+ἀποθησαυρίζω	to store up
+ἀποθλίβω	to press
+ἡ ἀποκατάστασις	restitution
+ἀποκλείω	"to close, enclose, confine"
+τὸ ἀπόκριμα	sentence
+ὁ Ἀπολλύων	Apollyon
+ἡ Ἀπολλωνία	Apollonia
+ἀπομάσσω	to make an impression; to wipe off
+ἀπονέμω	to show; impart
+ἀπονίπτω	to wash off
+ἀποπίπτω	to fall
+ἡ ἀπορία	perplexity
+ἀπορίπτω	to throw out; jump out
+ἀπορφανίζω	to separate from
+τὸ ἀποςκίασμα	shadow
+ἀποςτεγάζω	to uncover
+ἀποςτοματίζω	to attack with questions
+ἀποςτυγέω	to abhor
+*** 3776 - 3800 (/course/66563/koine-greek-3/152/)	
+ἀποτίνω	to repay
+ἀποτολμάω	to be bold
+ἀποτρέπω	to turn away
+ἡ ἀπουσία	absence
+ἀποφορτίζομαι	to unload
+ἡ ἀπόχρησις	"using up, consuming"
+ἀποψύχω	"to lose heart, faint, swoon"
+ὁ Ἄππιος	Appius
+ἀπρόσιτος	unapproachable
+ἀπροςωπολήμπτως	impartially
+ἄπταιστος	free from stumbling
+ἡ Ἀπφία	Apphia
+ἡ ἀρά	"curse, imprecation"
+ἄραφος	seamless
+ὁ Ἄραψ	"Arabian, Arab"
+ἀργέω	to linger
+ὁ ἀργυροκόπος	silversmith
+ὁ Ἀρεοπαγίτης	Areopagite
+ἡ ἀρεσκεία	desire to please
+ὁ Ἁρέτας	Aretas
+ὁ ἀρήν	lamb
+ὁ Ἀριστόβουλος	Aristobulus
+ὁ ἄρκος	bear
+τὸ Ἁρμαγεδών	Armageddon
+ἁρμόζω	"to adapt, suit, promise in marriage"
+*** 3801 - 3825 (/course/66563/koine-greek-3/153/)	
+ὁ ἁρμός	joint
+ὁ Ἀρνί	Arni
+τὸ ἄροτρον	plow
+ὁ ἁρπαγμός	something to be grasped
+ἄρρητος	unutterable
+ὁ Ἀρτεμᾶς	Artemas
+ὁ ἀρτέμων	mainsail
+ἀρτιγέννητος	newborn
+ἄρτιος	fully qualified
+ὁ Ἀρφαξάδ	Arphaxad
+ὁ Ἀρχέλαος	Archelaus
+ἀρχιερατικός	high priestly
+ὁ ἀρχιποίμην	lead shepherd
+ὁ ἀρχιτέκτων	expert builder
+ὁ ἀρχιτελώνης	head tax-collector
+ἀσεβέω	to live ungodly
+ἄσημος	"insignificant, unmarked; uncoined (money)"
+τὸ ἀσθένημα	weakness
+ὁ Ἀσιανός	Asian
+ὁ Ἀσιάρχης	Asiarch
+ἡ ἀσιτία	lack of appetite
+ἄσιτος	without food
+ἀσκέω	"to do one’s best at, practice; live as an ascetic"
+ἀσμένως	gladly
+ἄσοφος	fool
+*** 3826 - 3850 (/course/66563/koine-greek-3/154/)	
+ἡ ἀσπίς	"shield; asp, snake"
+ἄσπονδος	irreconcilable
+ἆσσον	close as possible
+ἀστατέω	"to be unstable, homeless"
+ὁ Ἀσύγκριτος	Asyncritus
+ἀσύμφωνος	disagreement
+ἀσύνθετος	covenant breaker; faithless
+ἀσχήμων	"unpresentable, shameful, unworthy"
+ἀσώτως	recklessly
+ἀτακτέω	"to be lazy, idle"
+ἄτακτος	"lazy, idle, disorderly"
+ἄτομος	"indivisible, moment, flash"
+ἡ Ἀττάλεια	Attalia
+αὐγάζω	to shine
+ἡ αὐγή	"glare, beams, break of day"
+ὁ Αὔγουστος	Augustus; August (mo.)
+αὐθεντέω	"to domineer, have authority over"
+ὁ αὐλός	flute
+αὐτάρκης	"content, sufficient"
+αὐτοκατάκριτος	condemned
+ὁ αὐτόπτης	eyewitness
+αὐτόφωρος	in the act
+ὁ αὐτόχειρ	with one’s own hands; the very doer
+αὐχέω	to boast
+αὐχμηρός	"drab, dusty, rough, squalid"
+*** 3851 - 3875 (/course/66563/koine-greek-3/155/)	
+ἀφανής	"that is not manifest, hidden, unseen"
+ὁ ἀφανισμός	"disappearing, destruction, extermination, vanishing"
+ἄφαντος	vanish out of sight
+ἡ ἀφειδία	"harsh treatment, neglect"
+ἡ ἀφελότης	singleness
+ἡ ἀφθορία	integrity
+ἀφικνέομαι	"to arrive at, reach"
+ἀφιλάγαθος	not a friend of the good
+ἡ ἄφιξις	arrival; departure
+ἀφομοιόω	"to make like, liken"
+ὁ ἀφρός	foam
+ἀφυπνόω	to fall asleep
+ὁ Ἀχαϊκός	Achaicus
+ἡ ἀχλύς	mist
+ἀχρειόω	"to become unprofitable, worthless"
+ἄχρηστος	"useless, unprofitable, worthless"
+ἀψευδής	who never lies
+ὁ ἄψινθος	wormwood
+ἡ ἄψινθος	wormwood
+ἄψυχος	"lifeless, inanimate; faint-hearted"
+ὁ Βάαλ	Baal
+ὁ βαθμός	"degree; step; grade, rank"
+βαθύνω	to dig deep
+τὸ βάϊον	branch
+ὁ Βαλάκ	"Bela, Balak"
+*** 3876 - 3900 (/course/66563/koine-greek-3/156/)	
+ὁ Βαράκ	Barak
+ὁ Βαραχίας	"Berekiah, Barachias"
+ὁ Βαριησοῦς	Bar-Jesus
+ὁ Βαριωνᾶ	Bar-Jona
+ὁ Βαρτιμαῖος	Bartimaeus
+βαρύτιμος	very expensive
+ὁ βασανιστής	tormentor
+ἡ βάσις	"foot, pedestal, foundation"
+βασκαίνω	to bewitch; begrudge; deceive
+ὁ βάτραχος	frog
+βατταλογέω	to babble
+βδελυκτός	"detestable, abominable"
+ὁ Βελιάρ	Belial
+ἡ βελόνη	"pin, point, needle"
+τὸ βέλος	arrow
+βελτίων	"better, well, very well (irreg. compv.)"
+Βεροιαῖος	Berean
+ἡ Βηθζαθά	Bethzatha
+ὁ βήρυλλος	beryl
+βίαιος	mighty
+ὁ βιαστής	violent person
+βιβρώσκω	to eat
+βιόω	to live
+ἡ βίωσις	way of life
+βλαβερός	harmful
+*** 3901 - 3925 (/course/66563/koine-greek-3/157/)	
+ὁ Βλάστος	Blastus
+τὸ βλέμμα	what is seen
+βλητέος	must be put
+ὁ Βοανηργές	Boanerges
+ἡ βοή	cry
+βοηθός	helpful; (subst) helper
+ἡ βολή	"throw, stroke, glance"
+ὁ Βόος	Boaz
+ὁ βόρβορος	"mud, muck"
+ὁ Βοςόρ	Besor; Bosor
+ἡ βοτάνη	pasture; herb
+ὁ βότρυς	bunch of grapes
+βραβεύω	to arbitrate; to act like a judge
+βραδυπλοέω	to sail slowly
+ἡ βραδύτης	slowness
+ὁ βρόχος	"snare, restriction"
+βρύχω	"to grind, gnash"
+βρύω	"to swell with, teem with; abound; send forth"
+βρώσιμος	edible; food
+ὁ βυθός	deep sea
+ἡ βύσσος	fine linen
+ὁ βωμός	altar
+τὸ Γαββαθᾶ	Gabbatha
+ἡ γάγγραινα	gangrene
+ὁ Γάδ	Gad
+*** 3926 - 3950 (/course/66563/koine-greek-3/158/)	
+Γαδαρηνός	Gadarene
+ἡ Γάζα	Gaza
+ἡ γάζα	treasure
+ὁ Γαλάτης	Galatian
+γαμίσκω	to give in marriage
+ὁ Γεδεών	Gideon
+ἡ γείτων	neighbor
+ὁ γέλως	laughter
+γενεαλογέω	to descend from
+ἡ γενετή	birth
+ἡ γερουσία	council
+ὁ γέρων	old man
+γεωργέω	to cultivate
+τὸ γεώργιον	"farming, field"
+τὸ γῆρας	old age
+τὸ γλεῦκος	new wine
+ὁ γναφεύς	cloth refiner
+γνησίως	genuinely
+ὁ γνόφος	darkness
+ὁ γνώστης	one who knows; medium
+ὁ γογγυστής	grumbler
+ὁ γόης	"sorcerer, enchanter; impostor; swindler"
+τὸ Γόμορρα	Gomorrah
+γραπτός	"written, written form, engraved"
+γραώδης	"foolish, silly"
+*** 3951 - 3975 (/course/66563/koine-greek-3/159/)	
+ἡ γυμνασία	exercise
+γυμνιτεύω	to be naked
+τὸ γυναικάριον	idle woman
+γυναικεῖος	female; feminine
+ὁ Γώγ	Gog
+δαιμονιώδης	demonic
+ὁ δαίμων	"god, deity; fortune; demon"
+δάκνω	to bite
+δακρύω	to weep
+ὁ δακτύλιος	ring
+ἡ Δαλμανουθά	Dalmanutha
+ἡ Δαλματία	Dalmatia
+ἡ δάμαλις	heifer
+ἡ Δάμαρις	Damaris
+Δαμασκηνός	of Damascus
+τὸ δάνειον	"loan, debt"
+ὁ Δανιήλ	Daniel
+ὁ δανιστής	moneylender
+ἡ δαπάνη	"cost, expense"
+τὸ δεῖγμα	example
+ἡ δειλία	"fear, cowardice"
+δειλιάω	to be afraid
+ὁ δεῖνα	"such a one, a certain one"
+ἡ δεισιδαιμονία	religion; fear of the gods; superstition
+δεισιδαίμων	religious; superstitious
+*** 3976 - 4000 (/course/66563/koine-greek-3/160/)	
+ὁ δεξιολάβος	"bowman, slinger"
+τὸ δέος	"awe, fear"
+Δερβαῖος	Derbean
+τὸ δέρμα	"skin, hide"
+ἡ δέσμη	bundle
+δεῦρο	to here; to now; come!
+δευτεραῖος	on the second day
+δημηγορέω	to make a speech in public
+ὁ δημιουργός	"builder, maker, creator"
+δήπου	of course
+διαβάλλω	to accuse
+ἡ διάγνωσις	decision
+διαγρηγορέω	to be awake
+διαδέχομαι	to receive possession of; to succeed
+ὁ διάδοχος	"succeeding, successor"
+διακαθαίρω	to clean out
+διακαθαρίζω	to clean out
+διακατελέγχομαι	to refute
+ἡ διάκονος	"servant, minister"
+διακούω	"to hear out, have a hearing"
+διακωλύω	to forbid
+διαλείπω	to cease
+διαλλάσσομαι	to reconcile
+διαλύω	"to scatter, break up, dissolve; solve"
+διαμάχομαι	"to contend, protest violently"
+*** 4001 - 4025 (/course/66563/koine-greek-3/161/)	
+ὁ διαμερισμός	division
+διανέμω	"to distribute, apportion, spread"
+διανεύω	"to beckon, make signs"
+τὸ διανόημα	thought
+διανυκτερεύω	to spend the night
+διανύω	to arrive; to finish
+ἡ διαπαρατριβή	constant arguing
+διαπλέω	to sail over; unfold
+διαπραγματεύομαι	to make a profit
+διασείω	"to shake, to extort"
+τὸ διάστημα	interval
+τὸ διάταγμα	commandment
+διαταράσσω	to trouble
+διατελέω	to continue
+ἡ διατροφή	"food, sustenance"
+διαυγάζω	to dawn
+διαυγής	transparent
+διαφεύγω	to escape
+διαφυλάσσω	"to keep, guard carefully"
+διαχλευάζω	to make fun of
+διαχωρίζω	"to depart, separate"
+διενθυμέομαι	to think over
+ἡ διέξοδος	"going out or forth, along the main roads (?)"
+ὁ διερμηνευτής	interpreter
+διερωτάω	to inquire; learn by inquiry
+*** 4026 - 4050 (/course/66563/koine-greek-3/162/)	
+διετής	two years old
+ἡ διήγησις	"tale, declaration"
+διθάλασσος	between the seas
+διϊκνέομαι	"to go through, to pass through, penetrate"
+ἡ δικαιοκρισία	"righteous, just judgment"
+δίλογος	insincere
+ὁ Διονύσιος	Dionysius
+διοπετής	fallen from heaven
+τὸ διόρθωμα	improvement
+ἡ διόρθωσις	reformation
+ὁ Διόσκουροι	Twins (Castor & Pollux)
+ὁ Διοτρέφης	Diotrephes
+διπλοῦς	double
+διπλόω	to double
+ἡ δισμυριάς	twenty thousand
+δισχίλιοι	two thousand
+διϋλίζω	to strain out
+διχάζω	to turn against
+τὸ δίψος	thirst
+ὁ διώκτης	persecutor
+δογματίζω	to ordain; to teach; to obey regulations
+ἡ δοκιμασία	test
+δόλιος	deceitful
+δολιόω	to deceive
+δολόω	"to distort, deceive"
+*** 4051 - 4075 (/course/66563/koine-greek-3/163/)	
+ὁ δότης	giver
+δουλαγωγέω	"to bring into slavery, under control"
+δράσσομαι	"to catch, trap"
+ἡ Δρούσιλλα	Drusilla
+τὸ δυσεντέριον	dysentery
+δυσερμήνευτος	hard to explain
+ἡ δύσις	setting (of sun); west
+δύσκολος	"difficult, troublesome"
+δυσνόητος	hard to understand
+δυσφημέω	to slander
+ἡ δυσφημία	slander; blasphemy
+δωδέκατος	twelfth
+τὸ δωδεκάφυλον	twelve tribes
+ἔα	ah! alas! leave alone!
+ἑβδομηκοντάκις	seventy times
+ὁ Ἔβερ	Heber
+ὁ ἔγγυος	"guarantee, guarantor"
+ἡ ἔγερσις	"resurrection, raising, getting up"
+ὁ ἐγκάθετος	spy
+τὸ ἐγκαίνια	"dedication; Festival of Renewal, Dedication, Hanukkah"
+ἐγκατοικέω	to dwell among
+ἐγκαυχάομαι	"to pride oneself in, glory in, boast, exult"
+ἐγκομβόομαι	to put on
+ἡ ἐγκοπή	hindrance
+ἐγκρατής	empowered
+*** 4076 - 4100 (/course/66563/koine-greek-3/164/)	
+ἐγκρίνω	to classify
+ἔγκυος	pregnant
+ἐγχρίω	to anoint
+ἐδαφίζω	"to burn, smash to the ground"
+τὸ ἔδαφος	"ground, floor"
+τὸ ἑδραίωμα	"support, foundation"
+ἡ ἐθελοθρησκία	self-imposed religious piety
+ἐθίζω	"to accustom, use"
+ὁ ἐθνάρχης	"governor, ethnarch"
+ἐθνικῶς	like a Gentile
+ἔθνος	"nation, people, Gentile"
+ἡ εἰδέα	appearance
+τὸ εἰδωλεῖον	idol’s temple
+εἴκω	"to permit, allow, withdraw"
+εἰρηνοποιέω	to make peace
+εἰρηνοποιός	peacemaker
+εἰσδέχομαι	to receive
+εἰσκαλέομαι	to invite in
+εἰσπηδάω	to rush in
+εἰστρέχω	to run in
+ἑκάστοτε	always
+ἑκατονταετής	hundred years old
+ἐκβαίνω	to go out
+ἡ ἐκβολή	"throwing out, throwing overboard; expulsion"
+τὸ ἔκγονος	"born of, offspring; grandchild"
+*** 4101 - 4125 (/course/66563/koine-greek-3/165/)	
+ἐκδαπανάω	to spend
+ἔκδηλος	"manifest, conspicuous"
+ἐκδιώκω	"to attack, persecute"
+ἔκδοτος	"given up, delivered"
+ἡ ἐκδοχή	expectation
+ἡ ἐκζήτησις	"speculation, controversy"
+ἔκθαμβος	greatly alarmed; terrible
+ἐκθαυμάζω	to be totally amazed
+ἔκθετος	"abandoned, exposed"
+ἐκκαίω	"to burn, burn out, inflame"
+ἐκκολυμβάω	to swim out
+ἐκκομίζω	to carry out
+ἐκκρεμάννυμι	"to hang upon, depend on"
+ἐκλαλέω	to tell
+ἐκλάμπω	to shine forth
+ἐκλανθάνομαι	"to utterly escape notice, to forget completely"
+ἐκνεύω	"to turn, leave without being noticed"
+ἐκνήφω	"to sober up, come to the senses"
+ἑκούσιος	"willing, voluntary"
+ἐκπερισσῶς	emphatically
+ἐκπετάννυμι	to stretch out
+ἐκπηδάω	"to rush out, escape"
+ἐκπληρόω	"to fulfill, carry out"
+ἡ ἐκπλήρωσις	"filling up, accomplishment"
+ἐκπορνεύω	"to commit sexual sin, live immorally"
+*** 4126 - 4150 (/course/66563/koine-greek-3/166/)	
+ἐκπτύω	to reject
+ἐκστρέφω	"to pervert, corrupt"
+ἐκταράσσω	"to throw into confusion, stir up trouble"
+ἡ ἐκτένεια	"zeal, earnestness"
+ἐκτενής	"constant, earnest, strained"
+τὸ ἔκτρωμα	abnormal birth
+ἐκφοβέω	to terrify
+ἐκχωρέω	to depart
+ὁ ἐλαιών	olive grove
+ὁ Ἐλαμίτης	Elamite
+ἐλάσσων	"worse, less"
+ἐλαττονέω	"to receive less, be in need"
+ἡ ἐλαφρία	vacillation
+ὁ ἐλεγμός	refuting of error
+ἡ ἔλεγξις	"rebuke, rebuking"
+ὁ ἔλεγχος	"reproof, conviction"
+ὁ ἔλεος	mercy
+ἡ ἔλευσις	coming
+ἐλεφάντινος	ivory
+ὁ Ἐλιέζερ	Eliezer
+ὁ Ἐλισαῖος	Elisha
+ἑλκόω	to cover with sores
+ἡ Ἑλλάς	Greece; Greek
+Ἑλληνικός	Greek
+ὁ Ἐλμαδάμ	Elmadam
+*** 4151 - 4175 (/course/66563/koine-greek-3/167/)	
+ὁ Ἐλύμας	Elymas
+ἐμβάλλω	"to throw in, lay in, set"
+ἐμβατεύω	"to step in, enter into; to claim special powers (?)"
+ἐμβιβάζω	to set on; to put aboard
+ἐμέω	"to spit out, vomit"
+ἐμμαίνομαι	to be enraged
+ὁ Ἐμμανουήλ	Emmanuel
+ἡ Ἐμμαοῦς	Emmaus
+ὁ Ἑμμώρ	Hamor
+ἡ ἐμπαιγμονή	mocking
+ὁ ἐμπαιγμός	mocking
+ἐμπεριπατέω	"to walk around in, wait among; live among"
+ἐμπίμπρημι	to set on fire
+ἡ ἐμπλοκή	elaborately braided hair
+ἐμπνέω	"to breathe, breathe out, to be alive"
+ἡ ἐμπορία	business
+τὸ ἐμπόριον	market
+ἐμφυσάω	"to breath in, upon"
+ἔμφυτος	implanted
+τὸ ἐνάλιος	of the sea; sea creature
+ἐνδεής	lack
+τὸ ἔνδειγμα	"evidence, proof"
+ἐνδέχομαι	"it is possible, imaginable"
+ἐνδύνω	to creep
+ἡ ἔνδυσις	"wearing, putting on"
+*** 4176 - 4200 (/course/66563/koine-greek-3/168/)	
+ἡ ἐνδώμησις	foundation
+ἐνειλέω	to wrap in
+ἐνεός	speechless
+ἐννεύω	to give signaling motions
+ἔννυχος	in the night
+ἐνορκίζω	to put under an oath
+ἐντόπιος	local
+ἐντρέφω	"to live on, feed on"
+ἐντρυφάω	"to revel, carouse"
+ἐντυπόω	to engrave
+ἐνυβρίζω	"to insult, mock"
+τὸ ἐνύπνιον	dream
+ὁ Ἐνώς	Enosh
+ἐνωτίζομαι	to pay close attention to
+ἐξαίρω	"to lift up, remove, carry away"
+ἐξαιτέω	to desire
+ἐξάλλομαι	"to leap, leap out, leap up"
+ἡ ἐξανάστασις	"getting or springing up, resurrection"
+ἐξάπινα	suddenly
+ἐξαστράπτω	to flash like lightning
+ἐξέλκω	"to lure away, draw away"
+τὸ ἐξέραμα	vomit
+ἐξεραυνάω	"to search out, search diligently"
+ἐξηχέω	to sound out
+ἡ ἕξις	"habit, use, practice"
+*** 4201 - 4225 (/course/66563/koine-greek-3/169/)	
+ἐξισχύω	to be able
+ἐξολεθρεύω	to destroy completely
+ἐξορκίζω	"to swear, put under a curse"
+ὁ ἐξορκιστής	exorcist
+ἐξουδενέω	"to treat with contempt;  scorn, despise"
+ἡ ἐξοχή	prominence
+ἐξυπνίζω	"to wake up, awaken"
+ἔξυπνος	awake
+ἑορτάζω	to celebrate a festival
+ἐπαγωνίζομαι	to struggle for
+ἐπαθροίζω	"to increase, crowd around"
+ὁ Ἐπαίνετος	Epaenetus
+ἐπακούω	"to hear, heed"
+ἐπακροάομαι	to listen to
+ἐπάναγκες	necessarily
+ἐπαναμιμνῄσκω	to remind
+ἡ ἐπανόρθωσις	"correction, reparation, restoration"
+ἐπάρατος	under a divine curse
+ἡ ἔπαυλις	"house, home"
+ἐπαφρίζω	to foam up
+ἐπειδήπερ	"inasmuch as, since"
+ἡ ἐπεισαγωγή	bringing in
+ἐπεισέρχομαι	"to rush upon, come upon"
+ἐπέκεινα	beyond
+ἐπεκτείνομαι	to stretch toward
+*** 4226 - 4250 (/course/66563/koine-greek-3/170/)	
+ὁ ἐπενδύτης	outer garment
+τὸ ἐπερώτημα	"decision, answer, appeal"
+ἐπιγαμβρεύω	to marry
+ἐπιγίνομαι	"to be born after, spring up, come after"
+ἐπιδιατάσσομαι	to add to
+ἐπιδιορθόω	to set in order
+ἐπιδύω	"to set, go down"
+ἐπιθανάτιος	sentenced to death
+ὁ ἐπιθυμητής	one who desires
+ἐπικαθίζω	"to set upon, to sit upon"
+τὸ ἐπικάλυμμα	"covering, pretext"
+ἐπικαλύπτω	to cover
+ἐπικέλλω	to run aground
+ὁ Ἐπικούρειος	Epicurean
+ἡ ἐπικουρία	"help, supplication"
+ἐπικρίνω	"to pass sentence, inflict"
+ἐπιλείπω	to fail
+ἐπιλείχω	to lick
+ἡ ἐπιλησμονή	forgetfulness
+ἐπίλοιπος	remaining
+ἡ ἐπίλυσις	interpretation
+ἐπιμαρτυρέω	"to testify, bear witness"
+ἡ ἐπιμέλεια	"care, attention"
+ἐπιμελῶς	"carefully, thoroughly"
+ἐπινεύω	to consent
+*** 4251 - 4275 (/course/66563/koine-greek-3/171/)	
+ἡ ἐπίνοια	"intent, purpose; invention"
+ἐπιορκέω	"to swear falsely, break an oath"
+ἐπίορκος	"false swearing, a perjurer"
+ἐπιπλήσσω	to strike at; rebuke
+ἐπιπόθητος	longed for
+ἡ ἐπιποθία	great desire
+ἐπιπορεύομαι	"to come, come upon, travel"
+ἐπιράπτω	to sew
+ὁ ἐπισιτισμός	"food, provisions"
+ἐπισκευάζομαι	to make ready
+ἐπισκηνόω	to rest
+ἐπισπάω	"to draw in, bring upon; remove marks of circumcision"
+ἐπισπείρω	to sow more
+ἐπιστήμων	understanding
+ἐπιστομίζω	to silence
+ἡ ἐπιστροφή	"return, turning, conversion"
+ἐπισυντρέχω	to gather rapidly
+ἐπισφαλής	dangerous
+ἐπισχύω	"to grow strong; insist, be urgent"
+ἐπισωρεύω	to collect
+ἐπιτήδειος	"useful, necessary"
+ἡ ἐπιτιμία	punishment
+ἡ ἐπιτροπή	"decision, commission"
+ἐπιφανής	"notable, manifest"
+ἐπιφαύσκω	to give light
+*** 4276 - 4300 (/course/66563/koine-greek-3/172/)	
+ἐπιχέω	"to pour in, over, out"
+ἐπονομάζω	"to name, call"
+ὁ ἐπόπτης	"overseer, watcher, eyewitness"
+τὸ ἔπος	word; verse
+ἑπτακισχίλιοι	seven thousand
+ἐρείδω	"to stick fast, support, fix firmly"
+ἐρεύγομαι	"to declare, tell"
+ἐρίζω	"to strive, challenge"
+τὸ ἐρίφιον	goat-kid
+ὁ Ἑρμᾶς	Hermas
+ὁ Ἑρμογένης	Hermogenes
+ὁ Ἑσλί	Esli
+ἑσσόομαι	to be treated worse
+ἐσχάτως	finally; be dying
+ἔσω	(+gen) inside (prep.); within (adv.)
+ἑτερόγλωσσος	of a foreign tongue
+ἑτεροζυγέω	to be mismated
+ἑτέρως	otherwise
+ἡ ἑτοιμασία	"readiness, equipment, preparation"
+εὐαρέστως	acceptably
+ὁ Εὔβουλος	Eubulus
+εὖγε	well done!
+ἡ εὐδία	fair weather
+εὐεργετέω	"to do good, serve as benefactor"
+ὁ εὐεργέτης	benefactor
+*** 4301 - 4325 (/course/66563/koine-greek-3/173/)	
+εὔθυμος	"encouraged, cheerful"
+εὐθύμως	cheerfully
+ἡ εὐθύτης	"uprightness, justice"
+εὐλαβέομαι	"to act reverently, be cautious"
+εὐμετάδοτος	"liberal, generous"
+ἡ Εὐνίκη	Eunice
+εὐνοέω	"to agree, be favorable"
+ἡ εὔνοια	"benevolence, good will"
+ἡ Εὐοδία	Euodia
+εὐπάρεδρος	"devoted, dedicated"
+εὐπειθής	open to reason
+εὐπερίστατος	easily distracting
+ἡ εὐποιΐα	well-doing
+εὐπορέω	"to prosper, have financial ability"
+ἡ εὐπορία	wealth
+ἡ εὐπρέπεια	"beauty, dignity"
+εὐπροςωπέω	to make a good showing
+ὁ εὐρακύλων	northeast wind
+εὐρύχωρος	"wide, broad"
+εὔσημος	"easy to understand, conspicuous"
+ἡ εὐσχημοςύνη	"modesty, gracefulness"
+ἡ εὐτραπελία	vulgar talk
+ὁ Εὔτυχος	Eutychus
+ἡ εὐφημία	good reputation; auspiciousness; worship
+εὔφημος	worthy of praise
+*** 4326 - 4350 (/course/66563/koine-greek-3/174/)	
+εὐφορέω	to produce good crops
+εὐχάριστος	"thankful, kind hearted, agreeable"
+εὐψυχέω	to be encouraged
+ἐφάλλομαι	to come upon; to leap
+ὁ ἐφευρετής	inventor
+ἡ ἐφήμερος	daily
+ὁ Ἐφραίμ	Ephraim
+ἐφφαθά	ephphatha (Aram.  be opened)
+ὁ Ζάρα	Zerah
+ἡ ζευκτηρία	rope
+ζηλεύω	to be zealous; to be jealous
+ὁ Ζηνᾶς	Zenas
+ἡ ἡγεμονία	"military company, authority, rule"
+τὸ ἦθος	"character, habit, morals"
+ὁ Ἠλί	"Eli, Heli (proper n.)"
+ἡμιθανής	half dead
+τὸ ἡμιώριον	half-hour
+ἤπερ	than at all; than even
+ἤπιος	gentle
+ὁ Ἤρ	Er
+ἤρεμος	quiet
+ὁ Ἡρῳδίων	Herodian
+ἥσσων	"less, worse"
+ἥσσων	"less, worse"
+ἤτοι	"or, either/or"
+*** 4351 - 4375 (/course/66563/koine-greek-3/175/)	
+ἠχέω	"to sound, resound, ring, be noisy"
+τὸ ἦχος	"sound, noise; roar"
+θά	(Aram.) come!
+ἡ Θαμάρ	Tamar
+τὸ θανάσιμος	deadly poison
+θανατηφόρος	"deadly, fatal"
+ὁ Θάρα	Terah
+τὸ θάρσος	courage
+τὸ θαυμάσιος	wonderful; amazing
+ἡ θεά	goddess
+θεατρίζω	to make a show of; be open to public shame
+ἡ θειότης	"deity, divinity"
+θειώδης	"sulphurous, yellowish"
+ἡ θέλησις	"will, desire; prayer"
+τὸ θεμέλιον	foundation
+θεοδίδακτος	"god-taught, taught by God"
+θεομάχος	opposing God
+θεόπνευστος	God-breathed
+ἡ θεός	"god, God"
+ἡ θεοςέβεια	"godliness, fear of God; religion"
+θεοςεβής	God-fearing
+θεοςτυγής	"god-detested, god forsaken; hating God"
+ἡ θεότης	deity
+ὁ θεράπων	"servant, healer"
+ἡ θέρμη	heat
+*** 4376 - 4400 (/course/66563/koine-greek-3/176/)	
+ὁ Θευδᾶς	Theudas
+ἡ θεωρία	"sight, spectacle"
+ἡ θήκη	"chest, case, sheath"
+ἡ θήρα	"hunting; prey, booty; snare, trap"
+θηρεύω	"to hunt, catch"
+θηριομαχέω	to fight wild animals
+θορυβάζω	"to trouble, bother"
+θραύω	"to break, hit, break down, oppress"
+τὸ θρέμμα	creature
+θρῆσκος	religious
+ὁ θρόμβος	drop
+ἡ θύελλα	"windstorm, hurricane"
+θύϊνος	"citron tree, citron wood"
+τὸ θυμιατήριον	altar of incense; censer
+θυμιάω	to burn incense
+θυμομαχέω	to be very angry
+θυμόω	to be angry
+ὁ θυρεός	shield
+ὁ Ἰαμβρῆς	Jambres
+ὁ Ἰανναί	Jannai
+ὁ Ἰάννης	Jannes
+ὁ Ἰάρετ	Jared
+ἴδε	look! pay attention!
+ἡ Ἰδουμαία	"Idumea, Edom"
+ὁ ἱδρώς	sweat
+*** 4401 - 4425 (/course/66563/koine-greek-3/177/)	
+ἡ Ἰεζάβελ	Jezebel
+ἡ Ἱεράπολις	Hierapolis
+ἱερατεύω	to serve as priest
+ἱερόθυτος	offered in sacrifice
+ἱεροπρεπής	reverent
+ἡ Ἱεροςόλυμα	Jerusalem
+ἱεροςυλέω	"to commit sacrilege, rob a temple"
+ὁ ἱερόσυλος	"sacrilegious person, temple-robber"
+ἱερουργέω	to serve as priest
+ὁ Ἰεφθάε	Jephthah
+ἡ ἱκανότης	"capability, sufficiency"
+ἡ ἱκετηρία	request
+ἡ ἰκμάς	moisture
+ἱλαρός	cheerful
+ἡ ἱλαρότης	cheerfulness
+τὸ Ἰλλυρικόν	Illyricum
+ἰουδαΐζω	to live like a Jew; side with a Jew
+Ἰουδαϊκός	Jewish
+Ἰουδαϊκῶς	like a Jew
+ἡ Ἰουλία	Julia
+ἡ Ἰουνιᾶς	Junias
+τὸ ἱππικός	"cavalry, horsemen; Equestrian"
+ἰσάγγελος	like or equal to an angel
+ἴσος	equal
+ἰσότιμος	equally precious
+*** 4426 - 4450 (/course/66563/koine-greek-3/178/)	
+ἰσόψυχος	"like-minded, equal, peer"
+ὁ Ἰσσαχάρ	Issachar
+ἱστορέω	to get to know; to record
+ἴσως	"perhaps, probably; equally"
+Ἰταλικός	Italian
+Ἰτουραῖος	Iturea
+ὁ Ἰωανάν	"Joanan, Jehohanan, Joanna"
+ὁ Ἰώβ	Job
+ὁ Ἰωδά	Joda
+ὁ Ἰωήλ	Joel
+ὁ Ἰωνάμ	Jonam
+ὁ Ἰωρίμ	Jorim
+ὁ Ἰωσήχ	Josech
+τὸ ἰῶτα	"iota, smallest letter"
+καθά	"as, just as"
+καθαίρω	"to clean, prune"
+καθάπτω	to fasten on
+ἡ καθαρότης	purification
+καθημερινός	daily
+καθόλου	"completely, entirely, at all"
+καθοπλίζω	to arm fully
+καθοράω	"to look down upon, observe, clearly see"
+καθώσπερ	"as, just as"
+καίτοιγε	although
+ἡ κακοήθεια	meanness
+*** 4451 - 4475 (/course/66563/koine-greek-3/179/)	
+ἡ κακοπάθεια	"endurance, painful labor, misery"
+ἡ κάκωσις	"suffering, affliction"
+ἡ καλάμη	straw
+ἡ καλλιέλαιος	cultivated olive tree
+καλοδιδάσκαλος	"teaching the good, teacher of good"
+καλοποιέω	to do what is good
+Καλός	"Fair, Beautiful"
+ἡ Κανδάκη	Candace
+καπηλεύω	to sell for profit
+ὁ Κάρπος	Carpus; Carpathian
+καρποφόρος	fruitful
+καρτερέω	"to endure, be patient, wait"
+καταβαρέω	to burden
+καταβαρύνω	"to be very heavy, weigh down on"
+ἡ κατάβασις	"descent, falling down"
+καταβραβεύω	to cheat
+ὁ καταγγελεύς	proclaimer
+καταγράφω	"to write down, engrave"
+καταγωνίζομαι	"to defeat, subdue"
+καταδέω	to bind up
+κατάδηλος	evident
+ἡ καταδίκη	"sentence, condemnation"
+καταδιώκω	"to follow after, pursue"
+τὸ κατάθεμα	divinely cursed thing
+καταθεματίζω	"to curse, to put oneself under a curse"
+*** 4476 - 4500 (/course/66563/koine-greek-3/180/)	
+κατακληρονομέω	to divide by lot
+κατακλύζω	to overflow
+κατακόπτω	"to cut, cut down, cut in pieces"
+κατακρημνίζω	to throw down a cliff
+κατακύπτω	"to bend down, look down"
+ὁ κατάλαλος	slanderer
+καταλέγω	"to recount; include; accuse; lay down, lie down"
+καταλιθάζω	to stone
+κατάλοιπος	"rest, remaining, remnant"
+καταμανθάνω	"to consider, examine; ogle"
+καταμένω	"to stay, live"
+καταναλίσκω	"to use up, spend, lavish"
+κατανεύω	to signal to
+ἡ κατάνυξις	"astonishment, insensitivity, stupor"
+κατανύσσομαι	to stab; to slumber
+καταπλέω	to arrive
+καταριθμέω	"to enumerate, number, count"
+ἡ κατάρτισις	maturation
+ὁ καταρτισμός	"training, equipping"
+κατασκιάζω	to shadow
+κατασκοπέω	to spy out
+ὁ κατάσκοπος	spy
+κατασοφίζομαι	"to outwit, trick"
+τὸ κατάστημα	"behavior, condition"
+ἡ καταστολή	"dress, clothing"
+*** 4501 - 4525 (/course/66563/koine-greek-3/181/)	
+καταστρηνιάω	to be drawn away by impulse
+καταστρώννυμι	"to set a table, scatter, overthrow"
+κατασύρω	to drag
+κατασφάζω	to slay
+κατασφραγίζω	to seal
+ἡ κατατομή	mutilation
+κατατρέχω	to run down; pursue
+καταφθείρω	to corrupt
+ὁ καταφρονητής	despiser
+καταχθόνιος	under the earth
+καταψύχω	"to cool, cool off"
+κατείδωλος	full of idols
+κατευλογέω	to bless
+κατεφίσταμαι	to attack
+ὁ κατήγωρ	accuser
+ἡ κατήφεια	gloom
+κατιόω	"to rust, make rusty"
+ἡ κατοίκησις	"dwelling, abode"
+ἡ κατοικία	dwelling
+κατοικίζω	"to settle, establish, place, put"
+κατοπτρίζω	"to look, reflect"
+κατώτερος	lower
+κατωτέρω	"lower, below"
+ἡ Καῦδα	Cauda
+ἡ καῦσις	burning
+*** 4526 - 4550 (/course/66563/koine-greek-3/182/)	
+καυστηριάζω	"to brand, sear with a hot iron"
+ὁ Κεδρών	Kidron; Kitron
+ἡ κειρία	bedsheet; sheet of cloth (for burial)
+τὸ κέλευσμα	"command, shout"
+ἡ κενοδοξία	conceit
+κενόδοξος	conceited
+κενῶς	in vain
+κεραμικός	made of clay
+ὁ κέραμος	potter’s clay; tile; jar
+τὸ κεράτιον	pod
+τὸ κέρμα	"money, coin, small ware"
+ὁ κερματιστής	money changer
+κεφαλιόω	to beat over the head
+ἡ κεφαλίς	"roll, volume; extremity"
+κημόω	to muzzle
+ὁ κηπουρός	gardener
+τὸ κῆτος	"sea monster, large sea creature"
+τὸ κιννάμωμον	cinnamon
+ὁ Κίς	Kish
+κίχρημι	to lend
+ἡ Κλαυδία	Claudia
+τὸ κλέμμα	"theft, stolen object"
+ὁ Κλεοπᾶς	Cleopas
+τὸ κλέος	report; fame
+ὁ Κλήμης	Clement
+*** 4551 - 4575 (/course/66563/koine-greek-3/183/)	
+κληρόω	"to receive by lot, choose"
+τὸ κλινάριον	"cot, small bed"
+ἡ κλισία	group
+κλυδωνίζομαι	"to be sea-tossed, thrown into confusion"
+ὁ Κλωπᾶς	Clopas
+κνήθω	"to scratch, tickle; to itch"
+ἡ Κνίδος	Cnidus
+ἡ κοίμησις	sleep
+κοινωνικός	generous
+ὁ κοιτών	bedroom
+ἡ κολακεία	flattery
+τὸ κολλούριον	eyesalve
+ἡ Κολοςσαί	Colossae
+κολυμβάω	to swim
+ἡ κολωνία	colony
+ἡ κόμη	hair
+κομψότερον	"better, recovering"
+ὁ κοπετός	mourning
+ἡ κοπή	slaughter
+ἡ κοπρία	"dung heap, garbage pile"
+τὸ κόπριον	"dirt, filth, manure, dung"
+ὁ κόραξ	raven; hook
+κορβᾶν	corban (Aram. gift)
+ὁ κορβανᾶς	temple treasury
+ὁ Κόρε	Korah
+*** 4576 - 4600 (/course/66563/koine-greek-3/184/)	
+ὁ Κορίνθιος	Corinthian
+Κορίνθιος	Corinthian
+ὁ κόρος	"prosperity; boy, lad; (Heb.) cor, measure"
+ὁ κοςμοκράτωρ	world ruler
+ὁ Κούαρτος	Quartus
+κοῦμ	koum (Aram.  arise!)
+κουφίζω	to lighten
+ἡ κραιπάλη	drunken excess; drunken headache
+τὸ Κρανίον	skull
+κραταιός	"mighty, strong"
+κρείττων	better
+ὁ Κρήσκης	Crescens
+ἡ κριθή	barley
+κριτικός	discerner
+ἡ κρύπτη	"hidden place, cellar"
+κρυσταλλίζω	to be clear as crystal
+κρυφῇ	secretly
+ὁ κτήτωρ	"possessor, creator"
+ὁ κτίστης	"creator, founder"
+ἡ κυβεία	trickery
+ἡ κυβέρνησις	ability to lead. leadership; administration
+κυκλεύω	to surround
+κυκλόθεν	"from all around; (+gen) about, all around"
+ὁ κυλισμός	"wallowing, rolling"
+κυλίω	"to roll, wallow, throw down"
+*** 4601 - 4625 (/course/66563/koine-greek-3/185/)	
+τὸ κύμβαλον	cymbal
+τὸ κύμινον	(Heb.) cummin
+ἡ Κυρήνη	Cyrene
+ὁ Κυρήνιος	Quirinius
+τὸ κῶλον	limb; corpse
+ἡ κωμόπολις	town
+ὁ κώνωψ	gnat
+ἡ Κῶς	Cos
+ὁ Κωσάμ	Cosam
+λακάω	"to burst apart, burst open"
+λακτίζω	to kick
+ὁ Λάμεχ	Lamech
+ἡ λαμπρότης	brightness
+λαμπρῶς	"splendidly, vigorously"
+λαξευτός	cut out in rock
+ὁ Λαοδικεύς	Laodicean
+ὁ λάρυγξ	throat
+ἡ Λασαία	Lasea
+ὁ λεγιών	legion
+τὸ λεῖμμα	remnant
+λεῖος	smooth
+λειτουργικός	ministering
+ἡ λεπίς	"flake, scale"
+Λευιτικός	Levitical
+ἡ λήθη	forgetfulness
+*** 4626 - 4650 (/course/66563/koine-greek-3/186/)	
+ἡ λῆμψις	receiving
+ὁ λῆρος	"empty talk, nonsense"
+ὁ Λιβερτῖνος	Freedman
+ἡ Λιβύη	Libya
+τὸ Λιθόστρωτος	pavement
+ὁ Λιμήν	Harbor
+ὁ Λίνος	Linus
+λιπαρός	luxurious
+ὁ λίψ	south; west; southwest wind
+λόγιος	eloquent
+λογομαχέω	to fight about words
+ἡ λογομαχία	dispute about words
+ἡ λόγχη	spear
+ἡ Λυκαονία	Lycaonia
+Λυκαονιστί	in the Lycaonian language
+ἡ Λυκία	Lycia
+λυμαίνω	"to mistreat, harass, ruin"
+ὁ Λυσανίας	Lysanias
+ἡ λύσις	"loosing, setting free; divorce; interpretation"
+λυσιτελέω	to be better; to profit from
+ὁ λυτρωτής	"redeemer, ransomer"
+ἡ Λωΐς	Lois
+ὁ Μάαθ	Mahath; Maath
+ἡ Μαγαδάν	Magadan
+ἡ μαγεία	"magic, magical art, sorcery"
+*** 4651 - 4675 (/course/66563/koine-greek-3/187/)	
+μαγεύω	to practice magic
+ὁ Μαγώγ	Magog
+ὁ Μαδιάμ	Midian; Madiam
+ἡ μαθήτρια	"disciple, student (f)"
+ὁ Μαθουσαλά	Methuselah
+τὸ μάκελλον	meat market
+μακροθύμως	patiently
+μακροχρόνιος	long-lived
+ὁ Μαλελεήλ	Maleleel
+ὁ Μάλχος	Malchus
+ἡ μάμμη	grandmother
+ὁ Μαναήν	Manaen
+ἡ μανία	insanity
+μαντεύομαι	to divine; to prophesy; to tell fortunes
+μαραίνω	to wither away; waste
+μαράνα	marana (Aram. Our Lord!)
+ὁ μάρμαρος	marble
+μασάομαι	"to gnaw, chew"
+μαστίζω	"to whip, scourge"
+ἡ ματαιολογία	empty talk
+ὁ ματαιολόγος	empty talker; empty talking
+ματαιόω	to be given to futility
+ὁ Ματταθά	Mattatha
+μεγαλεῖος	"mighty, magnificent; mighty act"
+μεγαλοπρεπής	"majestic, noble"
+*** 4676 - 4700 (/course/66563/koine-greek-3/188/)	
+μεγάλως	greatly
+μέγας	"great, large, old"
+τὸ μέγεθος	greatness
+ὁ Μελεά	Melea
+ἡ Μελίτη	Malta
+ἡ μεμβράνα	parchment
+μεμψίμοιρος	complaining
+ὁ Μεννά	Menna
+μενοῦν	on the contrary
+ὁ μεριστής	divider
+μεσιτεύω	to confirm
+μέσος	middle; (prep +gen) in the middle; (adv) among
+τὸ μεσότοιχον	dividing wall
+μεσόω	to be in the middle
+μεστόω	to fill
+μεταβάλλω	"to turn, change one’s mind"
+μετακινέω	"to move away, shift"
+ἡ μετάλημψις	receiving
+μετατρέπω	"to turn, change"
+μετέπειτα	afterwards
+μετεωρίζομαι	to worry
+ἡ μετοχή	"partnership, participation"
+ὁ μετρητής	measure (liquid); decanter
+μετριοπαθέω	to have compassion on
+μετρίως	"measurably, moderately"
+*** 4701 - 4725 (/course/66563/koine-greek-3/189/)	
+μέχρι	(+gen) up to (prep.); until (conj.)
+μηδέποτε	never
+μηδέπω	not yet
+ὁ Μῆδος	Mede
+μηκύνω	to grow; to linger
+ἡ μηλωτή	sheep skin; goatskin
+μήν	"indeed, surely"
+ὁ μηρός	thigh
+ὁ μητρολῴας	mother-murderer
+τὸ μίασμα	"pollution, defilement"
+ὁ μιασμός	"defilement, uncleanness"
+τὸ μίγμα	mixture
+τὸ μίλιον	mile (Roman)
+ὁ μισθαποδότης	rewarder
+τὸ μίσθωμα	rented quarters; price for hire
+ἡ Μιτυλήνη	Mitylene
+ὁ Μνάσων	Mnason
+ἡ μνήμη	"remembrance, memory"
+μογιλάλος	"mute, with speech impediment"
+μόγις	"hardly, scarcely"
+ὁ Μόλοχ	Molech
+ὁ μολυσμός	defilement
+ἡ μομφή	complaint
+μονόω	to be left alone
+μορφόω	to form
+*** 4726 - 4750 (/course/66563/koine-greek-3/190/)	
+μοςχοποιέω	to make a calf
+μουσικός	music; musical; musician; musical art
+ὁ μυελός	"marrow; brain, inmost part"
+μυέω	to initiate; learn the secret of
+μυκάομαι	to roar
+μυκτηρίζω	"to mock, sneer"
+μυλικός	of a mill
+μύλινος	millstone
+τὸ Μύρα	Myra
+μυρίζω	to pour ointment on
+μύριοι	ten thousand
+μυωπάζω	to be nearsighted
+ὁ μώλωψ	wound
+ὁ μῶμος	blemish
+ἡ μωρολογία	foolish talk
+ὁ Ναγγαί	Naggai
+ὁ Ναθάμ	Nathan
+ὁ Ναιμάν	Naaman
+ἡ Ναΐν	Nain
+ὁ Ναούμ	Nahum; Nehum
+ὁ Νάρκισσος	Narcissus
+ὁ ναύκληρος	ship-owner; ship-master
+ἡ ναῦς	ship
+ὁ Ναχώρ	Nahor
+ἡ νεομηνία	new moon; new moon festival
+*** 4751 - 4775 (/course/66563/koine-greek-3/191/)	
+νεόφυτος	newly converted
+τὸ νέφος	"cloud, cloud mass"
+ὁ νεφρός	"kidney, heart, mind"
+ὁ νεωκόρος	temple keeper
+νεωτερικός	"innovative, recently invented; youthful"
+νή	by
+νηπιάζω	to be a child
+ὁ νήπιος	child
+ὁ Νηρεύς	Nereus
+ὁ Νηρί	Neri
+τὸ νησίον	island
+ὁ Νίγερ	Niger
+ὁ Νικάνωρ	Nicanor
+ἡ νίκη	victory
+ὁ Νικόλαος	Nicolas
+ἡ Νικόπολις	Nicopolis
+ὁ νιπτήρ	washbasin
+νόθος	"illegitimate, spurious, counterfeit; illegitimate child"
+τὸ νόμισμα	"money, coin"
+ἡ νομοθεσία	giving of the law
+ὁ νομοθέτης	lawgiver
+νοςέω	to be sick; to have unhealthy desire
+ἡ νοςσιά	"nest, brood"
+τὸ νοςσίον	young bird
+ὁ νοςσός	"young, offspring"
+*** 4776 - 4800 (/course/66563/koine-greek-3/192/)	
+νουνεχῶς	"wisely, sensibly, discreetly; attentively"
+ἡ Νύμφα	Nympha
+νύσσω	"to stab, prick"
+τὸ νυχθήμερον	night and a day
+ὁ νῶτος	back; slope
+ξενοδοχέω	to show hospitality
+ὁ ξέστης	"pitcher, pot"
+ὁ ὄγκος	impediment
+ὁδεύω	to travel
+ὁδοιπορέω	"to travel, journey"
+ὄζω	to stink
+ἡ οἰκετεία	household
+τὸ οἴκημα	"room, chamber, cell"
+οἰκοδεσποτέω	to run a household
+ὁ οἰκοδόμος	builder
+οἰκονομέω	"to manage, administer"
+οἰκουργός	busy at home
+ἡ οἰνοφλυγία	drunkenness
+ὀκνέω	"to hesitate; hold back, delay"
+ὀκταήμερος	on the eighth day
+ἡ ὀλιγοπιστία	smallness of faith
+ὀλιγόψυχος	discouraged
+ὀλιγωρέω	"to think lightly of, despise"
+ὀλίγως	barely
+ὁ ὀλοθρευτής	destroyer (angel)
+*** 4801 - 4825 (/course/66563/koine-greek-3/193/)	
+ὀλοθρεύω	to destroy
+ἡ ὁλοκληρία	full health
+ὀλολύζω	"to moan, wail"
+ὁλοτελής	wholly
+ὁ Ὀλυμπᾶς	Olympas
+ὁ ὄλυνθος	late fig
+ὁ ὄμβρος	rainstorm
+ὁμείρομαι	to yearn for
+ἡ ὁμιλία	company; conversation
+ἡ ὁμίχλη	"mist, fog"
+ἡ ὁμοίωσις	likeness
+ὁμολογουμένως	"confessedly, undeniably"
+ὁμότεχνος	having the same trade
+ὁμόφρων	of one mind
+τὸ ὀνάριον	young donkey
+τὸ ὄνειδος	object of reproach; disgrace
+ὀνίνημι	"to benefit, have joy"
+ὁ ὄνος	donkey
+ὁπλίζω	to arm oneself with
+ὀπτάνομαι	to appear
+ὀπτός	"broiled, roasted"
+ἡ ὀπώρα	fruit
+ὁρατός	"visible, seen, notable"
+ὀργίλος	"quick to anger, quick-tempered"
+ἡ ὄρεξις	"appetite, passion"
+*** 4826 - 4850 (/course/66563/koine-greek-3/194/)	
+ὀρθοποδέω	to walk consistently
+ὀρθοτομέω	to use correctly
+ὀρθρίζω	"to rise, come in early morning"
+ὀρθρινός	morning
+τὸ ὅρμημα	assault; attack; violence
+ἡ ὁροθεσία	boundary
+ὁσίως	in a holy manner
+ἡ ὄσφρησις	sense of smell
+οὐά	ha!
+οὐδαμῶς	by no means
+οὐκοῦν	"so, then, accordingly"
+ὁ Οὐρβανός	Urbanus
+ὁ Οὐρίας	Uriah
+ἡ ὀφρῦς	brow
+ὀχλέω	to harass
+ὀχλοποιέω	to gather a crowd
+τὸ ὀχύρωμα	fortress
+ὀψέ	(+gen) after (prep.); evening (adv.)
+ὁ ὄψιμος	"late, late rain"
+παγιδεύω	"to entangle, trap"
+παθητός	subject to suffering
+τὸ παιδάριον	"child, boy; servant"
+παιδιόθεν	from childhood
+παίζω	to play; to amuse oneself
+ἡ παλαιότης	oldness
+*** 4851 - 4875 (/course/66563/koine-greek-3/195/)	
+ἡ πάλη	struggle
+παμπληθεί	together
+τὸ πανδοχεῖον	inn
+ὁ πανδοχεύς	inn-keeper
+ἡ πανήγυρις	public festival; joyful gathering
+πανοικεί	with one’s entire household
+πανοῦργος	crafty
+πανταχῇ	everywhere
+πάντῃ	in every way; on every side
+παραβάλλω	to throw aside; to be attentive; to arrive
+παραβολεύομαι	to risk
+παραδειγματίζω	to punish publicly; to make public display
+παράδοξος	unusual
+παραθαλάσσιος	by the sea/lake
+παραθεωρέω	to neglect
+παρακαθέζομαι	to sit beside
+παρακαλύπτω	to hide
+ἡ παράλιος	coastal area
+ἡ παραλλαγή	"transmission; variation, change"
+ἡ παραμυθία	"exhortation; consolation, comfort"
+τὸ παραμύθιον	comfort
+παρανομέω	to act contrary to the law
+ἡ παρανομία	"wrongdoing, lawlessness"
+παραπικραίνω	to provoke
+παραπίπτω	to fall away
+*** 4876 - 4900 (/course/66563/koine-greek-3/196/)	
+παραπλέω	to sail by
+παραπλήσιος	"coming near, nearly, resembling"
+παραπλησίως	likewise
+παραρρέω	to drift away
+παράσημος	"special insignia, figurehead"
+παρατείνω	"to extend, continue; stretch"
+ἡ παρατήρησις	observation
+παρατυγχάνω	"to happen to be near, happen to be present"
+παραυτίκα	immediately; momentary
+παραφρονέω	to be out of one’s mind
+ἡ παραφρονία	"insanity, madness"
+ἡ παραχειμασία	wintering
+ἡ πάρδαλις	leopard
+παρεδρεύω	to serve; apply oneself to
+παρεισάγω	to bring in secretly
+παρείσακτος	brought in secretly
+παρεισδύνω	to sneak in secretly
+παρεισφέρω	to exert
+παρεκτός	"(+gen) except, apart from"
+παρεμβάλλω	to set up camp
+παρενοχλέω	"to trouble, annoy, add extra trouble"
+ἡ πάρεσις	overlooking
+ἡ παρηγορία	"comfort, exhortation"
+ἡ παρθενία	virginity
+ὁ παρθένος	virgin
+*** 4901 - 4925 (/course/66563/koine-greek-3/197/)	
+ὁ Πάρθοι	Parthians
+ὁ Παρμενᾶς	Parmenas
+ἡ πάροδος	passage; traveler
+παροίχομαι	to go by
+παρομοιάζω	to be like
+παρόμοιος	"similar, like"
+ὁ παροργισμός	"wrath, provocation"
+παροτρύνω	to stir up
+ἡ παροψίς	plate
+τὸ Πάταρα	Patara
+ὁ Πάτμος	Patmos
+πατρικός	ancestral
+ὁ Πατροβᾶς	Patrobas
+ὁ πατρολῴας	father-murderer
+πατροπαράδοτος	handed down from ancestors
+πεδινός	"level (ground), plain"
+πεζεύω	to travel by foot
+πειθός	persuasive
+πειράω	"to tempt, test; try"
+ἡ πεισμονή	persuasion
+πελεκίζω	to behead
+ὁ πένης	"day-laborer, poor person"
+ὁ πενθερός	father-in-law
+πενιχρός	poor
+πεντάκις	five times
+*** 4926 - 4950 (/course/66563/koine-greek-3/198/)	
+πεντεκαιδέκατος	fifteenth
+περαιτέρω	further
+περιάπτω	"to kindle; to tie, tie around"
+περιδέω	to wrap
+περιεργάζομαι	to meddle
+ἡ περίθεσις	wearing
+τὸ περικάθαρμα	ransom; refuse
+περικρατής	in control of
+περικρύβω	to hide
+περικυκλόω	to surround
+περιμένω	to await
+πέριξ	around
+περιοικέω	to live near
+περίοικος	neighbor
+περιούσιος	special
+ἡ περιοχή	enclosure; passage
+περιπείρω	to pierce through
+περιρήγνυμι	to tear off
+περισπάω	to be worried
+περισσός	"more, remaining, excessive, to the full"
+περιτρέπω	to overturn; to drive insane
+περιτρέχω	to run around
+περιφρονέω	"to disregard, despise"
+τὸ περίψημα	ransom; scum
+περπερεύομαι	to brag
+*** 4951 - 4975 (/course/66563/koine-greek-3/199/)	
+ἡ Περσίς	Persis; Persian (f)
+τὸ πήγανον	rue (ruta chalepensis)
+πήγνυμι	"to put up, fasten"
+πιέζω	"to press, press down"
+ἡ πιθανολογία	enticing argument
+πίμπρημι	to swell up
+τὸ πινακίδιον	small writing tablet
+ἡ πιότης	oil; fat; fatness; richness
+ἡ Πισιδία	Pisidia
+Πισιδίος	Pisidian
+πιστόω	to establish; to be faithful; firmly believe
+ὁ πλανήτης	"wanderer, roamer; planet, planetary"
+τὸ πλάσμα	what is formed
+πλαστός	"made-up, fabricated"
+πλατύς	wide
+τὸ πλέγμα	elaborate hairstyle
+ἡ πλήμμυρα	flood
+πλησίον	(+gen) near;  neighbor
+ἡ πλησμονή	satisfaction
+πλήσσω	to strike
+ὁ ποδήρης	foot-length; foot-length robe
+ἡ ποίησις	doing; creation
+ποίμνιον	flock
+τὸ πολίτευμα	place of citizenship; group of citizens
+πολλαπλασίων	"more, many times more"
+*** 4976 - 5000 (/course/66563/koine-greek-3/200/)	
+ἡ πολυλογία	many words
+πολυμερῶς	many times
+πολυποίκιλος	"multicolored, diverse, intricate"
+πολύσπλαγχνος	very compassionate
+πολυτρόπως	in many ways
+Ποντικός	"Pontian, from Pontus; Ponticus"
+ὁ Πόρκιος	Porcius
+ἡ πορφυρόπωλις	merchant selling purple cloth
+ποταμοφόρητος	swept away by a river
+πότερον	whether
+ὁ Ποτίολοι	Puteoli
+ὁ πότος	drinking party
+ὁ Πούδης	Pudens
+ἡ πραγματεία	work; narrative; affair
+πραγματεύομαι	"to trade, tend to business"
+ἡ πραϋπάθεια	"humility, gentleness"
+ἡ πρεσβῦτις	older; elderly woman
+πρηνής	head first
+πρίζω	"to cut with a saw, torture"
+προαιρέω	"to take out, choose, prefer, decide"
+προαιτιάομαι	to accuse beforehand
+προακούω	to hear before
+τὸ προαύλιον	front courtyard
+προβατικός	relating to sheep
+προβιβάζω	"to teach, persuade"
+*** 5001 - 5025 (/course/66563/koine-greek-3/201/)	
+προβλέπω	"to foresee, to provide"
+προγίνομαι	to happen previously
+προδίδωμι	to give first
+πρόδρομος	"preceding; precursor, forerunner"
+προελπίζω	to trust first
+προευαγγελίζομαι	to evangelize earlier
+προέχω	"to put first, be first, be better off"
+προηγέομαι	to lead the way
+ἡ προθεσμία	set time
+προθύμως	willingly
+ὁ πρόϊμος	early rain
+προκαλέω	"to call out, provoke, irritate"
+προκαταρτίζω	to prepare ahead of time
+προκηρύσσω	to preach beforehand
+τὸ πρόκριμα	prejudice
+προκυρόω	to determine earlier
+προμαρτύρομαι	"to foretell, witness beforehand"
+προμελετάω	to prepare ahead of time
+προμεριμνάω	to worry ahead of time
+προπάσχω	to suffer beforehand
+ὁ προπάτωρ	forefather
+προςάββατον	day before sabbath
+προςαγορεύω	"to designate; to call, address"
+προςαιτέω	to beg
+προςαναβαίνω	to go up
+*** 5026 - 5050 (/course/66563/koine-greek-3/202/)	
+προςαναλόω	to spend lavishly
+προςαπειλέω	to threaten further
+προςδαπανάω	to spend further
+προςδέομαι	to need; plead
+προςεάω	to allow to go farther
+προςεργάζομαι	to make more
+προςηλόω	to fasten; to nail to
+ἡ προςκαρτέρησις	perseverance
+τὸ προςκεφάλαιον	"cushion, pillow"
+προςκληρόω	to join with
+προςκλίνω	to join
+ἡ πρόσκλισις	"inclination, favoritism"
+ἡ προςκοπή	cause for offense
+ὁ προςκυνητής	worshiper
+ἡ πρόσλημψις	acceptance
+προςορμίζω	to moor
+προςοφείλω	"to owe, owe besides"
+πρόσπεινος	hungry
+προςπήγνυμι	to crucify
+προςποιέω	to add on; to act as if
+προςπορεύομαι	to come toward; to approach
+ἡ προςτάτις	"ruler, leader; patron, benefactor (f)"
+τὸ προςφάγιον	cooked fish
+πρόσφατος	"freshly slain; fresh, new, recent"
+προςφάτως	recently
+*** 5051 - 5075 (/course/66563/koine-greek-3/203/)	
+προςφιλής	"dear, beloved"
+ἡ πρόσχυσις	sprinkling
+προςψαύω	"to touch upon, touch"
+προςωπολημπτέω	to show favoritism
+ὁ προςωπολήμπτης	one who shows favoritism
+προτείνω	to stretch forth; to tie up
+πρότερος	"former, formerly"
+προτρέπω	"to encourage, persuade, urge on"
+προφθάνω	to outrun; come before
+προχειροτονέω	to choose beforehand
+ὁ Πρόχορος	Prochorus
+πρωτεύω	"to have first place, take preeminence"
+ὁ πρωτοςτάτης	primary person; ringleader
+τὸ πρωτοτόκια	rights of firstborn
+πρώτως	"firstly, for the first time"
+ἡ πτέρνα	heel; hoof; step
+πτηνός	"feathered, winged; bird"
+ἡ πτόησις	terrifying fear
+ἡ Πτολεμαΐς	Ptolemais
+πτύρω	to frighten
+τὸ πτύσμα	spit
+πτύσσω	to close
+πτωχεύω	to become poor
+ἡ πυγμή	"fist, fist-fight"
+ὁ πύθων	Python
+*** 5076 - 5100 (/course/66563/koine-greek-3/204/)	
+πυκνός	"frequent, quick, rapid, shrewd"
+πυκτεύω	to box
+πύρινος	fiery red
+ὁ Πύρρος	Pyrrhus
+ὁ Ῥαγαύ	Reu; Ragau
+τὸ ῥᾳδιούργημα	wrongdoing
+ἡ ῥᾳδιουργία	unscrupulousness
+ὁ Ῥαιφάν	Rephan
+ῥακά	(Aram.) empty-head
+ἡ Ῥαμά	Ramah
+ἡ Ῥαχάβ	Rahab
+ἡ Ῥαχήλ	Rachel
+ἡ Ῥεβέκκα	Rebecca
+ἡ ῥέδη	"carriage, wagon"
+ῥέω	to flow
+τὸ Ῥήγιον	Rhegium
+τὸ ῥῆγμα	"torn piece; ruin, destruction"
+ῥήγνυμι	"to break, tear, attack, burst out"
+ὁ Ῥησά	Rhesa
+ὁ ῥήτωρ	"lawyer, orator"
+ῥητῶς	"expressly, clearly"
+ἡ ῥιπή	blinking
+ῥιπίζω	"to toss away, blow away"
+ῥιπτέω	"to throw, let down"
+ἡ Ῥόδη	Rhoda
+*** 5101 - 5125 (/course/66563/koine-greek-3/205/)	
+ἡ Ῥόδος	Rhodes
+ῥοιζηδόν	with a great noise
+ὁ Ῥουβήν	Reuben
+ἡ Ῥούθ	Ruth
+ῥυπαίνω	"to be filthy, impure"
+ἡ ῥυπαρία	impurity
+ὁ ῥύπος	"filth, dirt"
+ἡ ῥυτίς	"fold, wrinkle"
+Ῥωμαϊστί	in the Latin language
+ῥώννυμι	"to strengthen, possess strength"
+ὁ σαββατισμός	sabbath rest
+ἡ σαγήνη	dragnet
+σαίνω	to disturb
+ἡ Σαλαμίς	Salamis
+τὸ Σαλείμ	Salim
+ἡ Σαλμώνη	Salmone
+ὁ σάλος	"surge, seawave; restlessness; trial"
+ὁ σαλπιστής	trumpeter
+ἡ Σαμοθρᾴκη	Samothrace
+ἡ Σάμος	Samos
+ὁ Σαμψών	Samson
+ἡ σανίς	"plank, board"
+ἡ Σάπφιρα	Sapphira
+ἡ σάπφιρος	sapphire
+ἡ σαργάνη	braid; basket
+*** 5126 - 5150 (/course/66563/koine-greek-3/206/)	
+ἡ σαρδόνυξ	sardonyx
+τὸ Σάρεπτα	Sarepta
+ὁ Σαρών	Sharon
+σεβάζομαι	to worship
+ἡ σειρά	"chain, rope"
+ὁ Σεκοῦνδος	Secundus
+ἡ Σελεύκεια	Seleucia
+ὁ Σεμεΐν	Semein
+ἡ σεμίδαλις	fine flour
+ὁ Σέργιος	Sergius
+ὁ Σερούχ	Serug
+ὁ Σήθ	Seth
+ὁ Σήμ	Shem
+σημειόω	"to note, to manifest"
+σήπω	"to rot, decay"
+σητόβρωτος	moth-eaten
+σθενόω	to strengthen
+ὁ σίδηρος	iron
+ὁ σικάριος	"terrorist, assassin"
+τὸ σίκερα	strong drink
+τὸ σιμικίνθιον	"apron, kerchief"
+σινιάζω	to sift
+σιρικός	"silk, silken"
+τὸ σιτίον	"grain, food"
+σιτιστός	fattened
+*** 5151 - 5175 (/course/66563/koine-greek-3/207/)	
+τὸ σιτομέτριον	food allotment
+τὸ σκέπασμα	clothing
+ὁ Σκευᾶς	Sceva
+ἡ σκευή	"tackle, rigging"
+ἡ σκηνοπηγία	making of booths; Festival of Tabernacles
+ὁ σκηνοποιός	tentmaker
+ἡ σκληρότης	"hardness, cruelty"
+σκληροτράχηλος	"stiff-necked, stubborn"
+ὁ σκόλοψ	thorn
+ὁ σκοπός	"lookout, sentry; target"
+τὸ σκύβαλον	garbage
+ὁ Σκύθης	Scythian
+τὸ σκῦλον	plunder
+σκωληκόβρωτος	eaten by worms
+ὁ σκώληξ	worm
+σμαράγδινος	made of emerald
+ὁ σμάραγδος	emerald; malachite
+σμυρνίζω	to mix with myrrh
+ἡ σορός	"bier, coffin"
+ἡ Σουσάννα	Susanna
+ὁ σπεκουλάτωρ	executioner
+ὁ σπερμολόγος	scavenger; idea-picker
+ἡ σπιλάς	stain
+ἡ σπορά	"seed, sowing"
+ἡ στάμνος	jar
+*** 5176 - 5200 (/course/66563/koine-greek-3/208/)	
+ὁ στασιαστής	rebel
+ὁ στατήρ	stater (coin)
+ὁ Στάχυς	Stachys
+τὸ στέμμα	garland
+τὸ στερέωμα	"firmness, steadfastness; firmament"
+ὁ στηριγμός	firmness
+ἡ στιβάς	leafy branch
+τὸ στίγμα	mark
+ἡ στιγμή	moment
+στίλβω	to shine
+Στοϊκός	Stoic
+ὁ στόμαχος	stomach
+στρατολογέω	"to enlist soldiers, enlist as a soldier"
+τὸ στρατόπεδον	"camp, encamped army"
+στρεβλόω	"to twist, make crooked, pervert; to trouble"
+τὸ στρῆνος	insolence; sensuality
+στυγητός	"hated, hateful"
+ἡ συγγενίς	relative (f)
+ἡ συγγνώμη	concession; pardon
+συγκακουχέομαι	to suffer with
+συγκαλύπτω	to cover up
+συγκάμπτω	"to bend, cause to bend"
+συγκαταβαίνω	to go down together
+ἡ συγκατάθεσις	agreement
+συγκατατίθημι	to agree with
+*** 5201 - 5225 (/course/66563/koine-greek-3/209/)	
+συγκαταψηφίζομαι	to be counted among
+συγκινέω	to stir up
+συγκομίζω	to collect; to bury
+συγκύπτω	to bend over
+ἡ συγκυρία	"chance, coincidence"
+συγχράομαι	to have dealings with; to make use of
+ἡ σύγχυσις	confusion
+ὁ συζητητής	"debater, disputant"
+ὁ σύζυγος	fellow-worker
+ἡ συκάμινος	mulberry tree
+ἡ συκομορέα	sycamore tree
+συλαγωγέω	to make a captive
+συλάω	to rob
+συλλογίζομαι	"to calculate, consider, discuss"
+συλλυπέω	"to sympathize, grieve with"
+ὁ σύμβουλος	"adviser, counselor"
+ὁ συμμαθητής	fellow disciple
+συμμερίζω	to share with
+ὁ συμμιμητής	joint-imitator
+συμμορφίζω	to share the same form
+συμπαθής	sympathetic; sharing feeling with
+συμπαραγίνομαι	to assemble
+συμπαρακαλέω	to be encouraged together
+συμπάρειμι	"to be present also, to stand by (sum)"
+συμπεριλαμβάνω	to embrace
+*** 5226 - 5250 (/course/66563/koine-greek-3/210/)	
+συμπίνω	to drink with
+συμπίπτω	"to collapse, fall together"
+ὁ συμπολίτης	fellow citizen
+συμπρεσβύτερος	fellow-elder
+σύμφημι	"to approve, agree"
+ὁ συμφυλέτης	fellow countryman
+σύμφυτος	deeply implanted; thickly wooded; united with
+συμφύω	to grow up with
+ἡ συμφώνησις	agreement
+ἡ συμφωνία	"music, harmony"
+σύμφωνος	"harmonious, friendly"
+συμψηφίζω	to count
+σύμψυχος	"united, as one"
+συναγωνίζομαι	"to help, join"
+συναλίζω	"to eat with, assemble"
+συναλλάσσω	"to reconcile, make peace"
+συναναπαύομαι	to rest with
+συναπόλλυμι	to perish together
+συναποςτέλλω	to send with
+συναυξάνω	to grow together
+συνδέω	to fasten together; to be in prison with
+συνδοξάζω	to share in glory
+ἡ συνδρομή	running together; tumultuous mob
+σύνειμι	"to gather, join together"
+συνεκλεκτός	person also chosen
+*** 5251 - 5275 (/course/66563/koine-greek-3/211/)	
+συνεπιμαρτυρέω	to testify at the same time
+συνεπιτίθημι	to join in an attack
+συνέπομαι	to accompany
+συνεφίστημι	to join in attack
+συνήδομαι	to delight in
+ὁ συνηλικιώτης	contemporary
+συνθρύπτω	to break
+συνοδεύω	to travel with
+ἡ συνοδία	group
+συνοικέω	to live with
+συνοικοδομέω	to build together
+συνομιλέω	to talk with; have fellowship with
+συνομορέω	to be next door
+συντέμνω	"to cut short, shorten; summarize"
+τὸ σύντριμμα	"fracture, wound, destruction"
+ὁ σύντροφος	"close friend, comrade"
+συντυγχάνω	"to reach, to meet"
+ἡ Συντύχη	Syntyche
+συνυποκρίνομαι	to act insincerely with
+συνυπουργέω	to help
+συνωδίνω	to suffer pain together
+ἡ συνωμοςία	"conspiracy, plot"
+ἡ Συράκουσαι	Syracuse
+ὁ Σύρος	"Syrian, Aramean"
+ἡ Συροφοινίκισσα	Syrophoenician (f)
+*** 5276 - 5300 (/course/66563/koine-greek-3/212/)	
+ἡ Σύρτις	Syrtis
+τὸ σύσσημον	signal
+σύσσωμος	part of the same body; co-body member
+συστατικός	recommendation
+συστενάζω	to groan together
+συστοιχέω	to correspond to
+ἡ Συχάρ	Sychar
+τὸ σφάγιον	sacrificial victim
+σφοδρῶς	greatly
+τὸ σφυδρόν	ankle
+ἡ σχολή	"leisure, idleness; lecture hall"
+σωματικῶς	in bodily form
+ὁ Σώπατρος	Sopater
+ὁ Σωσίπατρος	Sosipater
+σωτήριος	bringing salvation
+σωφρονίζω	to train
+ὁ σωφρονισμός	self-control
+σωφρόνως	"wisely, soberly, moderately"
+ἡ ταβέρναι	"inns, taverns (pl.)"
+τὸ τάγμα	proper order; group
+τακτός	appointed
+ταλαιπωρέω	to be sorrowful; to suffer distress
+ταλαντιαῖος	weighing a talent
+ταλιθά	talitha (Aram.) little girl
+ταπεινόφρων	"humble, humility"
+*** 5301 - 5325 (/course/66563/koine-greek-3/213/)	
+ταρταρόω	to cast into Tartarus
+ἡ ταφή	"burial place, burial"
+ταχύς	"swift, quickly, soon"
+τὸ τεκμήριον	sign; proof
+τεκνογονέω	to have children
+ἡ τεκνογονία	childbirth
+τεκνοτροφέω	to bring up children
+τελείως	"completely, perfectly"
+ὁ τελειωτής	completeness
+τελεσφορέω	to bring to perfection; to produce mature fruit
+ἡ τελευτή	"finishing, completion; death"
+ὁ Τέρτιος	Tertius
+τεταρταῖος	on the fourth day
+τετράγωνος	square
+τὸ τετράδιον	squad of four
+ἡ τετράμηνος	four months
+τετραπλοῦς	fourfold
+τεφρόω	to turn into ashes
+τήκω	to melt
+τηλαυγῶς	clearly
+ὁ Τιβέριος	Tiberius
+ὁ Τιμαῖος	Timaeus
+ἡ τιμιότης	abundance
+ὁ Τίμων	Timon
+ἡ τιμωρία	punishment
+*** 5326 - 5350 (/course/66563/koine-greek-3/214/)	
+τίνω	to pay; undergo payment
+ὁ Τίτιος	Titius
+τοιόσδε	of such a kind
+ὁ τοῖχος	wall
+τολμηρός	"bold, courageous; boldly"
+ὁ τολμητής	adventurer; reckless person
+τομός	"sharp, cutting"
+τὸ τόξον	(archery) bow
+τὸ τοπάζιον	topaz
+ὁ Τόπος	Place
+ὁ τραπεζίτης	banker
+τὸ τραῦμα	wound
+τραχηλίζω	to lay bare (the neck)
+ἡ Τραχωνῖτις	Trachonitis
+τὸ τρῆμα	eye of needle
+ἡ τριετία	period of three years
+τρίζω	to scream
+τρίμηνος	three months
+τὸ τρίστεγον	third floor
+τρισχίλιοι	three thousand
+τρίχινος	made of hair
+ἡ τροπή	turning
+τροποφορέω	to put up with
+ἡ τροφός	nurse
+ἡ τροχιά	path; course; wheel-track
+*** 5351 - 5375 (/course/66563/koine-greek-3/215/)	
+ὁ τροχός	"wheel, cycle"
+ἡ τρυγών	turtledove
+ἡ τρυμαλιά	hole
+τὸ τρύπημα	hole
+ἡ Τρύφαινα	Tryphena
+τρυφάω	to live in self-indulgence; to revel
+ἡ Τρυφῶσα	Tryphosa
+τυμπανίζω	to pound like a drum; to torture
+τυπικῶς	"by way of example, warning"
+ὁ Τύραννος	Tyrannus
+ὁ Τύριος	Tyrian
+τύφω	"to smoke, smolder"
+τυφωνικός	tempestuous
+ὑακίνθινος	"hyacinth-colored, blue"
+ὁ ὑάκινθος	hyacinth; cloth of hyacinth color
+ὁ ὕαλος	crystal-stone; glass
+ἡ ὕαλος	crystal-stone; glass
+ὑγρός	"moist, running, fluid; supple"
+ὑδροποτέω	to drink water
+ὑδρωπικός	to have dropsy
+ἡ ὕλη	"wood, forest; material, matter"
+ὕπανδρος	married woman
+ὑπείκω	to submit to
+ὑπέρ	(+gen) for; (+acc) beyond; (adv) more
+ὑπέρακμος	past marital age
+*** 5376 - 5400 (/course/66563/koine-greek-3/216/)	
+ὑπεραυξάνω	to grow abundantly
+ὑπερβαίνω	"to cross over, to exceed; to sin against"
+ὑπερβαλλόντως	"more severely, exceedingly"
+ὑπερέκεινα	(+gen) beyond
+ὑπερεκτείνω	to go beyond
+ὑπερεκχύννω	to run over
+ὑπερεντυγχάνω	to intercede
+ἡ ὑπερηφανία	"pride, arrogance"
+ὑπερνικάω	to be completely victorious
+ὑπεροράω	to disregard
+ὑπερπερισσῶς	completely
+ὑπερπλεονάζω	"to overflow, abound greatly"
+ὑπερυψόω	to highly exalt
+ὑπερφρονέω	to despise; to hold too high a self-opinion
+ὑπέχω	"to suffer; hold, supply, furnish"
+ὑποβάλλω	"to subject, submit; substitute"
+ὁ ὑπογραμμός	example; outline
+ὑπόδικος	guilty
+ὑποζώννυμι	to undergird
+ὑποκρίνομαι	to pretend; act; be a hypocrite
+τὸ ὑπόλειμμα	remnant
+ὑπολείπω	to leave
+τὸ ὑπολήνιον	winepress trough
+ὑπολιμπάνω	to leave behind
+ἡ ὑπόνοια	"suspicion; conjecture, foreboding"
+*** 5401 - 5425 (/course/66563/koine-greek-3/217/)	
+ὑποπνέω	to blow gently
+ἡ ὑποςτολή	turning back
+ὑποςτρωννύω	"to spread under, spread out"
+ὑποτρέχω	to run under shelter of
+ἡ ὗς	pig; wild pig
+ὕστερος	"afterwards, last, later"
+ὑφαντός	woven
+ὑψηλοφρονέω	to be arrogant
+ὁ φαιλόνης	cloak
+ὁ Φάλεκ	Peleg
+ὁ φανός	"torch, lantern, lamp"
+ὁ Φανουήλ	Phanuel
+φαντάζω	"to appear, become visible"
+ἡ φαντασία	appearance; pomp; fantasy
+ἡ φάραγξ	valley
+τὸ φάρμακον	"medicine, poison, potion; sorcery, witchcraft"
+ἡ φάσις	"news, report"
+φθινοπωρινός	"Autumn, Fall; autumnal"
+φθονέω	to envy
+φιλάγαθος	loving the good
+φιλάδελφος	brother-loving
+φίλανδρος	loving one’s husband
+φιλανθρώπως	"kindly, considerately"
+ἡ φιλαργυρία	love of money
+φίλαυτος	"selfish, self-centered"
+*** 5426 - 5450 (/course/66563/koine-greek-3/218/)	
+φιλήδονος	pleasure-loving
+ὁ Φιλήμων	Philemon
+ὁ Φίλητος	Philetus
+ἡ φιλία	"love, friendship"
+ὁ Φιλιππήσιος	Philippian
+φιλόθεος	"god-loving, pious; God-loving"
+ὁ Φιλόλογος	Philologus
+ἡ φιλονεικία	argument
+φιλόνεικος	argumentative
+φιλοπρωτεύω	desire to be first
+ἡ φιλοςοφία	philosophy; love of wisdom; investigation
+ὁ φιλόσοφος	"(n) philosopher; (adj) philosophical, scientific"
+φιλόστοργος	"devoted, loving"
+φιλότεκνος	children-loving
+φιλοφρόνως	hospitably
+ὁ Φλέγων	Phlegon
+φλυαρέω	to slander
+φλύαρος	"talkative, gossipy"
+τὸ φόβητρον	"terror, dreadful sight"
+ἡ Φοίβη	Phoebe
+ὁ Φοῖνιξ	Phoenician; Phoenix (city)
+τὸ φόρον	forum
+ὁ Φορτουνᾶτος	Fortunatus
+τὸ φραγέλλιον	whip
+φράζω	to explain
+*** 5451 - 5475 (/course/66563/koine-greek-3/219/)	
+φρεναπατάω	to deceive
+ὁ φρεναπάτης	deceiver
+φρίσσω	"to tremble, shudder"
+φρονίμως	wisely
+φροντίζω	to consider; to be careful
+φρυάσσω	to be furious
+τὸ φρύγανον	stick
+ὁ Φύγελος	Phygellus
+ἡ φυγή	flight
+φυλακίζω	to imprison
+τὸ φυλακτήριον	phylactery
+φυσικῶς	naturally
+ἡ φυσίωσις	"conceit, pride"
+ἡ φυτεία	"plant, planting"
+φωσφόρος	morning star
+ὁ Χαλδαῖος	Chaldean
+ὁ χαλκεύς	coppersmith
+ὁ χαλκηδών	chalcedony
+τὸ χαλκίον	copper vessel
+χαλκοῦς	made of bronze
+Χαναναῖος	Canaanite
+ὁ χαρακτήρ	mark; character; express image
+ὁ χάραξ	"barricade, bulwark"
+ὁ χάρτης	papyrus sheet; record
+τὸ χάσμα	"gulf, chasm"
+*** 5476 - 5500 (/course/66563/koine-greek-3/220/)	
+χειμάζω	to be storm-tossed; spend the winter
+ὁ χείμαρρος	brook
+ὁ χειραγωγός	one who leads by the hand
+τὸ χειρόγραφον	handwriting
+τὸ Χερούβ	cherub
+τὸ χιλιάς	group of a thousand
+ἡ Χίος	Chios
+χλευάζω	"to joke, scoff, jeer"
+χλιαρός	lukewarm
+ἡ Χλόη	Chloe
+χολάω	to be angry
+ὁ χορός	"dance; chorus; troop, group"
+τὸ χόρτασμα	feed; food
+ὁ Χουζᾶς	Chuza
+χρή	"it ought, should"
+ὁ χρηματισμός	"oracle, divine reply"
+χρήσιμος	"profitable, useful"
+χρηστεύομαι	"to be good, kind"
+ἡ χρηστολογία	smooth talk
+χρονοτριβέω	to spend time
+χρυσοδακτύλιος	with a gold ring
+ὁ χρυσόλιθος	chrysolite
+ὁ χρυσόπρασος	chrysoprase
+ὁ χρώς	"skin, body surface"
+χωρίς	(+gen) without (prep.); separately (adv)
+*** 5501 - 5515 (/course/66563/koine-greek-3/221/)	
+ὁ χῶρος	"plot of ground, place"
+ὁ ψευδαπόστολος	false apostle
+ὁ ψευδοδιδάσκαλος	false teacher
+ὁ ψευδολόγος	lying; liar
+ψευδώνυμος	falsely called; under a false name
+τὸ ψεῦσμα	untruthfulness
+ὁ ψιθυρισμός	whistle; gossip
+ὁ ψιθυριστής	gossiper
+ψύχω	to cool; grow cold; make dry
+ψώχω	to rub
+ὠνέομαι	to buy
+τὸ ᾠόν	egg
+ὠρύομαι	to roar
+ὁ Ὡσηέ	Hosea
+ὡσπερεί	"as, as though"

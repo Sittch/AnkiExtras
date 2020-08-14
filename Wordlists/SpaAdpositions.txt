@@ -1,0 +1,116 @@
+*** 1 - 10 (/course/189237/spanish-adpositions/1/)	
+de	"of, from, with"
+en	"on, in, at"
+a	"at, to, of"
+del	"of the, from the"
+por	"by, per, for"
+con	"with, by"
+para	"for, to, in order to"
+al	"to the, at the"
+sobre	"about, on, above"
+entre	"between, among, within"
+*** 11 - 20 (/course/189237/spanish-adpositions/2/)	
+sin	without
+desde	"from, since, from the"
+hasta	"to, until, through"
+durante	"during, for"
+contra	"against, to"
+según	"according to, on, by"
+tras	"behind, after"
+hacia	"to, towards, toward"
+ante	"before, in front of, compared to"
+después de	after
+*** 21 - 30 (/course/189237/spanish-adpositions/3/)	
+bajo	"under, beneath, below"
+antes	"before, in front of, compared to"
+junto a	"beside, alongside"
+a través	"through, across, between"
+dentro de	"inside, in, within"
+mediante	"through, by means of, by"
+debido a	"because of, on account of, due to"
+además de	"besides, as well as, in addition to"
+respecto	"regarding, in relation to"
+a partir de	"as of, since, as low as"
+*** 31 - 40 (/course/189237/spanish-adpositions/4/)	
+cerca de	"around, close to"
+a pesar de	"in spite of, despite"
+gracias a	thanks to
+en medio	"in the way, between"
+a favor	in favor
+fuera de	out of
+acerca de	"on, about, concerning"
+alrededor de	"around, round, about"
+en lugar de	"in place of, instead of"
+*** 41 - 50 (/course/189237/spanish-adpositions/5/)	
+en torno a	around
+a nombre de	in the name of
+pese a	"despite, in spite of"
+detrás	behind
+en vez de	instead of
+a causa de	because of
+salvo	"except, excluding, save"
+encima	at top of
+a fin de	"with the purpose of, in order to, so as to"
+debajo de	"under, beneath, underneath"
+*** 51 - 60 (/course/189237/spanish-adpositions/6/)	
+delante de	"before, in front of"
+excepto	"except, but, save"
+a punto de	about to
+al principios	"at first, initially, to begin with"
+en caso de	in the event of
+al lado	"aside, beside, to the side"
+aparte de	"apart from, other than, besides"
+a cargo de	in charge of
+so	"under, under penalty"
+en relación a	"in relation to, relative to"
+*** 61 - 70 (/course/189237/spanish-adpositions/7/)	
+al cabo de	after
+a cambio de	"in exchange for, in return for"
+a mediados de	in the middle of
+en virtud de	"by virtue of, according to"
+en pro de	in favour of
+a raíz de	"as a result of, due to"
+al frente de	in front of
+al servicio de	at the service of
+a modo de	"by way of, as, as a kind of"
+con excepción de	with the exception of
+*** 71 - 80 (/course/189237/spanish-adpositions/8/)	
+a base de	based on
+en espera de	waiting for
+con objeto de	"with the purpose of, in order to"
+principio de	principle of
+en comparación con	"in comparison with, compared to"
+a comienzos de	at the beginning of
+a consecuencia de	"as a result of, as a consequence of"
+en honor de	in honour of
+a razón de	"as a result of, because of"
+a fuerza de	"by, by dint of"
+*** 81 - 90 (/course/189237/spanish-adpositions/9/)	
+menos	"less, but, except"
+en dirección a	"in the direction of, toward, towards"
+vías	"via, by, by way of"
+con ocasión de	on occasion of
+en perjuicio de	detrimental to
+a la sombra de	"in the shade of, in the shadow of"
+en pos de	"after, in pursuit of, in search of"
+de parte de	"from, on behalf of"
+a expensas de	at the expense of
+a cuenta de	on account of
+*** 91 - 100 (/course/189237/spanish-adpositions/10/)	
+ausencia de	lack of
+a efectos de	"for the purpose of, in order to, so as to"
+a la atención de	to the attention of
+en señal de	"as a sign of, as a gesture of, to signify"
+en memoria de	in memory of
+vía	"via, by, by way of"
+al tenor de	"in accordance with, according to"
+versus	versus
+obra de	work of
+a guisa de	"in the guise of, by way of"
+*** 101 - 106 (/course/189237/spanish-adpositions/11/)	
+concerniente	concerning
+a compás de	to the rhythm of
+al calor de	by the warmth of
+derredor	around
+a ras de	"flush with, level with"
+a todo esto	"what’s more, while on the subject, incidentally"

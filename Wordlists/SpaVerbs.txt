@@ -1,0 +1,3820 @@
+*** 1 - 10 (/course/186268/spanish-verbs/1/)	
+ser	"be, be for, serve as"
+hacer	"do, make, render"
+decir	"say, tell, speak"
+ver	"see, view, look"
+tener	"have, keep, own"
+haber	"have, there are, be"
+dar	"give, yield, donate"
+estar	"be, stand, stay"
+llegar	"arrive, reach, get"
+saber	"know, taste, have a flavour"
+*** 11 - 20 (/course/186268/spanish-verbs/2/)	
+hablar	"talk, speak, be on speaking terms"
+seguir	"follow, continue, proceed"
+ir	"go, be, leave"
+pasar	"pass (by), get, come"
+evitar	"avoid, prevent, avert"
+tomar	"take, take up, drink/eat"
+encontrar	"find, encounter, meet"
+poner	"put, add, post"
+dejar	"leave, let, stop"
+llevar	"carry, wear, take, bring"
+*** 21 - 30 (/course/186268/spanish-verbs/3/)	
+volver	"return, get back, go back"
+realizar	"realize, carry out, implement, perform"
+crear	"create, set up, develop"
+mantener	"maintain, keep, support"
+conseguir	"obtain, get, achieve"
+salir	"leave, get out, go"
+trabajar	"work, labour"
+conocer	"know, meet, learn"
+pensar	"think, believe, intend"
+vivir	"live, live on/through, exist"
+*** 31 - 40 (/course/186268/spanish-verbs/4/)	
+entrar	"enter, come in, access"
+alcanzar	"reach, achieve, catch up with"
+obtener	"obtain, get, win"
+garantizar	"guarantee, assure, secure"
+lograr	"achieve, get, obtain"
+establecer	"establish, set, set up"
+mejorar	"improve, enhance, upgrade"
+buscar	"seek, search (for), look (for)"
+oír	"hear, listen, listen to"
+utilizar	"utilize, use, utilise"
+*** 41 - 50 (/course/186268/spanish-verbs/5/)	
+presentar	"present, submit, introduce"
+cumplir	"comply, carry out, achieve"
+tratar	"treat, process, deal"
+ganar	"win, earn, gain"
+recibir	"receive, get, welcome"
+contar	"count/calculate, relate/tell"
+formar	"form, train, shape"
+ayudar	"help, assist, support"
+esperar	"wait, hope, expect"
+entender	"understand, comprehend, realize"
+*** 51 - 60 (/course/186268/spanish-verbs/6/)	
+comer	"eat, meal, take lunch"
+cambiar	"change, switch, alter"
+gustar	"like, taste, be liked by"
+permitir	"permit, allow, enable"
+considerar	"consider, look at, think"
+perder	"lose, miss, waste"
+pedir	"ask for, request, order"
+jugar	"play, gamble, risk"
+reducir	"reduce, cut down, lower"
+aceptar	"accept, embrace, take"
+*** 61 - 70 (/course/186268/spanish-verbs/7/)	
+construir	"construct, build"
+recordar	"remember, recall, remind"
+aumentar	"augment, increase/grow, improve"
+participar	"participate, take part, join"
+caer	"fall, drop, fall down"
+actuar	"act, proceed, play"
+desarrollar	"develop, flourish"
+llamar	"call, call in, call up"
+escribir	"write, correspond with, compose"
+apoyar	"support, back, sustain"
+*** 71 - 80 (/course/186268/spanish-verbs/8/)	
+morir	"die, be dying"
+resolver	"solve, resolve, work out"
+pagar	"pay, pay for, repay"
+producir	"produce, yield, generate"
+usar	"use, wear"
+aplicar	"apply, enforce, apply oneself"
+adoptar	"adopt, assume"
+proteger	"protect, preserve, shield"
+comprender	"comprehend, understand, comprise"
+continuar	"continue, carry on, keep up"
+*** 81 - 90 (/course/186268/spanish-verbs/9/)	
+destacar	"stand out/jut out, emphasize, hightlight"
+intentar	"intend, try, attempt (to)"
+reconocer	"recognise, acknowledge, admit"
+asegurar	"assure, ensure, guarantee"
+estudiar	"study, research, examine"
+abrir	"open, open up, start"
+acabar	"finish, end, complete"
+responder	"respond, answer, reply"
+creer	"believe, think, believe oneself"
+sacar	"take out, take, get, draw"
+*** 91 - 100 (/course/186268/spanish-verbs/10/)	
+terminar	"terminate, end, finish, complete"
+leer	read
+defender	"defend, advocate, stand up for"
+servir	"serve, help (oneself), use"
+ofrecer	"offer, give, offer up"
+expresar	"express, articulate, voice"
+sentir	"feel, sense, hear"
+empezar	"begin, start, start off"
+abandonar	"abandon, leave, relinquish"
+explicar	"explain, account for"
+*** 101 - 110 (/course/186268/spanish-verbs/11/)	
+quedar	"stay, remain, be left over"
+luchar	"struggle, fight, wrestle"
+matar	"kill, slay, slaughter"
+observar	"observe, note, monitor"
+demostrar	"demonstrate, prove, show"
+mirar	"look at, look, view"
+determinar	"determine, decide, establish"
+votar	vote
+convertir	"convert, turn, transform"
+controlar	"control, monitor, check"
+*** 111 - 120 (/course/186268/spanish-verbs/12/)	
+escuchar	"listen, hear, listen to"
+venir	"come, arrive, turn up"
+recuperar	"recover, retrieve, regain"
+superar	"overcome, pass, surpass"
+promover	"promote, advance, foster"
+incluir	"include, incorporate, enclose"
+celebrar	"celebrate, hold (an event)"
+comenzar	"start, begin, commence"
+decidir	"decide, determine"
+contribuir	"contribute, pay taxes, give"
+*** 121 - 130 (/course/186268/spanish-verbs/13/)	
+impedir	"impede, hinder, prevent"
+combatir	"fight, combat, battle"
+elegir	"choose, elect, select"
+mostrar	"show, display, exhibit"
+tocar	"touch/feel, play (an instrument), knock/ring"
+olvidar	"forget, neglect, leave"
+sufrir	"suffer, undergo, experience"
+facilitar	"facilitate, help, supply"
+aprender	"learn, memorise, learn by heart"
+correr	"run, flow, come"
+*** 131 - 140 (/course/186268/spanish-verbs/14/)	
+eliminar	"eliminate, remove, expel"
+avanzar	"advance, go forward, move forward"
+reforzar	"strengthen, bolster, reinforce"
+aprovechar	"take advantage of, be of use, take"
+comprar	"purchase, buy, buy off"
+salvar	"save, salvage, rescue"
+escapar	"escape, run away, get away"
+abordar	"approach, tackle, board"
+introducir	"introduce, insert, enter"
+existir	"exist, be, live"
+*** 141 - 150 (/course/186268/spanish-verbs/15/)	
+querer	"want, love, wish"
+regresar	"return, come back, get back"
+acceder	"gain access, agree, consent"
+parecer	"seem, appear, look"
+descubrir	"discover, learn, find out"
+asumir	"assume, take on, accept responsibility"
+cerrar	"close, shut down, lock"
+definir	"define, determine, be defined"
+iniciar	"start, initiate, launch"
+ejercer	"exercise, exert, hold office"
+*** 151 - 160 (/course/186268/spanish-verbs/16/)	
+aparecer	"appear, show up, emerge"
+mencionar	"mention, name, refer to"
+prestar	"loan, lend, render"
+ocupar	"occupy, take over, fill"
+comprobar	"prove/verify, ascertain, confirm"
+imponer	"impose, enforce, lay/set"
+vender	"sell, market, accept a bribe"
+destruir	"destroy, ruin, leave wrecked"
+concluir	"conclude, finish, close"
+afirmar	"affirm, assert, declare"
+*** 161 - 170 (/course/186268/spanish-verbs/17/)	
+dormir	sleep
+preparar	"prepare, make/get ready, cook"
+subir	"go up/onto/in, raise/increase"
+permanecer	"remain, stay, keep"
+referir	"refer, refer to, relate"
+fomentar	"promote, foster, encourage, foment"
+pesar	"weigh, influence; regret"
+representar	"represent, depict, perform"
+enviar	"send, post, ship"
+analizar	"analyse, parse, analyze"
+*** 171 - 180 (/course/186268/spanish-verbs/18/)	
+visitar	"visit, see, inspect"
+dirigir	"direct, lead, guide"
+andar	"walk, go around, go"
+romper	"break into pieces, shatter, tear"
+examinar	"examine, consider, review"
+proporcionar	"provide/supply, adjust/adapt"
+viajar	"travel, journey, trip"
+huir	"run away, escape, run off"
+aprobar	"approve, pass, adopt"
+conservar	"conserve, retain, preserve"
+*** 181 - 190 (/course/186268/spanish-verbs/19/)	
+elaborar	"elaborate, produce/work, develop"
+felicitar	"congratulate, congratulate oneself"
+modificar	"modify, change, vary"
+adquirir	"acquire, purchase, obtain"
+organizar	"organise, arrange, host"
+respetar	"respect, honour, observe"
+lanzar	"launch, throw, pitch"
+afrontar	"face, confront"
+ampliar	"amplify, enlarge, extend"
+cantar	"sing; confess, chirp"
+*** 191 - 200 (/course/186268/spanish-verbs/20/)	
+atacar	"attack, assault, tackle"
+disponer	"dispose, arrange/order, prepare"
+levantar	"lift, raise, lift up"
+proceder	"proceed, act, come/originate from"
+vencer	"defeat, overcome, win"
+intervenir	"intervene, interfere, tap"
+indicar	"indicate, denote, note"
+detener	"detain, arrest, halt/stop"
+negociar	"negotiate, bargain, deal"
+funcionar	"function, work/run, be a success"
+*** 201 - 210 (/course/186268/spanish-verbs/21/)	
+provocar	"provoke, tempt, arouse"
+partir	"depart/leave, divide, classify"
+bajar	"lower, get off, get down"
+distinguir	"distinguish, differentiate, make out"
+recoger	"pick up, gather, collect"
+finalizar	"finalize, close, conclude"
+identificar	"identify, equalise, put on a level with"
+repetir	"repeat, replay, echo"
+exigir	"require, demand, necessitate"
+generar	"generate, create, produce"
+*** 211 - 220 (/course/186268/spanish-verbs/22/)	
+publicar	"publish, publicize, divulge"
+desear	"desire, wish/want, intend"
+probar	"try (out), test, prove"
+compartir	"share, divide, distribute"
+ocurrir	"occur, happen, take place"
+suponer	"(pre)suppose, involve, entail"
+conducir	"conduct, lead, drive"
+echar	"throw (out), fire/sack, start to do so."
+informar	"inform, report, brief"
+plantear	"cause/create, pose/set out/bring up"
+*** 221 - 230 (/course/186268/spanish-verbs/23/)	
+desempeñar	"play/act, carry out, redeem"
+preguntar	"ask, question, inquire"
+señalar	"point at/to, mark, indicate"
+resultar	"result, work out, turn out"
+parar	"stop, parry, end (up)"
+traer	"bring/get, carry, wear"
+crecer	"grow, rise, grow up"
+recurrir	"resort to, turn to, appeal"
+satisfacer	"satisfy, meet (needs), please"
+fijar	"fix, fasten, set"
+*** 231 - 240 (/course/186268/spanish-verbs/24/)	
+declarar	"declare, state, testify"
+desaparecer	"disappear, vanish, die"
+cubrir	"cover, coat, conceal"
+asistir	"attend, help, assist"
+acudir	"to come or turn to, to go to, come to mind"
+agradecer	"thank, acknowledge, appreciate"
+incrementar	"increase, go up"
+retirar	"withdraw, retire, remove"
+constituir	"constitute, establish, make up"
+emplear	"employ, use, hire"
+*** 241 - 250 (/course/186268/spanish-verbs/25/)	
+reunir	"reunite, bring together, join"
+soportar	support; endure/bear/suffer
+llorar	"weep, cry, mourn"
+atender	"attend, respond, serve"
+suceder	"happen/occur, succeed, inherit"
+subrayar	"underline, stress, highlight, underscore"
+proponer	"propose, put forward, instigate"
+completar	"complete, finish, conclude"
+renunciar	"renounce, resign, give up"
+caminar	"walk, go, go walking"
+*** 251 - 260 (/course/186268/spanish-verbs/26/)	
+beber	drink
+despertar	"wake up, awaken, waken (so.)"
+volar	fly; blow up/blow (trans.)
+describir	"describe, depict, portray"
+investigar	"investigate, research"
+convencer	"convince, persuade, satisfy"
+transmitir	"transmit, convey, broadcast"
+discutir	"discuss, debate, argue"
+interpretar	"interpret, play, perform"
+apreciar	"appreciate, cherish, appraise"
+*** 261 - 270 (/course/186268/spanish-verbs/27/)	
+unir	"unite, join, attach"
+conceder	"concede, admit, allow/grant"
+rechazar	"reject, refuse, repel"
+solicitar	"solicit, ask/apply for, request"
+contener	"contain/hold, stop/halt/restrain"
+impulsar	"impulse, boost, propel"
+hallar	"discover, be situated, feel"
+medir	"measure, gauge, weigh up"
+evaluar	"evaluate, assess, review"
+disfrutar	"enjoy, enjoy yourself"
+*** 271 - 280 (/course/186268/spanish-verbs/28/)	
+firmar	"sign, undersign"
+aclarar	"clear (up), clarify, rinse"
+colocar	"put, place, settle"
+financiar	"fund, finance, sponsor"
+prevenir	"prevent, foresee, prepare"
+guardar	"guard, keep, save"
+entregar	"deliver, submit, hand (over)"
+emprender	"undertake, take up, start"
+causar	"cause, provoke, bring about"
+enfrentar	"face/confront, quarrel, fight"
+*** 281 - 290 (/course/186268/spanish-verbs/29/)	
+cruzar	"cross/walk across, bump into, get through"
+negar	"negate, deny, refuse"
+admitir	"admit, allow, take in"
+aportar	"contribute, yield, reach port"
+limitar	"limit, confine, restrict"
+añadir	"add, put in, mix (in)"
+recorrer	"stride across, cover/scour, run though"
+citar	"cite, quote, summon"
+mover	"move, shift, sway"
+debatir	"debate, discuss"
+*** 291 - 300 (/course/186268/spanish-verbs/30/)	
+contemplar	"contemplate, gaze at, watch"
+ejecutar	"execute, enforce, carry out"
+imaginar	"imagine, figure, guess"
+manifestar	"manifest, display, show"
+solucionar	"solve, resolve, sort out"
+resistir	"resist, hold out, endure"
+confirmar	"confirm, acknowledge, prove"
+grabar	"engrave, record, burn (CD, etc)"
+notar	"note, notice, mark"
+derrotar	"beat, defeat, vanquish"
+*** 301 - 310 (/course/186268/spanish-verbs/31/)	
+insistir	"insist, persevere, go on about"
+competir	"compete (with), be equal(ly good)"
+nacer	"be born, sprout, rise (fig)"
+favorecer	"favour, foster/promote"
+colaborar	"collaborate, cooperate, contribute"
+formular	"formulate, express, draft/devise"
+justificar	"justify, explain, prove"
+sustituir	"substitute, replace, stand in for"
+revisar	"revise, inspect, look at"
+sobrevivir	"survive, outlast"
+*** 311 - 320 (/course/186268/spanish-verbs/32/)	
+gobernar	"govern, rule, control"
+efectuar	"effect, execute, carry out"
+ocultar	"conceal, hide, mask"
+invertir	"invert, reverse; invest"
+conquistar	"conquer, take, win over"
+poseer	possess; hold (an office); master (a language)
+ceder	"cede, hand over, give up"
+sostener	"support, sustain, continue"
+juzgar	"judge, adjudicate, assess"
+enseñar	"teach, educate, instruct"
+*** 321 - 330 (/course/186268/spanish-verbs/33/)	
+marcar	"mark, dial, score"
+cortar	"cut (out), shorten, slice"
+incorporar	"incorporate, embody, (en)queue"
+afectar	"affect/influence/impact, sadden"
+reír	"laugh, laugh at"
+reflexionar	"reflect, think, ponder"
+cuidar	"take care of, tend, look after"
+integrar	"integrate, settle in, fit in"
+disminuir	"diminish, reduce, debase"
+significar	"signify, mean, spell"
+*** 331 - 340 (/course/186268/spanish-verbs/34/)	
+emitir	"emit, issue, express"
+exponer	"exhibit, expose, set forth"
+fortalecer	"fortify, strengthen, build"
+liberar	"liberate, free, release"
+dominar	"dominate, master, subdue"
+cesar	"cease, stop, terminate"
+cometer	"commit, perpetrate"
+extender	"extend, spread, expand"
+quitar	"remove, take without permission/away, revoke"
+dedicar	"dedicate, devote, allocate"
+*** 341 - 350 (/course/186268/spanish-verbs/35/)	
+saltar	"jump, hop, leap"
+trasladar	"move/transfer, postpone, translate"
+amar	"love, be passionate about"
+practicar	"practice, practise, play"
+manejar	"handle/manipulate, manage, operate"
+devolver	"return sth., give back; refund/reimburse"
+nombrar	"name, appoint, nominate"
+corregir	"correct, edit, amend"
+percibir	"perceive, discern, detect"
+transformar	"transform, process, change"
+*** 351 - 360 (/course/186268/spanish-verbs/36/)	
+contestar	"reply, answer, protest against"
+anunciar	"announce, advertise, herald"
+designar	"designate, appoint, assign"
+comunicar	"communicate, notify, report"
+separar	"separate, divide, split"
+preservar	"preserve, keep"
+advertir	"warn/alert/caution, notice"
+atraer	"attract, lure, appeal"
+cazar	"hunt, get, chase"
+consultar	"consult, see, read"
+*** 361 - 370 (/course/186268/spanish-verbs/37/)	
+averiguar	"ascertain; find out, scout/enquire"
+calcular	"calculate, estimate, compute"
+llenar	"fill, fill out/in/up, clutter up"
+consolidar	"consolidate, strengthen, become established"
+detectar	"detect, discover/record/register"
+gozar	"enjoy/relish/savour, possess"
+elevar	"elevate, raise, lift"
+confiar	"trust (to), confide in/sth to so., entrust"
+disputar	"dispute, contest, compete for"
+atravesar	"traverse, cross (to, over), perforate"
+*** 371 - 380 (/course/186268/spanish-verbs/38/)	
+influir	"influence, have influence, affect"
+someter	"submit, subjugate, subject"
+reclamar	"reclaim, claim, complain"
+tirar	"shoot, pull, throw (out)"
+coger	"take, catch, get"
+valer	"be worth, be valid, cost"
+acelerar	"accelerate,  speed up"
+resaltar	"stand out, emphasize/underline"
+extraer	"extract, draw, pull out"
+frenar	"brake, slow down/decelerate"
+*** 381 - 390 (/course/186268/spanish-verbs/39/)	
+reformar	"reform, remodel, amend"
+explotar	"exploit, explode, operate (ind.)"
+fabricar	"fabricate, produce, manufacture"
+surgir	"arise, emerge, come up (s)"
+comentar	"comment, discuss, remark"
+casar	"marry, marry off, wed"
+fundar	"found, establish, ground"
+cobrar	"cash (in)/collect, charge, calculate"
+"vestir, vestirse"	"dress (oneself), clothe, wear"
+operar	"operate, be operated, come about"
+*** 391 - 400 (/course/186268/spanish-verbs/40/)	
+temer	"fear, dread, be afraid of"
+suspender	"suspend, stop, discontinue"
+acompañar	"accompany, go along with, attach"
+ingresar	"deposit/pay in, associate (to)/join"
+obligar	"oblige/obligate, complet/coerce, bind"
+descansar	"rest, lie, take a nap"
+mandar	"send, order/command, send in"
+comparar	compare
+confundir	"confuse, mistake, confound"
+rendir	"yield/generate, produce, surrender/give up"
+*** 401 - 410 (/course/186268/spanish-verbs/41/)	
+pertenecer	"belong to, be the responsibility of"
+depender	"depend, be dependent on, come under"
+disparar	"shoot, fire, shoot up"
+pronunciar	"pronounce, give, utter"
+robar	"rob, steal, draw"
+suprimir	"suppress, remove, cancel"
+prohibir	"prohibit, ban, bar"
+valorar	"assess, value, rate"
+penetrar	"penetrate, fathom, break through"
+adaptar	"adapt, suit, adjust"
+*** 411 - 420 (/course/186268/spanish-verbs/42/)	
+condenar	"condemn, sentence, damn"
+experimentar	"experiment, experiment with, feel"
+pelear	"fight, quarrel, compete"
+vigilar	"invigilate/stand sentinel, watch (over), guard so/sth"
+bailar	"dance, to be unstable"
+gestionar	"manage, arrange, run"
+gritar	"shout, scream, yell"
+dividir	"divide, share, partition"
+coordinar	coordinate
+perseguir	"pursue, go after, hunt down"
+*** 421 - 430 (/course/186268/spanish-verbs/43/)	
+meter	"put, insert, place"
+convocar	"convoke, summon, conscribe"
+restablecer	"restore, reestablish, recover"
+proseguir	"pursue, prosecute, carry on"
+instalar	"install, set up, settle"
+transportar	"transport, carry, move"
+marchar	"march, move"
+compensar	"compensate, offset, balance"
+sumar	"sum up, amount, add up to"
+componer	"compose, make up, be composed of"
+*** 431 - 440 (/course/186268/spanish-verbs/44/)	
+denunciar	"denounce, condemn, reveal"
+escoger	"choose, pick, select"
+reparar	"repair, correct, notice"
+estimular	"stimulate/arouse, boost/encourage"
+procurar	"obtain, procure, mediate"
+constatar	"state/assert/ascertain, validate/confirm"
+dudar	"doubt, mistrust, vacillate"
+reaccionar	"react, respond, recover"
+gastar	"spend, waste, expend"
+reconstruir	"rebuild, reconstruct, restore"
+*** 441 - 450 (/course/186268/spanish-verbs/45/)	
+rescatar	"rescue, ransom so., retrieve"
+curar	"cure, heal, treat"
+castigar	"castigate, punish, penalize"
+explorar	"explore, examine"
+otorgar	"grant/award, confer"
+engañar	"deceive, cheat, fool"
+criticar	"criticize, criticise, judge"
+situar	"situate, place, position"
+montar	"mount, ride, set up/assemble"
+revelar	"reveal, expose, disclose"
+*** 451 - 460 (/course/186268/spanish-verbs/46/)	
+fumar	"smoke/fume/steam, waste"
+precisar	"need/require/necessitate, render more precisely, compel/force sb"
+asesinar	"assassinate, murder"
+capturar	"capture, catch, recapture"
+ordenar	"order, sort, arrange"
+sonar	"sound, play, ring"
+acoger	"take in, shelter, receive"
+variar	"vary, change, alter"
+concebir	"conceive, envisage"
+reemplazar	"replace, supersede, take someone\'s place"
+*** 461 - 470 (/course/186268/spanish-verbs/47/)	
+descender	"descend, go down, sink"
+respirar	"breathe, relax"
+prever	"foresee, foretell, forecast"
+clasificar	"classify, rank, sort"
+renovar	"renovate, renew, update"
+cargar	"load, upload, charge"
+alimentar	"feed, nourish, nurture"
+estallar	"detonate, explode, erupt"
+traducir	translate; convey
+registrar	"register, record, file"
+*** 471 - 480 (/course/186268/spanish-verbs/48/)	
+cooperar	"cooperate, participate, work together"
+necesitar	"need, require, take"
+obrar	"act, work,  have an effect"
+importar	"import, matter"
+girar	"rotate, turn (around), swivel"
+rodar	"roll, film/shoot, go round"
+captar	"capture, attract, receive"
+denominar	"denominate, designate, refer to"
+durar	"last/continue (to exist), endure"
+ignorar	"be ignorant of, ignore, be unaware of"
+*** 481 - 490 (/course/186268/spanish-verbs/49/)	
+dotar	"equip (with)/gear, supply, endow"
+confesar	"confess, admit, acknowledge"
+presionar	"press/put pressure on, depress, push"
+conversar	"converse, talk, chat"
+pintar	"paint, colour"
+aliviar	"alleviate, relieve, ease"
+arreglar	"repair, arrange, fix"
+diseñar	"design, draw, plan"
+difundir	"diffuse, spread, broadcast,"
+acercar	"bring/move closer, get close, approach"
+*** 491 - 500 (/course/186268/spanish-verbs/50/)	
+forzar	"force, coerce, strain"
+sentar	sit/seat; agree with (fig.); be becoming to
+arrancar	"root out/rupture; originate, start"
+sospechar	"suspect, suppose, assume"
+optar	"opt, choose, vote for"
+albergar	"house/accomodate/harbour, contain, cherish"
+reflejar	reflect/mirror
+profundizar	"deepen, make deeper, go in depth"
+esconder	"hide (out), conceal, stash"
+protestar	"protest, complain, asseverate"
+*** 501 - 510 (/course/186268/spanish-verbs/51/)	
+verificar	"verify, check, establish"
+cultivar	"cultivate, grow, farm"
+acordar	"agree on/upon, resolve, remember so. to sb."
+restaurar	"restore, repair, recover"
+cenar	"eat diner, have dinner, dine"
+limpiar	"clean, clear, wash"
+pretender	"claim, intend, expect, pretend"
+reproducir	"reproduce, breed, recur"
+respaldar	"support, back (up), protect"
+proveer	"provide, furnish, prepare"
+*** 511 - 520 (/course/186268/spanish-verbs/52/)	
+mudar	"move, change, relocate"
+entablar	"panel/wainscot; introduce, start"
+obedecer	"obey, comply with"
+administrar	"administer, manage, administrate"
+implicar	"imply, involve, implicate"
+juntar	"put together, pool, couple"
+deducir	"deduct, deduce, derive"
+potenciar	"strengthen, make more powerful"
+imitar	"imitate, mimic, copy"
+excluir	"exclude, preclude, rule out"
+*** 521 - 530 (/course/186268/spanish-verbs/53/)	
+calificar	"qualify, grade/rate"
+ascender	"ascend, rise, advance"
+invadir	"invade, encroach, overrun"
+golpear	"hit/beat/strike, palpitate/pulsate"
+simplificar	simplify
+saludar	"greet, salute, acknowledge"
+agregar	"aggregate, add"
+combinar	"combine, mix, blend"
+faltar	"be missing/absent; insult, lack respect for"
+beneficiar	"benefit, profit, service"
+*** 531 - 540 (/course/186268/spanish-verbs/54/)	
+distribuir	"distribute, allocate, spread"
+retroceder	"move/go back, back off/draw back"
+centrar	"centre, stabilise"
+admirar	"admire, look up, be amazed by"
+pasear	"walk, take a walk, go for a walk"
+alterar	"alter/change, disturb/harm"
+atribuir	"attribute, assign, ascribe"
+contrarrestar	"counteract, resist, detain/hinder,"
+contratar	"contract, hire, engage"
+eludir	"elude, evade, avoid"
+*** 541 - 550 (/course/186268/spanish-verbs/55/)	
+repartir	"apportion, distribute, divide"
+localizar	"locate, track down, localize"
+arrojar	"throw (off, out), produce"
+tardar	"be late, last/take time, dally"
+conectar	"connect, plug in"
+animar	"animate, encourage, enliven"
+consumir	"consume, use up, eat"
+corresponder	"correspond, reciprocate, match"
+anular	"annul/nullify, cancel, revoke"
+ahorrar	"economise, spare, save up"
+*** 551 - 560 (/course/186268/spanish-verbs/56/)	
+seleccionar	"select, choose, call up"
+concretar	"concretise, limit sth to sth, specify"
+estimar	"estimate/evaluate, appreciate, think highly of"
+concentrar	"concentrate, gather, assemble"
+sacrificar	"sacrifice, give up, slaughter"
+diferenciar	"differentiate, be different, differ"
+almacenar	"store, stock up, accumulate"
+redactar	"compose/write/author, draw up"
+callar	"become silent, keep quiet, stop"
+expulsar	"expel, oust, proscribe"
+*** 561 - 570 (/course/186268/spanish-verbs/57/)	
+avisar	"warn, advise, notify"
+coincidir	"coincide, concur, agree"
+aspirar	"aspire/aim, breathe"
+reanudar	"resume, renew, restart"
+borrar	"delete, erase, wipe out"
+armonizar	"harmonize, match, blend"
+sorprender	"surprise, astonish, catch"
+rebajar	"lower, reduce, discount"
+figurar	"figure, imagine, be listed as"
+inventar	"invent, make up, devise"
+*** 571 - 580 (/course/186268/spanish-verbs/58/)	
+asignar	"assign, allocate, ascribe"
+vengar	"revenge, avenge, take revenge"
+sugerir	"suggest, hint at, evoke"
+ajustar	"adjust, fit (to, in), adapt to"
+retener	"retain, withhold/hold back, detain"
+brindar	"toast, drink a toast, offer"
+prescindir	"dispense with, do without, manage without"
+promocionar	"promote, publicise/publicize"
+perdonar	"pardon, forgive, spare"
+adelantar	"bring/put forward, accelerate, precipitate"
+*** 581 - 590 (/course/186268/spanish-verbs/59/)	
+constar	consist of; be certain
+quemar	"burn, scorch, burn off"
+perjudicar	"harm/damage, impair, prejudice"
+adivinar	"guess, divine, become visible"
+reiterar	"reiterate, repeat, reaffirm"
+apartar	"put/lay aside, push aside"
+aguantar	"endure, bear, hold on"
+pescar	"fish, catch, hook"
+triunfar	"triumph, succeed, overcome"
+bloquear	"block, suffer a block, lock"
+*** 591 - 600 (/course/186268/spanish-verbs/60/)	
+librar	"free/save/rescue, redeem, issue"
+paliar	"palliate, alleviate, sedate"
+intercambiar	"interchange, exchange, swap"
+dictar	"dictate, hand down, pronounce"
+conciliar	"reconcile, conciliate"
+nadar	"swim, float, roll"
+intensificar	"intensify, enhance, escalate (fig)"
+acusar	"accuse, charge, decry, denounce"
+prolongar	"prolong, lengthen, extend"
+autorizar	"authorize, allow, approve"
+*** 601 - 610 (/course/186268/spanish-verbs/61/)	
+implantar	"implant, instil, introduce"
+descargar	"unload, download, discharge"
+lamentar	"lament, regret, deplore"
+movilizar	"mobilise, call up"
+contraer	"contract, incur (a disease), shorten"
+invitar	invite
+encender	"ignite, turn/switch on, kindle"
+salvaguardar	"safeguard, save, rescue"
+editar	"edit, publish, print/isuue"
+padecer	"suffer (from/under), undergo, endure"
+*** 611 - 620 (/course/186268/spanish-verbs/62/)	
+cavar	"excavate, dig (up), delve"
+ratificar	"ratify, endorse, affirm"
+transferir	transfer
+derribar	"knock over/down, overthrow, tear (down)"
+erradicar	"eradicate, deracinate"
+alejar	"move away, get away (from), distance"
+interrumpir	"interrupt, disrupt, halt"
+imprimir	"print, print out, stamp"
+abarcar	"encompass, surround, include"
+anotar	"annotate, write down, make note of"
+*** 621 - 630 (/course/186268/spanish-verbs/63/)	
+navegar	"navigate, sail, fly"
+calmar	"calm, soothe, still"
+predecir	"predict, foretell"
+guiar	"guide, lead, steer"
+destinar	"destine (for), intend for, set aside for"
+aplazar	"postpone, put off, adjourn"
+entrenar	"train, coach, drill"
+conformar	"form, (give) shape; reluctantly accept"
+retrasar	"postpone, retard, delay"
+apuntar	"point, aim, record"
+*** 631 - 640 (/course/186268/spanish-verbs/64/)	
+implementar	"implement, install, introduce"
+proclamar	"proclaim, acclaim, announce"
+alentar	"breath, animate/cheer up, recover"
+absorber	"absorb, take up, soak up"
+soltar	"release, drop, loose"
+requerir	"require, need (for), demand"
+temblar	"tremble, shiver, shake"
+tender	"tend, extend, spread"
+mentir	"lie, tell a lie"
+sembrar	"seed/plant, spread (out), sow"
+*** 641 - 650 (/course/186268/spanish-verbs/65/)	
+comprometer	"compromise, oblige/bind, endanger"
+disimular	"dissimulate, pretend/feign, conceal"
+apelar	"appeal, invoke"
+emigrar	"emigrate, immigrate, migrate"
+descartar	"discard, dismiss, reject"
+rezar	"pray, recite, read, lead the prayers"
+tolerar	"tolerate, abide, approve/consent"
+mezclar	"mix (up), blend, mingle"
+manipular	"manipulate, handle, manage"
+arrastrar	"drag (down)/trail/draw, tow, use"
+*** 651 - 660 (/course/186268/spanish-verbs/66/)	
+herir	"hurt, wound, injure"
+presenciar	"witness (sth.), be present (at sth.), experience/undergo sth"
+plantar	"plant, stick; abandon"
+edificar	"edify, build (up)"
+progresar	"progress, advance, develop"
+supervisar	supervise
+trazar	"trace, draw, lay out/plot"
+costar	"cost, be difficult/hard (to do)"
+criar	"bring up/grow up, raise, breed"
+instar	"beg, urge, pressure"
+*** 661 - 670 (/course/186268/spanish-verbs/67/)	
+desplazar	"displace, move, get around"
+agarrar	"hold tight, grab, grip"
+carecer de	"lack/not have, come loose"
+cuestionar	"question (so/sth), dispute"
+consistir	consist
+recobrar	"recover/retrieve, regain"
+relacionar	"relate, link, connect/be in contact"
+igualar	"equalise, equate, match"
+disolver	"dissolve, break up, disband"
+remediar	"remedy, redress, cure"
+*** 671 - 680 (/course/186268/spanish-verbs/68/)	
+apagar	"turn off (electr.), diminish, calm"
+vacilar	"vacillate, hesitate, flicker"
+educar	"educate, train"
+presidir	"preside (over), chair, lead"
+pactar	make an agreement
+batir	"beat, batter, whip"
+reprimir	"repress, suppress, contain"
+recomendar	"recommend, advise"
+legislar	legislate
+debilitar	"debilitate, become weak, weaken"
+*** 681 - 690 (/course/186268/spanish-verbs/69/)	
+exportar	export
+pegar	"paste/glue/stick, hit"
+dimitir	"resign, quit"
+fracasar	"fail; mess up, make a mess of"
+descifrar	"decipher, unscramble, unravel"
+retornar	"return, go back, take/put back"
+almorzar	(have) lunch
+soñar	"dream, be dreaming"
+atajar	"stop/intercept, cut off, tackle"
+atrapar	"trap, capture, catch"
+*** 691 - 700 (/course/186268/spanish-verbs/70/)	
+acometer	"attack, attempt, undertake"
+apostar	"station/position, bet/stake"
+suministrar	"supply, provide; administer (a medicament, etc)"
+preferir	"prefer, favour"
+modernizar	"modernise, upgrade, update"
+honrar	"honour, grace, condescend"
+especificar	"specify, state"
+aislar	"insulate, isolate, separate"
+violar	"violate, breach, rape"
+devenir	"become, turn into, evolve into"
+*** 701 - 710 (/course/186268/spanish-verbs/71/)	
+sonreír	"smile, grin"
+lavar	"wash, wash out, rinse"
+desviar	"divert, misguide, distract so/sth"
+comparecer	appear (jur: in front of a court)
+activar	"activate, stimulate/spted up, provoke"
+resumir	"resume/summarize, recapitulate, shorten"
+asociar	"associate, join together, combine"
+dibujar	"draw, sketch"
+ilustrar	"illustrate, explain, instruct"
+brillar	"shine, glisten, sparkle"
+*** 711 - 720 (/course/186268/spanish-verbs/72/)	
+minimizar	"minimize, minimise, play down"
+recalcar	"stress/emphasise, squeeze in, cram"
+multiplicar	"multiply, reproduce, increase"
+derrocar	"topple, overturn, bring down"
+orientar	"orient, guide, direct"
+desembocar	"flow/lead into, end/result in"
+unificar	"unify, unite, join"
+concurrir	"concur, compete, meet"
+recortar	"cut away/off/back, reduce"
+acumular	"accumulate, amass, hoard"
+*** 721 - 730 (/course/186268/spanish-verbs/73/)	
+invocar	"invoke, call upon, call on"
+articular	"articulate, enunciate, say"
+derivar	"derive, divert, channel"
+triangular	triangulate
+merecer	"merit, deserve, earn"
+actualizar	"update, actualize"
+armar	"arm; assemble, put together"
+prender	"catch, turn on/switch on, seize/capture"
+desplegar	"deploy, display, unfold"
+doblar	"double, fold, bend"
+*** 731 - 740 (/course/186268/spanish-verbs/74/)	
+alzar	"lift, raise, lift up"
+persuadir	"persuade, induce, talk into"
+restringir	"restrict, limit, constrict"
+dialogar	"have a dialogue/conversation, talk (with each other)"
+exceder	"exceed, excess, surpass"
+besar	"kiss, brush against, fall down"
+rogar	"pray, beg, plead"
+recaudar	"collect, recover, take in money"
+dañar	"damage, harm, hurt"
+interferir	"interfere, meddle, influence"
+*** 741 - 750 (/course/186268/spanish-verbs/75/)	
+estabilizar	"stabilize, become stabilized, settle"
+aterrizar	"land, touch down"
+calentar	"warm (up), heat (up); arouse/upset"
+inducir	"induce, infer/deduce, lead (to, into)"
+procesar	"process, prosecute, try"
+encargar	"task, commission, charge so with sth/order"
+chocar	"collide/crash, shock"
+interesar	"interest, take an interest in, be interested in"
+liderar	lead
+enterrar	"bury, inter; forget"
+*** 751 - 760 (/course/186268/spanish-verbs/76/)	
+abusar	"abuse, go too far"
+chupar	"suck/lick, puff (at, off), suffer"
+despedir; despedirse	"say goodbye to, dismiss, throw, send"
+remitir	"remit, refer, send"
+esclarecer	"clarify, explain, solve"
+proyectar	"project, screen, throw"
+propiciar	"propiciate/favour, win"
+ocasionar	"cause, produce, entail"
+llover	"rain, rain down"
+conmemorar	"commemorate, memorialize, remember"
+*** 761 - 770 (/course/186268/spanish-verbs/77/)	
+traspasar	"trespass, cross over/go through, infrige (law)"
+expandir	"expand, spread, extend"
+consentir	"consent, assent, agree"
+vincular	"link, link up, attach"
+predicar	"preach, advocate, recommend"
+ubicar	"locate, situate, orientate oneself"
+amenazar	"menace, threaten"
+convivir	"live together (with), coexist, cohabit"
+pisar	"tread/step on, trample (on)"
+desconocer	"not to know, be unknown, be ignorant of"
+*** 771 - 780 (/course/186268/spanish-verbs/78/)	
+perfeccionar	"perfect, improve, develop"
+evolucionar	"evolve, develop, progress"
+entrever	"glimpse, guess, catch sight of"
+remontar	"date back/go back, remount, overcome"
+prosperar	"prosper, flourish, thrive"
+molestar	"molest, disturb, annoy"
+configurar	"configure, organize"
+enriquecer	"enrich, heighten, adorn"
+culminar	"culminate, accomplish, climax"
+copiar	"copy, imitate, duplicate"
+*** 781 - 790 (/course/186268/spanish-verbs/79/)	
+abrazar	"embrace, hug, cuddle"
+fallar	"fail, miss, disappoint"
+fingir	"feign, pretend, fake"
+instaurar	"instaurate, establish/found/install, renew"
+revivir	"revive, rekindle, reactivate"
+impartir	"impart, give (order)"
+meditar	"meditate, reflect, ponder"
+equilibrar	"equilibrate, reach equilibrium, balance"
+reventar	"burst (from pressure), break, blow up"
+disipar	"dissipate, dispel, clear up"
+*** 791 - 800 (/course/186268/spanish-verbs/80/)	
+cocinar	"cook, plot"
+depositar	"deposit, store/put away, place"
+encerrar	"enclose, lock (up), shut (up)"
+sacudir	"shake, beat, jolt, flap"
+complementar	"complement, supplement"
+oponer	"oppose, disagree with, resist"
+bastar	"be sufficient, be enough"
+despegar	detach/separate; take off (avión)
+reafirmar	"reaffirm, reassert, restate"
+opinar	"opine, believe, think"
+*** 801 - 810 (/course/186268/spanish-verbs/81/)	
+relucir	"shine, gleam, shine out"
+jurar	"take an oath, swear, vow,"
+alabar	"praise, extol, laud"
+tranquilizar	"tranquilize, calm, reassure,"
+enfocar	"focus, zoom, approach"
+residir	"reside, dwell, live"
+rectificar	"rectify, redress, amend"
+charlar	"talk, chat, chatter"
+estrenar	"perform for the first time/release, use/wear for the first time"
+cancelar	"cancel, write off, suspend"
+*** 811 - 820 (/course/186268/spanish-verbs/82/)	
+provenir	"originate (from), come from"
+sancionar	"sanction, penalize, allow"
+prevalecer	"prevail, triumph, thrive"
+planificar	plan
+prometer	"promise, pledge, vow"
+tapar	"cover, put the lid, seal"
+estrechar	"narrow, tighten, take in"
+consagrar	"consecrate, devote/dedicate, deify"
+presumir	"presume, suppose; show off"
+inaugurar	"inaugurate, open, unveil"
+*** 821 - 830 (/course/186268/spanish-verbs/83/)	
+lucir	"shine, show off, wear"
+florecer	"flower/bloom/blossom, flourish/prosper"
+resucitar	"resurrect/raise from the dead, resuscitate, revive"
+reivindicar	"ask back, claim, vindicate"
+fichar	"clock in/punch in, record"
+acatar	"abide, obey, comply with"
+atar	"tie (up), fasten; stop"
+desembarcar	"disembark, land, debark"
+reinar	"reign, rule"
+basar	"base, bottom, to establish"
+*** 831 - 840 (/course/186268/spanish-verbs/84/)	
+inspirar	"inspire/be inspired by, inhale/breathe in"
+abolir	"abolish, abrogate"
+extrañar	"miss, surprise, alienate"
+evacuar	"evacuate, clear"
+ejercitar	"exercise, train, instruct"
+suplir	"replace/substitute for, fulfil/complete"
+atentar	attempt; break the law
+recrear	"recreate, reenact; amuse oneself"
+suscribir	"subscribe, underwrite, sign"
+duplicar	"duplicate, copy"
+*** 841 - 850 (/course/186268/spanish-verbs/85/)	
+despejar	"clear up, clean, find"
+agrupar	"group, cluster, gather"
+lidiar	"fight, contend"
+regir	"govern, rule (over)"
+discernir	"discern, distinguish"
+empujar	"push, drive, press"
+razonar	"reason, argue, think"
+incentivar	"encourage, stimulate, motivate"
+visualizar	"visualise, display, illustrate"
+asimilar	"assimilate, digest, absorb, understand"
+*** 851 - 860 (/course/186268/spanish-verbs/86/)	
+habitar	"inhabit, dwell, live in"
+cursar	"frequent/study/attend (a course, etc)"
+anticipar	"anticipate, plan ahead for, arrive early"
+suscitar	"stir up, provoke/cause, arouse"
+aguardar	"await, wait, expect"
+apretar	"press, squeeze, tighten"
+sobrepasar	"surpass, exceed, overtake"
+subsistir	"subsist, survive, endure"
+comercializar	"commercialize, sell"
+erigir	"erect, build, found"
+*** 861 - 870 (/course/186268/spanish-verbs/87/)	
+recabar	"collect/raise, claim as of right, demand"
+seducir	"seduce, entice, allure"
+deshacer	"undo, untie, unpack, break up"
+acomodar	"accommodate, adjust, adapt"
+derramar	"spill, pour out, shed"
+empatar	"play to a draw/tie, draw"
+enlazar	"bind, link, connect"
+regalar	"give as a present/away, present"
+desafiar	"defy, challenge, dare"
+colgar	"hang, hang up, dangle"
+*** 871 - 880 (/course/186268/spanish-verbs/88/)	
+caracterizar	"characterize, define, play"
+neutralizar	"neutralize, counteract"
+arriesgar	"risk, hazard, jeopardize"
+indagar	"inquire, investigate, search"
+perecer	"perish, die"
+ofender	"offend, insult, be offensive"
+hundir	"sink, plunge, wreck"
+tragar	"swallow, soak up, use (much), put up with"
+abonar	"pay (rent, etc), fertilize, subscribe, bail/vouch"
+quebrar	"break, crack, go bankrupt"
+*** 881 - 890 (/course/186268/spanish-verbs/89/)	
+elogiar	eulogise/praise/commend/laud
+secar	"dry (up), wipe dry"
+reservar	"reserve/book, keep for/to oneself"
+atreverse	"dare, venture, dare to"
+clarificar	"clarify, clear, explain"
+pelar	"peel, shell, skin"
+agotar	"deplete, exhaust, wear (out)"
+madurar	"mature, ripen, think through"
+acreditar	"accredit, (give) credit (to), identify oneself"
+evocar	"evoke, summon, remember"
+*** 891 - 900 (/course/186268/spanish-verbs/90/)	
+simular	"simulate, mimic, pretend"
+culpar	"blame, acuse of"
+alojar	"accommodate, lodge, house"
+acarrear	"carry, transport, cause"
+complacer	"indulge, please so., oblige"
+encarar	"face (up to)/confront, bring face to face, point at"
+abastecer	"supply, provide (a)"
+contactar	"contact, reach, touch"
+enumerar	"enumerate, count, list"
+desbloquear	"unblock, unlock, free/release"
+*** 901 - 910 (/course/186268/spanish-verbs/91/)	
+dificultar	"hinder, obstruct, complicate"
+interrogar	"interrogate, question, examine"
+renacer	"be reborn, appear again, come to life again"
+desprender	"to detach, take off, unfasten"
+mediar	"mediate, arbitrate, intervene"
+mitigar	"mitigate, alleviate, ease"
+forjar	"forge, shape, concoct"
+planear	"plan, glide, hang over"
+arder	"burn, blaze, flame"
+remover	"remove, stir/touch, turn over"
+*** 911 - 920 (/course/186268/spanish-verbs/92/)	
+modelar	"model, shape"
+exhibir	"exhibit, show, display"
+privar	"deprive, prevent; like very much"
+inferir	"infer, derive, deduce"
+hervir	"boil, seethe, swarm with"
+paralizar	paralyze
+narrar	"narrate, relate"
+rehacer	"redo, remake, rework"
+sofocar	"suffocate, choke"
+incurrir	incur; comit (crime); fall victim
+*** 921 - 930 (/course/186268/spanish-verbs/93/)	
+atenerse	"observe rules/comply with, keep within/confine oneself"
+programar	"program, programme, schedule"
+alargar	"extend, lengthen, reach"
+sujetar	hold/anchor/fix; conquer
+desestimar	"disesteem, disdain"
+socavar	"undermine, subvert, dig under"
+empeorar	"make worse/worsen, deteriorate, aggravate"
+reclutar	"recruit/conscript, contract"
+optimizar	optimize
+embarcar	embark; ship (load)
+*** 931 - 940 (/course/186268/spanish-verbs/94/)	
+afianzar	vouch for/bail; secure/support
+encabezar	"head, lead, top"
+accionar	"activate, trigger"
+poblar	"populate, people, inhabit"
+recaer	"relapse, suffer a relapse, backslide"
+especular	speculate
+desechar	"discard, reject, scrap"
+protagonizar	play the lead/star (in); be responsible for
+desistir	"desist, give up, cease"
+encajar	"encase; fit (into, together), cope; give (a slap, etc)"
+*** 941 - 950 (/course/186268/spanish-verbs/95/)	
+adornar	"adorn, decorate, garnish"
+tramitar	"process (documents), negotiate"
+enmendar	"amend, reform, improve"
+divulgar	"divulge, disclose, publish"
+aconsejar	"counsel, advise, suggest"
+tejer	"weave; spin, knit"
+incitar	"incite, encourage, provoke"
+alegar	"allege, claim, plead"
+brotar	"bud/sprout, burst forth, spring"
+solventar	"resolve, acquit (bill, etc); settle"
+*** 951 - 960 (/course/186268/spanish-verbs/96/)	
+arrebatar	"captivate, snatch away, carry off"
+aplastar	"squash, smash, crush"
+tentar	"tempt; feel/probe, try/test"
+discurrir	pass by/flow; roam; discourse
+orar	"pray, make a speech"
+socorrer	"save (so.), come to the aid of/help, succor"
+posibilitar	make possible
+adorar	"adore, worship, venerate"
+argumentar	"argue, explain, bring an argument"
+asentar	"place/establish, polish/flatten"
+*** 961 - 970 (/course/186268/spanish-verbs/97/)	
+canalizar	"channel, canalise, canalize"
+generalizar	"generalize, make/become widespread"
+devorar	devour; destroy
+distraer	"distract, amuse, get distracted"
+denegar	"deny, refuse, reject"
+sustentar	"sustain/hold up, support"
+transcurrir	"elapse, pass by (time); go"
+iluminar	"illuminate, enlighten"
+exagerar	"exaggerate, overstate, overdo it"
+morder	"bite (into), corrode; gossip"
+*** 971 - 980 (/course/186268/spanish-verbs/98/)	
+relanzar	"relaunch, boost (plan, economy); repel (attack)"
+despreciar	"despise, scorn, reject"
+aplaudir	"applaud, cheer, clap"
+liquidar	"liquidate, settle, close"
+agravar	"aggravate, make worse, deteriorate"
+suicidarse	commit suicide
+agradar	"please, gratify, be pleasing to"
+adecuar	"adjust themselves to, adjust"
+involucrar	"involve sb in, factor sth into sth; mix up"
+agilizar	make more dynamic/easy; speed up;
+*** 981 - 990 (/course/186268/spanish-verbs/99/)	
+relatar	"relate, report"
+sintetizar	"synthesise, synthesize, summarise"
+obstaculizar	"obstruct, block"
+cosechar	"harvest, reap, crop"
+contentar	"content, satisfy, please"
+ostentar	"behave  ostentatiously, show off"
+aproximar	"approximate, approach, bring nearer"
+incidir	influence; incise
+inspeccionar	"inspect, survey, examine"
+desalojar	"dislodge, evict, displace"
+*** 991 - 1000 (/course/186268/spanish-verbs/100/)	
+ponderar	ponder/analyse/weigh; praise
+ensayar	"try (out), test, rehearse"
+desmantelar	"dismantle, disband, take apart"
+plasmar	"embody/give shape, express"
+demandar	"demand, sue, claim"
+rematar	"finish off, conclude, shoot"
+enterar	to inform/notify sb of sth; (LatAm) pay
+reconciliar	"reconcile, accommodate, bring together"
+congelar	"congeal/freeze, feel cold"
+legitimar	"legitimate, legitimize, legalize"
+*** 1001 - 1010 (/course/186268/spanish-verbs/101/)	
+reorganizar	reorganize
+rellenar	"refill, replenish, fill up"
+costear	"sail along the coast of, pay for/finance"
+restar	"be left, subtract; remain"
+burlar	"outwit, deceive, trick"
+reponer	"put again, replace, replenish"
+exclamar	"exclaim, cry out"
+delimitar	"delimit, delimitate, mark out"
+insertar	"insert, be inserted"
+reconsiderar	reconsider
+*** 1011 - 1020 (/course/186268/spanish-verbs/102/)	
+revertir	"revert to, benefit to"
+alquilar	"rent, let (out), hire (out)"
+esquivar	"avoid, elude, shun"
+condicionar	"condition, determine, make conditional upon"
+rodear	"surround, encircle, circle"
+acortar	"shorten, clip, curtail"
+encubrir	"conceal, hide, cover up"
+comportar	entail/involve; endure
+inscribir	"inscribe, sign up/on, enroll"
+regularizar	"regularize, legalise, return to normal"
+*** 1021 - 1030 (/course/186268/spanish-verbs/103/)	
+ahogar	"suffocate, drown, choke"
+filmar	(make a) film
+interactuar (con)	interact (with)
+liberalizar	liberalize
+preocupar	"preoccupy, concern, worry"
+coser	"sew, stitch, sew up"
+comerciar	"do business, trade, handle"
+reposar	"take a rest/repose, sleep"
+anochecer	"dawn/dusk, get dark/darken"
+aunar	"unite, join"
+*** 1031 - 1040 (/course/186268/spanish-verbs/104/)	
+reactivar	"reactivate, restart"
+trepar	"climb (up), clamber"
+desvelar	"uncloak, wake up; reveal"
+aludir	"allude (to), refer to"
+sufragar	vote/elect; help/sustain so.; pay for/defray
+acertar	guess right; hit the target
+soplar	"blow, puff, bear"
+inclinar	"incline, bow, slant"
+recolectar	"gather, harvest, (re)collect"
+indemnizar	"indemnify, compensate"
+*** 1041 - 1050 (/course/186268/spanish-verbs/105/)	
+saciar	"satiate, saturate/sate, satisfy"
+renegar	renege/repudiate/disown; curse; deny
+complicar	"complicate, become/get complicated"
+asustar	"scare, frighten, alarm"
+fallecer	"die, decease, perish"
+portar	"bear, carry, behave"
+perpetuar	perpetuate
+recopilar	"compile/summarize, codify, bring together"
+premiar	award a prize for
+fusionar	"fuse, amalgamate, merge"
+*** 1051 - 1060 (/course/186268/spanish-verbs/106/)	
+dilucidar	elucidate; bring to light
+asomar	"surface/appear, stick out (nose etc), come out"
+rastrear	"rake, track/trace, trail/drag, reasearch into"
+suavizar	"soften, mellow, temper"
+desencadenar	"unchain, trigger, unleash"
+materializar	materialize
+acariciar	"caress, cherish, pat"
+tropezar	"trip, stumble, bump into"
+acontecer	"happen, occur"
+entretener	entertain/amuse; keep/detain
+*** 1061 - 1070 (/course/186268/spanish-verbs/107/)	
+coronar	crown; culminate
+infundir	"infuse, instill, fill with"
+saborear	"savour, delight in, taste"
+aniquilar	"annihilate, destroy, wipe out"
+contrastar	"contrast, corroborate/check/confirm"
+secuestrar	"kidnap, hijack, confiscate"
+posponer	"postpone, put off, subordinate"
+confeccionar	"confect, produce, fabricate"
+vislumbrar	"adumbrate, (catch a) glimpse of, perceive"
+revocar	"revoke, reverse, repeal"
+*** 1071 - 1080 (/course/186268/spanish-verbs/108/)	
+concertar	"reach an agreement, harmonize, tune up"
+acentuar	"accentuate, emphasize"
+destrozar	"destroy, annihilate"
+"divertir, divertirse"	"divert; amuse (oneself), entertain"
+sellar	"seal, stamp, conclude"
+decretar	"decree, order, rule"
+evadir	"evade, escape, break out"
+barrer	"sweep out/clean, wipe out"
+sortear	"draw lots, raffle, avoid"
+resurgir	"resurge, come back, resurrect"
+*** 1081 - 1090 (/course/186268/spanish-verbs/109/)	
+ensuciar	"(get) dirty, soil, besmear"
+prorrogar	"fix a time limit; extend, postpone"
+vagar	"roam, wander, be idle"
+conllevar	"convey, go along with, imply, involve"
+maximizar	maximise
+festejar	"fete, celebrate, court sb."
+cocer	"cook, fire, boil"
+sanar	"heal, cure"
+asaltar	"assault, strike, rob"
+voltear	"turn around/over, bend over, change sides"
+*** 1091 - 1100 (/course/186268/spanish-verbs/110/)	
+equiparar	"equate, compare, put on the same level"
+excitar	"excite, arouse, stimulate"
+originar	"originate (in), cause/occasion"
+estirar	"stretch (out), iron(out)"
+emerger	"emerge, surface, appear"
+vibrar	"vibrate, tremble"
+desmentir	deny/refute; squash
+trascender	transcend
+flotar	"float, hover, drift"
+restituir	"return, give back, make restitution of"
+*** 1101 - 1110 (/course/186268/spanish-verbs/111/)	
+replicar	"reply, answer; replicate/copy"
+espiar	"spy (on), watch"
+contradecir	"contradict, gainsay"
+sucumbir	"succumb, die"
+vaciar	"empty/void/vacate, leak out"
+propagar	"propagate, spread, self-propagate"
+murmurar	"murmur, mutter, rustle"
+heredar	"inherit, appoint an heir/ hand down"
+degollar	"cut sb\'s throat, slit sb\'s throat"
+perturbar	"perturb, disturb, disrupt"
+*** 1111 - 1120 (/course/186268/spanish-verbs/112/)	
+insultar	"insult, taunt, abuse"
+acrecentar	"increase, add to, accrue"
+reaparecer	reappear
+reabrir	reopen
+omitir	"omit, skip, leave out"
+desestabilizar	"destabilize, knock off-balance, make unstable"
+ingerir	"ingest, take in, consume"
+motivar	"motivate, cause"
+diversificar	"diversify, spread"
+fundir	"fuse/join/be joined, smelt, merge"
+*** 1121 - 1130 (/course/186268/spanish-verbs/113/)	
+endurecer	"harden, toughen, toughen up"
+enfriar	"cool, chill, get cold"
+secretar	secrete
+consolar	"console (sb.), comfort (sb.)"
+atenuar	"attenuate, weaken, lessen"
+normalizar	"normalize, standardize, regularize"
+formalizar	"formalise, make official, legalise"
+desatar	"untie, unbind; trigger/unleash"
+arruinar	"ruin, bankrupt"
+divisar	"glimpse/ catch sight of, see sth unclearly/in the distance"
+*** 1131 - 1140 (/course/186268/spanish-verbs/114/)	
+enfatizar	"emphasize, stress, emphasise"
+subsanar	"rectify, make up for, excuse for"
+colonizar	"colonize, settle, colonise"
+impresionar	"impress, make an impression"
+verter	"pour (onto), flow into (about water, etc.), spill"
+interponer	"interpose, intervene, intercalate"
+rozar	"rub, touch, chafe"
+tornar	"turn, turn to/into"
+reconquistar	"reconquer, recapture, retake"
+repasar	"review, go over, revise"
+*** 1141 - 1150 (/course/186268/spanish-verbs/115/)	
+disuadir	"discourage, dissuade, deter"
+errar	"err, mistake, miss"
+transitar	"transit, circulate/move, travel"
+pulsar	"pulse/pulsate, press, push"
+turbar	"trouble, disturb, embarrass"
+declinar	"decline, wane, tail off"
+desarmar	"disarm, disassemble, dismantle"
+donar	"donate, bestow, grant"
+encarnar	"incarnate, embody, take material form"
+recitar	"recite, repeat, read aloud"
+*** 1151 - 1160 (/course/186268/spanish-verbs/116/)	
+fiar	"trust, believe in, have faith in"
+apaciguar	"pacify, appease, soothe"
+discriminar	"discriminate, differentiate, distinguish"
+regar	"irrigate, water, flow through"
+peligrar	"be in danger, jeopardize, jeopardy"
+legalizar	"legalize, authenticate, probate"
+engendrar	"engender, generate, beget"
+intimidar	"intimidate, scare"
+modular	"modulate, regulate, adjust"
+interceptar	"intercept, tap, block"
+*** 1161 - 1170 (/course/186268/spanish-verbs/117/)	
+alegrar	"make happy, make glad, liven up"
+repercutir	"affect sth., have an effect on, reverberate"
+fundamentar	"base on, lay the foundation"
+certificar	"certify, validate"
+minar	mine; undermine
+emular	emulate
+saquear	"sack/ransack, plunder, pillage"
+colmar	fill to the brim; fulfil
+extinguir	"extinguish, put out, become extinct"
+aplacar	"placate, appease, quench"
+*** 1171 - 1180 (/course/186268/spanish-verbs/118/)	
+pecar	"sin, err, transgress"
+insinuar	"insinuate, imply, hint"
+revitalizar	"revitalize, revitalise"
+repeler	"repel, repulse"
+racionalizar	"rationalise, rationalize"
+crujir	"creak, crackle, scrunch"
+desacreditar	"discredit, disparage, decry"
+objetar	"object, refute"
+subvencionar	"subsidise, finance"
+decaer	"decline, decay, fall off"
+*** 1181 - 1190 (/course/186268/spanish-verbs/119/)	
+descuidar	"neglect, disregard, let oneself go"
+desterrar	"banish, exile; take the earth off sth"
+arrestar	"arrest, detain"
+exterminar	exterminate
+ligar	"link, tie, bind"
+desmontar	"dismount, disassemble, dismantle"
+agredir	"attack, assault; insult"
+graduar	"graduate, calibrate, grade"
+redoblar	"redouble, renew, double"
+moler	"grind, mill; tire"
+*** 1191 - 1200 (/course/186268/spanish-verbs/120/)	
+innovar	"innovate, update"
+desperdiciar	"waste, throw away, blow"
+degustar	taste
+habilitar	"enable, set up, prepare"
+torcer	"twist, turn, distort"
+ahuyentar	"drive away, chase, drive off"
+notificar	"notify, advise, inform"
+sobrellevar	"endure, bear"
+censurar	"censor, censure, condemn"
+deliberar	"deliberate, discuss"
+*** 1201 - 1210 (/course/186268/spanish-verbs/121/)	
+entorpecer	"hinder, obstruct, dull"
+diagnosticar	"diagnose, identify, recognize US"
+bombardear	"bomb, bombard, shell"
+acallar	"hush, silence, still"
+privatizar	privatize
+documentar	document
+resonar	"resound, echo, resonate"
+fastidiar	"annoy, badger, tease"
+franquear	"confide in, allow, give"
+retratar	"portray, pay up, fork out"
+*** 1211 - 1220 (/course/186268/spanish-verbs/122/)	
+reseñar	"review, describe, identify"
+oscurecer	"obscure, darken, obfuscate"
+redundar	result
+estructurar	"structure, put together, organize"
+abortar	"abort, have an abortion"
+digerir	"digest, break down, decompose"
+postular	"postulate, posit, nominate"
+oler	"smell, sniff out, sniff"
+envolver	"wrap, wrap up, cover"
+alertar	"alert, alarm"
+*** 1221 - 1230 (/course/186268/spanish-verbs/123/)	
+desayunar	(have) breakfast
+abogar	"stand up for, take the side of, advocate"
+revolver	"stir, turn, mix"
+odiar	"hate, loathe, abhor"
+impugnar	"contest, challenge, oppose"
+desfilar	"parade, defile, procession"
+allanar	"smooth, level, iron out"
+conferir	"confer, vest, bestow"
+cuantificar	"quantify, assess, evaluate"
+recompensar	"reward, recompense"
+*** 1231 - 1240 (/course/186268/spanish-verbs/124/)	
+envidiar	"envy, grudge, begrudge"
+desactivar	"deactivate, defuse"
+obviar	"obviate, eliminate, omit"
+excavar	"dig, excavate, dig up"
+penalizar	"penalize, punish"
+reestructurar	restructure
+adjudicar	"award, adjudge, attribute"
+amontonar	"pile, heap, huddle"
+reñir	"quarrel, argue, fight"
+agitar	"shake, wave, agitate"
+*** 1241 - 1250 (/course/186268/spanish-verbs/125/)	
+incumplir	"renege on, default on, fail to complete"
+recomponer	reset
+arribar	"put in, arrive, land"
+ladrar	"bark, bay, yap"
+latir	"beat, pulse, pulsate"
+promulgar	"promulgate, enact, issue"
+purificar	"purify, clear, purge"
+encauzar	"channel, canalize, canalise"
+revestir	"coat, cover, encase"
+caber	"fit, be room for, go"
+*** 1251 - 1260 (/course/186268/spanish-verbs/126/)	
+fotografiar	"shoot, photograph, photo"
+subestimar	"underestimate, underrate, undervalue"
+frecuentar	"frequent, haunt, visit"
+enfermar	"get sick, catch an illness, come down with something"
+equipar	"equip, fit out, furnish"
+entrevistar	"interview, mingle, meet with"
+moderar	"moderate, restrain, dampen"
+enderezar	"straighten out, straighten, right"
+refugiar	"protect, shelter, give refuge to"
+apoderar	"empower, authorize, authorise"
+*** 1261 - 1270 (/course/186268/spanish-verbs/127/)	
+refutar	"rebut, disprove, refute"
+ensalzar	"extol, praise, exalt"
+quejarse	"whine, complain, groan"
+implorar	"implore, crave, beseech"
+dirimir	"settle, resolve, dissolve"
+deponer	"depose, lay down, defecate"
+conjurar	"conjure, adjure, invoke"
+bendecir	"bless, sanctify, ask for blessings for"
+ahondar	"delve, deepen, make deeper"
+silenciar	"silence, hush, keep quiet"
+*** 1271 - 1280 (/course/186268/spanish-verbs/128/)	
+bautizar	"baptize, christen, name"
+excusar	"excuse, exempt, avoid"
+rebasar	"exceed, overrun, overtake"
+acostar	"go to bed, retire, sleep with"
+abreviar	"shorten, abbreviate, cut short"
+confrontar	"confront, compare, weigh"
+aventurar	"hazard, venture, risk"
+asesorar	"advise, learn about, consult"
+ensillar	"saddle up, saddle"
+aflojar	"loosen, loose, relax"
+*** 1281 - 1290 (/course/186268/spanish-verbs/129/)	
+redefinir	redefine
+labrar	"work, cultivate, cut"
+desconfiar	"be suspicious of, mistrust, doubt"
+despachar	"dispatch, send, dispose of"
+alinear	"align, line, line up"
+aparentar	"feign, look, seem"
+oscilar	"swing, oscillate, range"
+destituir	"dismiss, remove, depose"
+domar	"tame, domesticate, break in"
+torear	"tease, dodge, fight"
+*** 1291 - 1300 (/course/186268/spanish-verbs/130/)	
+corroborar	"corroborate, confirm"
+instituir	"institute, introduce, put in place"
+boicotear	boycott
+consignar	"record, consign, state"
+saldar	"pay off, liquidate, discharge"
+suplantar	"supplant, supersede, alter fraudulently"
+enjuiciar	"prosecute, indict, judge"
+decorar	"decorate, dress, bribe"
+despojar	"undress, strip, remove one\'s clothing"
+inyectar	"inject, pump, inject oneself"
+*** 1301 - 1310 (/course/186268/spanish-verbs/131/)	
+persistir	"persist, persevere, linger"
+delegar	"delegate, devolve"
+improvisar	"improvise, jam, cobble together"
+precipitar	"precipitate, fall, plunge"
+frustrar	"foil, frustrate, thwart"
+contaminar	"pollute, contaminate, taint"
+apresurar	"hasten, speed up"
+clavar	"nail, drive, stick"
+reiniciar	reboot
+ilegalizar	"outlaw, ban"
+*** 1311 - 1320 (/course/186268/spanish-verbs/132/)	
+torturar	"torture, torment"
+afinar	"tune, key, tune up"
+abdicar	"abdicate, give up, renounce"
+codificar	"encode, codify, code"
+envejecer	"age, grow older, put years on"
+aminorar	"lessen, slow down, slow up"
+volcar	"knock over, overturn, capsize"
+flexibilizar	"make flexible, increase flexibility, make adaptable"
+estremecer	"shake, thrill, shudder"
+desentrañar	fathom
+*** 1321 - 1330 (/course/186268/spanish-verbs/133/)	
+consensuar	agree
+doblegar	"humble oneself, crawl, vanquish"
+relajar	"relax, calm"
+abatir	"to take down, to demolish, to shoot down"
+perseverar	"persevere, carry on, persist"
+humillar	"humble, humiliate, abase"
+gemir	"moan, groan, whimper"
+hilar	"spin, put together, string together"
+picar	"chop, itch, nibble"
+cabalgar	"ride, mount"
+*** 1331 - 1340 (/course/186268/spanish-verbs/134/)	
+arar	"plow, to plow, to plough"
+economizar	"economize, retrench, make savings"
+alumbrar	"light, light up, bear"
+transcribir	"transcribe, transliterate"
+defraudar	"defraud, deceive, let down"
+pastar	"pasture, graze"
+rehabilitar	"rehabilitate, reinstate, restore"
+catalogar	"catalog, list, catalogue"
+cotizar	"quote, list, pay contributions"
+posar	"pose, sit, land"
+*** 1341 - 1350 (/course/186268/spanish-verbs/135/)	
+afeitar	"shave, shave off, shave the horns"
+maniobrar	"maneuver, handle, manoeuvre"
+conspirar	"conspire, plot, gang up"
+incendiar	"fire, set fire to, set on fire"
+imputar	"impute, ascribe, attribute"
+rugir	"roar, bellow, rumble"
+atropellar	"run over, walk over, run down"
+sudar	"sweat, perspire, exude"
+consumar	"consummate, carry out, commit"
+redimir	"redeem, ransom, save oneself"
+*** 1351 - 1360 (/course/186268/spanish-verbs/136/)	
+simbolizar	symbolize
+concienciar	"notice, make aware, raise awareness"
+sensibilizar	"sensitize, be sensitive, touch"
+engrosar	"swell, fatten, strengthen"
+filtrar	"filter, leak, strain"
+conmover	"touch, move, affect"
+demoler	"demolish, raze, pull down"
+idear	"devise, think up, invent"
+maltratar	"mistreat, abuse, maltreat"
+gravar	"tax, mortgage"
+*** 1361 - 1370 (/course/186268/spanish-verbs/137/)	
+demorar	"delay, be late, arrive late"
+calibrar	"gauge, calibrate, weigh-up pros and cons"
+encarcelar	"incarcerate, imprison, jail"
+perforar	"drill, hole, puncture"
+vomitar	"throw up, vomit, disgorge"
+exiliar	"exile, go into exile, take up exile"
+expirar	"expire, pass away, die"
+primar	"take precedence, be supreme, come first"
+enredar	"entangle, tangle, confuse"
+depurar	"debug, purify, treat"
+*** 1371 - 1380 (/course/186268/spanish-verbs/138/)	
+dispersar	"disperse, scatter, dispel"
+arrostrar	"face, face up to"
+zanjar	"settle, resolve, finalise"
+coleccionar	collect
+parir	"give birth, litter, bear"
+secundar	"second, support, aid"
+regenerar	"regenerate, reclaim, revitalize"
+reportar	"report in, report to, turn up"
+datar	"date, mark with the date, assign a date to something"
+distorsionar	"distort, be distorted, twist"
+*** 1381 - 1390 (/course/186268/spanish-verbs/139/)	
+diferir	"defer, postpone, differ"
+silbar	"whistle, hiss, whiz"
+infringir	"infringe, break, contravene"
+intuir	"know intuitively, sense, intuit"
+exprimir	"squeeze, wring, squeeze out"
+acuñar	"coin, mint, wedge"
+conjugar	"combine, inflect, conjugate"
+esbozar	"give a hint of, suggest, insinuate"
+sanear	"repair, clean up, prepare"
+envenenar	"poison, harm, embitter"
+*** 1391 - 1400 (/course/186268/spanish-verbs/140/)	
+descomponer	"decompose, break down, decay"
+evidenciar	"show, prove, make evident"
+quebrantar	"break, shatter, disrupt"
+espantar	"scare, frighten, frighten off"
+acampar	camp
+validar	"validate, ratify, prove"
+realzar	"be given lift, lift, give lift to"
+presagiar	"presage, portend, bode"
+tutelar	"act as guardian to, have guardianship of"
+arrepentirse	"repent, feel sorry, be sorry"
+*** 1401 - 1410 (/course/186268/spanish-verbs/141/)	
+detallar	"detail, itemize, sharpen"
+vetar	"veto, forbid, prohibit"
+abrigar	"wrap up, wrap oneself up, take shelter"
+alternar	"take turns, alternate, socialise"
+puntualizar	"specify, detail"
+machacar	"crush, grind, pound"
+remarcar	"bring out, highlight, enhance"
+capitular	"capitulate, give in, give up"
+apurar	"hurry, drain, hurry up"
+reprender	"reprimand, reprehend, reprove"
+*** 1411 - 1420 (/course/186268/spanish-verbs/142/)	
+reprochar	"reproach, rebuke, berate"
+aligerar	"lighten, ease, relieve"
+rondar	"pursue, besiege, circle"
+rehusar	refuse
+replantear	"rethink, reconsider, raise again"
+avalar	"endorse, back, guarantee"
+esforzar	"strain, force, exert oneself"
+encantar	"love, please, make happy"
+reglamentar	regulate
+enunciar	"sketch out, outline, formulate"
+*** 1421 - 1430 (/course/186268/spanish-verbs/143/)	
+atormentar	"torment, torture"
+repudiar	"condemn, repudiate"
+oprimir	"squeeze, press, crush"
+maldecir	"curse, put a curse on, insult"
+desvirtuar	"distort, twist"
+impactar	"impact, impress, collide"
+exaltar	"exalt, extol, elevate"
+rebuznar	"bray, heehaw, disparage"
+gorjear	"chirp, twitter, trill"
+inculcar	"inculcate, impress, instil"
+*** 1431 - 1440 (/course/186268/spanish-verbs/144/)	
+gruñir	"grunt, snarl, growl"
+matizar	"coordinate, match, match up"
+retumbar	"rumble, boom, roar"
+apresar	"capture, seize, arrest"
+despuntar	"excel, sparkle, shine"
+estorbar	"hinder, bother, hamper"
+interceder	"intercede, intervene"
+filosofar	"philosophize, philosophise"
+arrasar	"raze, level, obliterate"
+compaginar	"edit, combine, make up"
+*** 1441 - 1450 (/course/186268/spanish-verbs/145/)	
+fusilar	"shoot, execute by firearm, plagiarize"
+disculpar	"excuse, justify, exculpate"
+derogar	"repeal, abrogate, revoke"
+coexistir	coexist
+denotar	"denote, express, indicate"
+corromper	"go off, go bad, spoil"
+refrescar	"refresh, cool, freshen"
+escandalizar	"scandalize, shock"
+deslizar	"slide, slip, sneak"
+sopesar	"feel the weight of, heft, weigh"
+*** 1451 - 1460 (/course/186268/spanish-verbs/146/)	
+recapacitar	"reconsider, rethink, think again"
+danzar	dance
+proferir	"utter, give"
+cornear	gore
+desembolsar	"disburse, pay out, fork out"
+rascar	"scratch, find, discover"
+ensanchar	"broaden, enlarge, widen"
+deteriorar	"deteriorate, spoil, damage"
+contabilizar	"count, enter, record"
+rebosar	"overflow, brim, run over"
+*** 1461 - 1470 (/course/186268/spanish-verbs/147/)	
+amparar	"protect, harbor, shelter"
+moldear	"shape, form, mould"
+aprehender	"apprehend, seize, confiscate"
+mascar	"chew, munch, sense"
+diluir	"dilute, thin, water"
+sustraer	"subtract, abstract, avoid"
+influenciar	influence
+perfilar	"profile, outline, shape"
+desdeñar	"disdain, spurn, scorn"
+encomendar	"entrust, commit, commend"
+*** 1471 - 1480 (/course/186268/spanish-verbs/148/)	
+escupir	"spit, spit out, cough up"
+perpetrar	"perpetrate, commit, inflict"
+expedir	"issue, send, draw up"
+extirpar	"remove, eradicate, cut out"
+postergar	"defer, postpone, put off"
+traslucir	"reveal, show"
+suspirar	"sigh, yearn"
+penar	"be in torment, agonize over, pine for"
+responsabilizar	"take responsibility for, take charge of, hold responsible"
+compilar	"compile, gather together, collect"
+*** 1481 - 1490 (/course/186268/spanish-verbs/149/)	
+inundar	"flood, inundate, swamp"
+vulnerar	"infringe, break, violate"
+estropear	"damage, spoil, mar"
+sangrar	"bleed, blood, indent"
+abaratar	"cheapen, reduce, mark down"
+sondear	"probe, poll, plumb"
+reciclar	"recycle, renew, update"
+repatriar	repatriate
+orinar	"urinate, piss, pee"
+susurrar	"whisper, murmur, rustle"
+*** 1491 - 1500 (/course/186268/spanish-verbs/150/)	
+aglutinar	"agglutinate, unite, come together"
+sentenciar	"sentence, adjudicate, condemn"
+disfrazar	"disguise, dress up"
+ultimar	"finalize, finish"
+sumergir	"immerse, submerge, plunge"
+profesar	"profess, practise, follow"
+avivar	"intensify, increase, grow"
+compatibilizar	"juggle, fit together"
+encaminar	"route, direct, guide"
+pilotar	"pilot, navigate, steer"
+*** 1501 - 1510 (/course/186268/spanish-verbs/151/)	
+fortificar	fortify
+escarbar	"rummage, pry, scrape"
+entonar	"tone, intone, pitch"
+capitalizar	"capitalize, capitalize on"
+desobedecer	disobey
+etiquetar	"label, classify"
+repoblar	"restock, repopulate, replant"
+suplicar	"request, ask, beg"
+revalidar	"revalidate, ratify, confirm"
+apuntalar	"underpin, shore, prop up"
+*** 1511 - 1520 (/course/186268/spanish-verbs/152/)	
+descalificar	"disqualify, put down, belittle"
+extraditar	extradite
+recargar	"recharge, reload, replenish"
+substituir	"stand in for, replace, substitute"
+cansar	"tire, fatigue, wear down"
+clausurar	"close, close down, end"
+menoscabar	"lessen, diminish, reduce"
+rebatir	"rebut, refute, reject"
+pinchar	"shoot up, get a flat tire, play"
+templar	"temper, quench, anneal"
+*** 1521 - 1530 (/course/186268/spanish-verbs/153/)	
+discrepar	"disagree, differ, be different"
+custodiar	"guard, keep, watch over"
+extremar	"be maximised, increase, be stepped up"
+inhibir	inhibit
+bromear	"joke, jest, fun"
+subordinar	"subordinate, make subject to, is governed by"
+dilatar	"dilate, widen, distend"
+brincar	"jump, jump around, spring"
+nutrir	"nurture, nourish, be nourished"
+desenmascarar	"expose, unmask, debunk"
+*** 1531 - 1540 (/course/186268/spanish-verbs/154/)	
+preceder	"precede, predate"
+pronosticar	"predict, prognosticate, foretell"
+amortiguar	"cushion, muffle, soften"
+mamar	"suck, suck cock, drink"
+surtir	"supply, provide, furnish"
+englobar	"include, encompass"
+anteponer	prefix
+zarpar	"set sail, weigh anchor"
+comprimir	"compress, compact, press"
+infiltrar	"infiltrate, penetrate, seep"
+*** 1541 - 1550 (/course/186268/spanish-verbs/155/)	
+cuajar	"set, jell, take"
+aflorar	"appear, surface, sift"
+cifrar	"boil down, sum up, encapsulate"
+converger	"converge, meet, coincide"
+empuñar	"take up, wield, clutch"
+bañar	"bathe, bath, dip"
+sobornar	"bribe, buy, suborn"
+archivar	"file, store, file away"
+resbalar	"slide, slide off, slip"
+degradar	"degrade, demote, downgrade"
+*** 1551 - 1560 (/course/186268/spanish-verbs/156/)	
+convidar	"invite, treat, ask"
+arraigar	"to become rooted, put down roots, settle down"
+relevar	relieve
+usurpar	"usurp, encroach on, infringe on"
+desenvolver	"develop, unwrap, open"
+homenajear	"honour, pay tribute to, honor"
+laminar	"laminate, overlay, roll"
+mendigar	"beg, panhandle, beg for"
+venerar	"venerate, revere, reverence"
+comandar	command
+*** 1561 - 1570 (/course/186268/spanish-verbs/157/)	
+rotar	"rotate, take turns"
+escatimar	"spare, skimp, scrimp"
+rivalizar	"compete, vie"
+falsificar	"falsify, fake, forge"
+fruncir	"pucker, gather, shirr"
+desvanecer	"dispel, dissipate, faint"
+evangelizar	evangelize
+patentar	"patent, register"
+esparcir	"spread, scatter, sprinkle"
+democratizar	democratize
+*** 1571 - 1580 (/course/186268/spanish-verbs/158/)	
+engordar	"fatten, get fat, gain"
+perdurar	"last, endure, live on"
+transponer	transpose
+deambular	"wander, wander around, wander about"
+germinar	germinate
+asir	"grasp, grab, take"
+chirriar	"squeak, creak, scrape"
+adueñarse	"take over, seize, take hold of"
+comulgar	"commune, receive communion, take communion"
+enmascarar	"mask, cover up, disguise"
+*** 1581 - 1590 (/course/186268/spanish-verbs/159/)	
+resguardar	"shield, protect, shelter"
+absolver	"acquit, absolve, release"
+expiar	"atone, expiate, make reparation"
+descontar	"deduct, discount, take off"
+popularizar	popularize
+eximir	"exempt, excuse, free oneself of"
+acaparar	"hoard, buy up, monopolize"
+enganchar	"hook, attach, hook up"
+prescribir	"prescribe, exceed the statute of limitations, expire"
+vaticinar	"prophesy, predict, foresee"
+*** 1591 - 1600 (/course/186268/spanish-verbs/160/)	
+reeditar	"reissue, reedit, reprint"
+refrendar	"countersign, endorse, authenticate"
+ahorcar	"hang, choke, strangle"
+rememorar	"remember, recall"
+retar	challenge
+transigir	"compromise, tolerate, put up with"
+trabar	"lock, jam, get tangled"
+aparcar	"park, put on hold, suspend"
+merodear	"prowl, hang around, maraud"
+reanimar	"revive, reanimate, cheer up"
+*** 1601 - 1610 (/course/186268/spanish-verbs/161/)	
+centralizar	"centralize, center, focus"
+dispensar	"dispense, exempt, forgive"
+pulir	"polish, burnish, buff"
+remar	"row, pull"
+naufragar	"sink, be wrecked, be shipwrecked"
+testificar	"testify, witness"
+estrellar	"crash, smash, come up against"
+sobresalir	"protrude, excel, bulge"
+veranear	"spend the summer, summer"
+adherir	"adhere, stick, support"
+*** 1611 - 1620 (/course/186268/spanish-verbs/162/)	
+atestiguar	"testify, attest, witness"
+capacitar	"train, qualify, entitle"
+aducir	"adduce, put forward allege, claim"
+fugarse	"escape, leak, break"
+colegir	"gather, infer, conclude"
+irritar	"irritate, anger, get annoyed"
+desbordar	"overflow, spill over, cause to overflow"
+retardar	"slow, retard, delay"
+osar	"dare, venture"
+palpar	"feel, palpate, touch"
+*** 1621 - 1630 (/course/186268/spanish-verbs/163/)	
+ridiculizar	"ridicule, deride, mock"
+redondear	"round, round off, round down"
+esgrimir	"wield, use, fence"
+desesperar	"despair, give up hope, lose hope"
+infectar	"infect, become infected, become infected with"
+inquirir	"inquire, question, expr"
+pleitear	"plead, go to law, argue"
+puntuar	"punctuate, grade, mark"
+blanquear	"whiten, bleach, whitewash"
+infligir	"inflict, wreak"
+*** 1631 - 1640 (/course/186268/spanish-verbs/164/)	
+cebar	"prime, stoke, feed"
+rabiar	"rage, fume, be furious"
+desaprovechar	"waste, miss, lose"
+disciplinar	discipline
+desconectar	"disconnect, switch off, turn off"
+rentabilizar	make profitable
+arbitrar	"arbitrate, judge, settle"
+atracar	"dock, berth, rob"
+toser	"cough, bully"
+acotar	"enclose, fence in, reserve"
+*** 1641 - 1650 (/course/186268/spanish-verbs/165/)	
+conjeturar	"guess, conjecture, surmise"
+cimentar	"lay the foundation, consolidate,strengthen, base"
+sobrevolar	"fly over, overfly"
+amedrentar	"frighten, scare, intimidate"
+roer	"gnaw, pick, nibble"
+desnudar	"undress, strip, denude"
+abundar	"abound, be plentiful, share"
+limar	"file, polish, refine"
+memorizar	memorize
+prejuzgar	prejudge
+*** 1651 - 1660 (/course/186268/spanish-verbs/166/)	
+releer	"reread, re-read"
+chillar	"scream, squawk, howl"
+encuadrar	"frame, put in a frame, demarcate"
+enmarcar	"frame, put in a frame, define"
+manchar	"stain, spot, dirty"
+delinquir	"commit crime, get involved in crime"
+foliar	foliate
+equivocar	"mistake, take the wrong, confuse"
+remodelar	"remodel, restyle, refurbish"
+empeñar	"pawn, pledge, hock"
+*** 1661 - 1670 (/course/186268/spanish-verbs/167/)	
+personalizar	"personalize, customize, make"
+redistribuir	reallocate
+mermar	"reduce, lessen, dwindle"
+asar	"roast, broil, barbecue"
+estrangular	"throttle, strangle, strangulate"
+asestar	"deal, aim, land"
+embellecer	"embellish, beautify, prettify"
+inquietar	"disturb, trouble, worry"
+masticar	"chew, masticate, chew on"
+derrumbar	"crack, fall down, collapse"
+*** 1671 - 1680 (/course/186268/spanish-verbs/168/)	
+hurtar	"steal, purloin, hide"
+degenerar	"degenerate, end up as, turn into"
+peregrinar	"make, go on a pilgrimage, travel extensively"
+interpelar	"question, put a question to, interpellate"
+irrumpir	"burst, barge in, burst in"
+sabotear	sabotage
+aguzar	"sharpen, prick up"
+palpitar	"throb, beat, pulsate"
+detonar	"detonate, explode, spark off"
+rechinar	"grind, gnash, creak"
+*** 1681 - 1690 (/course/186268/spanish-verbs/169/)	
+reavivar	revive
+acostumbrar	"accustom, acclimate, habituate"
+izar	"raise, hoist, run"
+sitiar	"besiege, surround, invest"
+sepultar	"bury, hide oneself, go underground"
+rayar	"scratch, line"
+desenterrar	"unearth, dig up, disinter"
+desertar	"defect, desert, give up"
+desalentar	"deter, discourage, dampen"
+helar	"freeze, ice, chill"
+*** 1691 - 1700 (/course/186268/spanish-verbs/170/)	
+reencontrar	"reencounter, meet again, take up again"
+empollar	"hatch, brood, bone up"
+lastimar	"hurt, injure"
+rescindir	"rescind, withdraw, cancel"
+dictaminar	rule
+aborrecer	"abhor, hate, detest"
+aquilatar	"estimate, check/assay, assess"
+agrandar	"enlarge, increase, make bigger"
+amasar	knead
+procrear	"procreate, beget"
+*** 1701 - 1710 (/course/186268/spanish-verbs/171/)	
+personarse	"arrive, turn up, appear"
+pestañear	"blink, wink"
+adentrar	"go into, study thoroughly"
+desbancar	"oust, unseat, replace"
+carnear	slaughter
+desairar	"rebuff, snub, slight"
+encarecer	"urge, exhort, contend"
+descentralizar	decentralize
+reintegrar	"reintegrate, reinstate, refund"
+aclamar	"cheer, hail, acclaim"
+*** 1711 - 1720 (/course/186268/spanish-verbs/172/)	
+confiscar	"confiscate, impound"
+galopar	"gallop, canter"
+revolucionar	"revolutionize, shake up, completely change"
+blindar	"shield, armor, armour-plate"
+batallar	battle
+achacar	"blame, attribute, assign"
+encadenar	"chain, connect, fetter"
+fulminar	"fulminate, thunder, strike down"
+desfallecer	"faint, pass out"
+soslayar	"place obliquely, put sideways, turn on its [etc.] side"
+*** 1721 - 1730 (/course/186268/spanish-verbs/173/)	
+sintonizar	"tune in, tune to, tune in to"
+expropiar	"expropriate, confiscate"
+cegar	"blind, go blind, be blinded"
+embestir	"attack, charge, lunge"
+halagar	"flatter, coax, blandish"
+arremeter	"lash out, attack, lunge"
+arrear	"make off with, clean out, sack"
+repensar	"rethink, reconsider"
+jubilar	"retire, pension off, force into retirement"
+propugnar	"advocate, champion, advance"
+*** 1731 - 1740 (/course/186268/spanish-verbs/174/)	
+cumplimentar	"compliment, congratulate, greet"
+obstruir	"clog, obstruct, block"
+hurgar	"rummage, delve, dig"
+sollozar	sob
+refrenar	"restrain, contain, control"
+trastornar	"unhinge, drive mad, drive crazy"
+morar	"dwell, abide, sojourn"
+exhortar	"exhort, admonish, urge"
+regatear	"haggle, dribble, haggling"
+intercalar	"insert, intercalate, sandwich"
+*** 1741 - 1750 (/course/186268/spanish-verbs/175/)	
+enloquecer	"drive crazy or to distraction, drive barmy or batty, go crazy"
+predominar	"prevail, predominate, take precedence"
+priorizar	prioritize
+despistar	"mislead, sidetrack, daydream"
+privilegiar	"privilege, grant a privilege to, favor US"
+concordar	"agree, tally, accord"
+freír	"fry, bombard, pester"
+amarrar	"moor, secure, belay"
+oficiar	"officiate, inform officially, give official written notice to"
+refinar	"refine, become more refined, become more polished"
+*** 1751 - 1760 (/course/186268/spanish-verbs/176/)	
+enojar	"get angry, get mad, boil over"
+trocar	"barter, trade, change"
+forrar	"line, cover, sheathe"
+inmovilizar	"immobilize, tie up"
+patrullar	patrol
+afilar	"sharpen, hone, whet"
+azotar	"whip, scourge, spank"
+acosar	"harass, persecute, harry"
+frotar	"rub, rub in, scrub"
+cuadrar	"square, tally, stand at attention"
+*** 1761 - 1770 (/course/186268/spanish-verbs/177/)	
+sincronizar	"synchronize, co-ordinate, synchronise"
+sistematizar	"systematize, organized, structure"
+aterrorizar	"terrorize, terrify, terrorise"
+aliar	"become allies, form an alliance, band together"
+sobrevenir	"ensue, supervene, happen suddenly"
+picotear	"pick, peck, peck at"
+acechar	"watch, stalk"
+cercar	"fence, besiege, encompass"
+rezongar	"grumble, gripe, growl"
+purgar	"purge, vent, drain"
+*** 1771 - 1780 (/course/186268/spanish-verbs/178/)	
+escudriñar	"scrutinize, examine, study"
+topar	"come across, come up against, encounter"
+cristalizar	"crystallize, crystallise, solidify"
+aullar	"howl, yowl, scream. cry out"
+pernoctar	"overnight, stay overnight, pass the night"
+repostar	"refuel, replenish, fill up"
+ralentizar	"slow down, slow, draw out"
+ondear	"wave, flap, flutter"
+colisionar	"crash (into), collide (with), clash"
+delatar	"betray, reveal, blow the whistle"
+*** 1781 - 1790 (/course/186268/spanish-verbs/179/)	
+esculpir	"carve, sculpt, sculpture"
+segar	"mow, reap, crop"
+invalidar	"invalidate, void, override"
+embromar	tease
+esclavizar	"enslave, make a slave of sb"
+subyugar	"subjugate, overpower, captivate"
+calcar	"trace, copy"
+palidecer	"pale, blanch, turn pale"
+liar	"bundle, roll, tie"
+platicar	"talk, converse"
+*** 1791 - 1800 (/course/186268/spanish-verbs/180/)	
+desgarrar	"tear, claw, rend"
+malgastar	"waste, squander, fritter"
+ayunar	fast
+falsear	"falsify, distort, forge"
+libertar	"free, set free, rescue"
+titubear	"hesitate, falter, stagger"
+acoplar	"couple, engage, link"
+presentir	"have a feeling, have a presentiment, have a premonition"
+hojear	"leaf through, flick through, glance through"
+incursionar	"make an incursion, make incursions"
+*** 1801 - 1810 (/course/186268/spanish-verbs/181/)	
+teñir	"stain, dye, tint"
+fraternizar	fraternize
+tumbar	"overthrow, drop, tumble"
+replegar	"retract, withdraw, become withdrawn"
+ablandar	"soften, melt, soften up"
+trasponer	transplant
+fechar	"date, schedule, record"
+ensamblar	"assemble, join, put together"
+independizar	"break away, emancipate, become independent"
+deplorar	"deplore, strongly disprove of, lament"
+*** 1811 - 1820 (/course/186268/spanish-verbs/182/)	
+espigar	glean
+patear	"kick, stamp, traipse"
+tributar	"pay tribute to, give thanks to"
+salar	"salt, make salty, oversalt"
+mojar	"wet, drench, dip"
+lesionar	"damage, wound, injure"
+adelgazar	"lose weight, slim, dilute"
+rehuir	"shun, shirk, refuse"
+computar	"calculate, count, reckon"
+marginar	"marginalize, marginalise, leave margins on"
+*** 1821 - 1830 (/course/186268/spanish-verbs/183/)	
+relegar	"relegate, push into the background, set aside"
+tantear	"sound out, consider, weigh up"
+guerrear	"war, wage war, make war"
+exacerbar	"aggravate, exacerbate"
+asombrar	"astonish, amaze, darken"
+gestar	"brew, develop, grow"
+deportar	deport
+yacer	"lie, be located"
+rebelar	"rebel, revolt, rise"
+urbanizar	"urbanize, develop, teach you a lesson"
+*** 1831 - 1840 (/course/186268/spanish-verbs/184/)	
+cautivar	"captivate, enthrall, attract"
+desprestigiar	"discredit, smear the reputation of"
+colar	"seep, leak, gate-crash"
+traficar	traffic
+congregar	bring together
+retransmitir	"broadcast, retransmit, repeat"
+bucear	"SCUBA dive, swim underwater, pore over"
+desvincular	"disassociate, detach"
+emplazar	"summons, subpoena, set a deadline"
+acondicionar	"adjust to, get used to, prepare"
+*** 1841 - 1850 (/course/186268/spanish-verbs/185/)	
+fiscalizar	"control, regulate, supervise"
+asentir	"go along, agree, assent"
+colapsar	"hold up, block, cause to collapse"
+botar	"kick out, boot out, bounce"
+doler	"pain, ache, hurt"
+segregar	"segregate, separate, secrete"
+desentenderse	"avoid, get out of"
+delinear	"delineate, trace, draft US"
+amplificar	"amplify, augment, enlarge"
+rebotar	"bounce, rebound, ricochet"
+*** 1851 - 1860 (/course/186268/spanish-verbs/186/)	
+internar	"intern, penetrate, advance"
+rasgar	"tear, rip, strum"
+triturar	"crush, triturate, grind"
+mellar	"dent, nick, indent"
+fermentar	"ferment, cause fermentation in"
+institucionalizar	"institutionalize, become an institution, become institutionalized"
+encabritarse	"rear, rear up, prance"
+relumbrar	"shine, dazzle, be dazzling"
+chantajear	blackmail
+clamar	"clamour for, cry out for, cry out"
+*** 1861 - 1870 (/course/186268/spanish-verbs/187/)	
+fecundar	"fertilize, impregnate, fecundate"
+domesticar	"tame, domesticate"
+deformar	"warp, deform, distort"
+alistar	"enlist, enroll, sign up"
+resplandecer	"shine, glow, glitter"
+contagiar	"spread, infect with, pass on"
+telefonear	"telephone, call, phone"
+pavimentar	"pave, surface, asphalt"
+retocar	"touch up, retouch"
+deslumbrar	"dazzle, bedazzle, blind"
+*** 1871 - 1880 (/course/186268/spanish-verbs/188/)	
+licenciar	"license, discharge, dismiss"
+estampar	"stamp, print, imprint"
+pregonar	"announce, proclaim, hawk"
+zozobrar	"capsize, keel over, be in danger of sinking"
+estafar	"swindle, cheat, trick"
+tachar	"cross out, strike out, fault"
+triplicar	"triple, triplicate, treble"
+avergonzar	"embarrass, shame, be ashamed"
+anclar	"anchor, drop anchor, cling to"
+incoar	"commence, initiate, begin"
+*** 1881 - 1890 (/course/186268/spanish-verbs/189/)	
+plegar	"fold, crease, submit"
+valorizar	"value, valorize, appraise"
+automatizar	"automate, make automatic, make habitual"
+contrariar	"displease, oppose, contradict"
+confluir	"join, converge, come together"
+patrocinar	"sponsor, patronize, finance"
+pisotear	"trample, tread, thrash"
+desahogar	"vent, relieve, settle"
+legar	"bequeath, leave, will"
+corcovear	"buck, plunge, caper"
+*** 1891 - 1900 (/course/186268/spanish-verbs/190/)	
+exteriorizar	"externalize, exteriorize, act out"
+hostigar	"harass, harry, bait"
+desatender	"neglect, disregard, ignore"
+tambalear	"stagger, reel, wobble"
+manear	hobble
+destronar	"dethrone, depose, take the limelight from"
+exhalar	"exhale, breathe out, heave"
+nacionalizar	"nationalize, naturalize"
+loar	"praise, laud, worship"
+hollar	"trample, tread, tread down"
+*** 1901 - 1910 (/course/186268/spanish-verbs/191/)	
+enfadar	"anger, annoy, irritate"
+enceguecer	blind
+lamer	lick
+arañar	"scratch, claw, scrape"
+condensar	"condense, compress, condensate"
+disentir	"disagree, dissent"
+chapalear	lap
+recomenzar	recommence
+distanciar	"separate, grow apart"
+tañer	"ring, toll, chime"
+*** 1911 - 1920 (/course/186268/spanish-verbs/192/)	
+destornillar	"unscrew, turn, screw off"
+ceñir	"gird, encircle, belt"
+atisbar	"keep an eye on, watch, observe"
+maquillar	"make up, make oneself up, pretty up"
+monopolizar	"monopolize, corner, monopolise"
+fregar	"scrub, wash, rub"
+desarticular	"disarticulate, disjoint, break up"
+desanimar	"discourage, dampen, put off"
+vadear	"wade, ford, wade across"
+colear	"wag its tail, skid"
+*** 1921 - 1930 (/course/186268/spanish-verbs/193/)	
+soldar	"weld, solder, braze"
+decrecer	"decrease, wane, diminish"
+engrandecer	"enlarge, exalt, aggrandize"
+escoltar	"escort, guard, convoy"
+sumir	"plunge, sink, submerge"
+reconstituir	"reconstitute, reconstruct"
+arrendar	"rent, lease, let"
+madrugar	"rise early, get up early, come early"
+tronar	"thunder, fulminate, boom"
+desgastar	"wear, wear down, wear away"
+*** 1931 - 1940 (/course/186268/spanish-verbs/194/)	
+ventilar	"ventilate, air, aerate"
+disociar	dissociate
+fraguar	"forge, set, fabricate"
+reagrupar	regroup
+reunificar	reunify
+alarmar	"alarm, frighten"
+amortizar	"amortize, redeem, pay off"
+aburrir	"bore, weary, tire"
+categorizar	categorize
+fructificar	"fructify, give results, yield results"
+*** 1941 - 1950 (/course/186268/spanish-verbs/195/)	
+golear	"hammer, thrash, destroy"
+nivelar	"level, even, straighten"
+cortejar	"court, woo, cultivate"
+disgustar	"get annoyed, get upset, be annoyed"
+irradiar	"radiate, irradiate, beam"
+empañar	"tarnish, mist, fog"
+escasear	"be scarce, be in short supply, skimp on"
+desmayar	"faint, pass out, lose heart"
+avistar	"sight, catch sight of, spot"
+subdividir	subdivide
+*** 1951 - 1960 (/course/186268/spanish-verbs/196/)	
+subvertir	"subvert, overthrow, undermine"
+flaquear	"waver, weaken, falter"
+atemorizar	"terrify, intimidate"
+holgar	"be idle, loaf, be unnecessary"
+concursar	compete
+violentar	"get angry, become violent, rape"
+pillar	"pinch, nip, crush"
+bombear	"pump, lob"
+medrar	"thrive, increase, prosper"
+divorciar	"divorce, get divorced"
+*** 1961 - 1970 (/course/186268/spanish-verbs/197/)	
+dorar	"brown, gild"
+impregnar	"impregnate, permeate, pervade"
+raptar	"kidnap, abduct, ravish"
+desequilibrar	"unbalance, destabilize, throw off balance"
+menguar	"wane, ebb, reduce"
+profanar	"defile, desecrate, profane"
+obsequiar	"present, reward"
+reordenar	realign
+erosionar	"erode, graze, damage"
+inhalar	"inhale, sniff, breathe in"
+*** 1971 - 1980 (/course/186268/spanish-verbs/198/)	
+laborar	"labor, work, till"
+destapar	"uncover, open, reveal oneself"
+anexar	"append, annex"
+dinamitar	dynamite
+arrimar	"move in with, live with, latch onto"
+agudizar	"sharpen, worsen, sharpen one\'s wits"
+untar	"spread, anoint, daub"
+enjugar	"wipe, wipe out, dry"
+enturbiar	"blur, muddy, roil"
+adiestrar	train
+*** 1981 - 1990 (/course/186268/spanish-verbs/199/)	
+escurrir	"drain, wring out, wring"
+eclipsar	"eclipse, overshadow, outshine"
+explicitar	"make it clear, specify, explicitly state"
+hipotecar	"mortgage, hypothecate, risk"
+estacionar	"park, station, stay put"
+presuponer	"presuppose, imply, anticipate"
+resarcir	"compensate, repay, reimburse"
+drenar	drain
+emanar	"emanate, come, give off"
+simpatizar	"get on, get on well, get on well together"
+*** 1991 - 2000 (/course/186268/spanish-verbs/200/)	
+sobrecargar	"overload, overburden, overcharge"
+esquiar	"ski, water ski, screw"
+extrapolar	"extrapolate, compare"
+revalorizar	"revalue, increase the value of, push up the value of"
+balancear	"swing, balance, rock"
+colorear	"color, colour"
+decapitar	"behead, decapitate, leave without a leader"
+exceptuar	"except, exempt, exclude"
+acaecer	"happen, occur, take place"
+allegar	"adopt, get behind, support"
+*** 2001 - 2010 (/course/186268/spanish-verbs/201/)	
+escenificar	"stage, dramatize"
+cejar	"stop, give up, throw in the towel"
+cotejar	"collate, compare"
+peinar	"comb, brush, style"
+trasplantar	"transplant, move, replant"
+versar	"become an expert in, be about, deal with"
+deleitar	"delight, take pleasure, entrance"
+marear	"get tipsy, feel giddy, get tight"
+barajar	"shuffle, riffle, consider"
+decantar	"decant, choose, opt for"
+*** 2011 - 2020 (/course/186268/spanish-verbs/202/)	
+apropiar	"dominate, take over, appropriate"
+derretir	"melt, wait impatiently, thaw"
+imperar	"prevail, reign, rule"
+cavilar	"reflect, meditate"
+sublevar	"rise up, revolt, infuriate"
+escabullirse	"slip out, escape, break out"
+enviudar	widow
+amonestar	"admonish, caution, tell off"
+argüir	"argue, deduce, infer"
+coadyuvar	"contribute, help in"
+*** 2021 - 2030 (/course/186268/spanish-verbs/203/)	
+instrumentar	"instrument, orchestrate, execute"
+abstener	"refrain from, abstain from"
+robustecer	"strengthen, intensify"
+condonar	"condone, remit, reprieve"
+dignificar	dignify
+incomodar	"inconvenience, trouble, make uncomfortable"
+embaucar	"trick, con"
+enrolar	"enlist, enroll, sign up"
+polemizar	polemicize
+recetar	prescribe
+*** 2031 - 2040 (/course/186268/spanish-verbs/204/)	
+rejuvenecer	rejuvenate
+socializar	"socialize, nationalise UK, nationalize US"
+especializar	specialize
+civilizar	civilize
+facturar	"invoice, bill, check in"
+raspar	"scrape, rasp, graze"
+desligar	"become separated, untie, undo"
+devastar	"devastate, lay waste, destroy"
+apetecer	"feel like, would like"
+patinar	"skate, skid, slip"
+*** 2041 - 2050 (/course/186268/spanish-verbs/205/)	
+apuñalar	stab
+merendar	"thrash, destroy, beat"
+teclear	type
+acorralar	"corner, corral, pen"
+ejemplificar	"illustrate, exemplify, set an example"
+instigar	"instigate, abet, foment"
+mentar	mention
+cagar	"shit, crap"
+virar	"tack, veer, turn around"
+trotar	"trot, run around, on the trot"
+*** 2051 - 2060 (/course/186268/spanish-verbs/206/)	
+infravalorar	"underestimate, undervalue"
+promediar	average out
+supeditar	"be dependent on, be subject to"
+jactarse	"boast, brag"
+fragmentar	"break, fragment, break up"
+contravenir	contravene
+decepcionar	"disappoint, let down, fail"
+largar	"leave, fire, sack"
+mutilar	"mutilate, maim, deface"
+estandarizar	"standardize, standardise"
+*** 2061 - 2070 (/course/186268/spanish-verbs/207/)	
+transgredir	"transgress, contravene, break"
+pitar	"whistle, beep, work"
+zumbar	"buzz, ring, zoom"
+cercenar	"curtail, clip, lop"
+asediar	"bother, pester, besiege"
+deslindar	"demarcate, mark, define"
+humanizar	"humanize, make more humane, civilize"
+alardear	"brag, boast"
+circunscribir	"circumscribe, deal exclusively with"
+eyacular	ejaculate
+*** 2071 - 2080 (/course/186268/spanish-verbs/208/)	
+canjear	"exchange, swap, trade"
+familiarizar	"familiarize, acquaint, get acquainted with"
+aderezar	"dress, garnish, season"
+engullir	"gobble, swallow, engorge"
+airear	"aerate, air, get some air"
+sosegar	"calm, soothe"
+granular	granulate
+aferrar	"grasp, furl, grapple"
+derrochar	"waste, throw away, dissipate"
+enrojecer	"redden, blush, turn red"
+*** 2081 - 2090 (/course/186268/spanish-verbs/209/)	
+devaluar	"devaluate, devalue"
+cicatrizar	heal
+monitorizar	monitor
+atizar	"stir, fan, poke"
+homogeneizar	"become alike, blend together, make uniform"
+tildar	"tick, put an accent on, put a tilde over"
+urdir	"weave, warp, plot"
+anexionar	"annex, add to"
+asfixiar	"asphyxiate, choke, suffocate"
+hincar	"drive, sink, thrust"
+*** 2091 - 2100 (/course/186268/spanish-verbs/210/)	
+proliferar	"proliferate, multiply"
+santificar	"sanctify, hallow, make holy"
+hospedar	"stay, lodge, host"
+transmutar	transmute
+descolgar	"come out with, let loose with, blurt out"
+diseminar	"disseminate, be scattered, be spread"
+tergiversar	"distort, prevaricate, misconstrue"
+pacer	"pasture, graze, browse"
+insuflar	insufflate
+curiosear	"pry, poke around, nose around"
+*** 2101 - 2110 (/course/186268/spanish-verbs/211/)	
+roncar	"snore, roar"
+maravillar	"wonder, astound, astonish"
+alborotar	"be disturbed, be unsettled, be excited"
+parpadear	"blink, flicker, twitch"
+arrinconar	"corner, shelve, lay aside"
+resentirse	"fall apart, weaken, deteriorate"
+mecanizar	"mechanize, mechanise, make by machine"
+reembolsar	"repay, refund, reimburse"
+retraer	"retract, dissuade, withdraw"
+bordear	"skirt, border, border on"
+*** 2111 - 2120 (/course/186268/spanish-verbs/212/)	
+recelar	"suspect, be suspicious of, distrust"
+enajenar	"alienate, dispose of, transfer"
+fantasear	"fantasize, romance, dream"
+claudicar	"give up, throw in the towel, give in"
+recapitular	"recapitulate, sum up, summarise UK"
+reprobar	"condemn, damn, fail"
+bordar	"embroider, excel, surpass"
+retribuir	"pay, reward"
+reajustar	"readjust, reset"
+rebuscar	"rummage, search for, look carefully for"
+*** 2121 - 2130 (/course/186268/spanish-verbs/213/)	
+corretear	"chase, hang about, hang around"
+entusiasmar	"enthuse, delight, get excited"
+adular	"flatter, adulate, fawn"
+intimar	"intimate, become close"
+ordeñar	"milk, be ordained, order"
+estipular	"provide, stipulate, come to an agreement"
+licitar	"tender, bid"
+adjuntar	"attach, enclose, append"
+camuflar	"camouflage, camouflage oneself, disguise"
+exonerar	"exonerate, dismiss, remove"
+*** 2131 - 2140 (/course/186268/spanish-verbs/214/)	
+inflar	"inflate, blow up, pump up"
+languidecer	"languish, pine, flag"
+calzar	"wear, put on, wedge"
+extorsionar	"extort, extract, bother"
+inflamar	"inflame, become inflamed, swell up"
+anhelar	"long, long for, aspire"
+denigrar	"denigrate, abuse, blacken"
+dramatizar	dramatize
+rociar	"spray, sprinkle, baste"
+compadecer	"sympathize, commiserate, comply"
+*** 2141 - 2150 (/course/186268/spanish-verbs/215/)	
+balbucear	"babble, stammer, prattle"
+homologar	"make equivalent, ratify, certify"
+oficializar	make official
+surcar	"plough through, plough, score"
+develar	"reveal, unveil"
+principiar	start
+recubrir	"cover, coat, recoat"
+arrollar	"crush, sweep aside, dominate"
+descarrilar	"derail, be derailed"
+taladrar	"drill, pierce"
+*** 2151 - 2160 (/course/186268/spanish-verbs/216/)	
+escolarizar	educate
+imposibilitar	"preclude, make impossible, prohibit"
+cundir	"spread, go further, go a long way"
+abstraer	"abstract, leave behind, withdraw"
+coquetear	"flirt, toy with, flirt with"
+individualizar	"individualize, personalise, tailor"
+desposar	marry
+tensar	"stretch, tauten, irritate"
+coartar	"restrict, limit"
+endulzar	"sweeten, mellow, soften"
+*** 2161 - 2170 (/course/186268/spanish-verbs/217/)	
+despedazar	"tear, shred, tear to pieces"
+tipificar	"typify, class, categorize"
+blasfemar	"blaspheme, curse"
+evaporar	"evaporate, disappear"
+enaltecer	"exalt, praise, elevate"
+reincorporar	"reincorporate, return, rejoin"
+nevar	"snow, sprinkle, whiten"
+elucidar	elucidate
+ajusticiar	execute
+cabecear	"head, pitch, nod"
+*** 2171 - 2180 (/course/186268/spanish-verbs/218/)	
+emparejar	"pair, match, match up"
+urgir	"urge, encourage, beseech"
+copular	"copulate, mate, have sex"
+inutilizar	"disable, render useless"
+ofertar	"price to sell, put on offer, put on special offer"
+encarrilar	"put on the rails, put on track, put back on track"
+reubicar	"reposition, relocate"
+saturar	"saturate, permeate, fill up"
+escrutar	"scrutinize, recount"
+deparar	"bring, offer, provide"
+*** 2181 - 2190 (/course/186268/spanish-verbs/219/)	
+afluir	"flow, flock"
+embargar	"seize, embargo, impound"
+sorber	"sip, suck, slurp"
+calumniar	"slander, defame, smear"
+olfatear	"sniff, smell, scent"
+trasvasar	"transfer, decant"
+retorcer	"twist, wring out, contort"
+desdoblar	"unfold, open out, divide"
+rechistar	complain
+deshonrar	"disgrace, dishonor, defile"
+*** 2191 - 2200 (/course/186268/spanish-verbs/220/)	
+dosificar	"dose, proportion, measure out"
+propinar	"give, inflict, deliver"
+mear	"piss, pee, have a pee"
+augurar	"augur, predict, foretell"
+coaccionar	"bully, coerce, pressure"
+conferenciar	"confer, lecture"
+contender	"contend, contest, fight"
+bosquejar	"outline, sketch, draft"
+teorizar	theorize
+espirar	"exhale, breathe out, breathe"
+*** 2201 - 2210 (/course/186268/spanish-verbs/221/)	
+personificar	"embody, personify, impersonate"
+fatigar	"fatigue, tire, weary"
+preconizar	herald
+planchar	"iron, heat-straighten"
+arriar	"lower, haul down, strike"
+poetizar	"poeticize, poetize"
+repicar	"ring, peal, chime"
+estornudar	sneeze
+hinchar	"swell, inflate, fill"
+desenredar	"untangle, unravel, disentangle"
+*** 2211 - 2220 (/course/186268/spanish-verbs/222/)	
+destilar	"distill, distil, exude"
+fascinar	"fascinate, allure, intrigue"
+manar	"flow, well, run"
+desorientar	"disorient, disorientate"
+fluctuar	"fluctuate, range, waver"
+incriminar	"incriminate, frame"
+adormecer	"make sleepy, send to sleep, lull to sleep"
+parlamentar	"parley, palaver"
+pervertir	"pervert, deprave, warp"
+precaver	"warn, give warning"
+*** 2221 - 2230 (/course/186268/spanish-verbs/223/)	
+levar	"weigh, yeast"
+explosionar	"explode, blow up"
+politizar	politicize
+asemejar	"simulate, make something look like"
+desollar	"skin, flense, flench"
+sobreponer	"superimpose, overcome, recover from"
+remolcar	"tow, tug, tow away"
+amamantar	"breastfeed, nurse"
+declamar	"declaim, spout, speak in public"
+divagar	"ramble, digress, wander"
+*** 2231 - 2240 (/course/186268/spanish-verbs/224/)	
+desconcertar	"disconcert, upset, confuse"
+revolotear	"flit, flutter, hover"
+inculpar	"incriminate, inculpate"
+anudar	"knot, tie"
+escanear	scan
+bregar	"struggle, labour, work"
+bostezar	yawn
+difamar	"defame, blacken, libel"
+aprovisionar	"supply, equip"
+vacunar	vaccinate
+*** 2241 - 2250 (/course/186268/spanish-verbs/225/)	
+detestar	"detest, loathe, hate"
+moralizar	moralize
+proscribir	"proscribe, outlaw, banish"
+salpicar	"splash, splatter, sprinkle"
+encestar	"throw into a basket, basket, score a basket"
+crepitar	"crackle, sizzle"
+defecar	"defecate, have a number two, have a bowel movement"
+desmembrar	"dismember, split up, drive apart"
+follar	"fuck, screw, screw with"
+idealizar	idealize
+*** 2251 - 2260 (/course/186268/spanish-verbs/226/)	
+incubar	"incubate, hatch"
+masacrar	massacre
+percatar	"notice, realise, realize"
+profetizar	"prophesy, predict"
+podar	"prune, trim, lop"
+cohabitar	"cohabit, coexist, live together"
+atinar	"come up with, hit upon, find"
+desagradar	"displease, annoy, upset"
+emocionar	"excite, thrill, move"
+exorcizar	"exorcise, exorcize"
+*** 2261 - 2270 (/course/186268/spanish-verbs/227/)	
+remendar	"patch, repair, tinker"
+readmitir	readmit
+atemperar	"adjust, accomodate"
+enarbolar	"fly, raise, hoist"
+propulsar	"propel, move, encourage"
+reencarnar	reincarnate
+guisar	"cook, stew, prepare"
+estigmatizar	"stigmatize, brand"
+afiliar	"affiliate, make somebody a member"
+tasar	"assess, tax, value"
+*** 2271 - 2280 (/course/186268/spanish-verbs/228/)	
+bramar	"bellow, roar, bell"
+agasajar	"entertain, regale, feast"
+equivaler	"equal, be equal to, equate to"
+prodigar	"lavish, squander, be generous"
+aturdir	"stun, confuse, daze"
+adscribir	"assign, appoint"
+digitalizar	"digitize, digitalize"
+matricular	"enroll, register, matriculate"
+taponar	"plug, cork, stopper"
+deletrear	"spell, spell out, divine"
+*** 2281 - 2290 (/course/186268/spanish-verbs/229/)	
+conmutar	"commute, change, convert"
+desaprobar	"disapprove, frown, deprecate"
+incinerar	"incinerate, cremate"
+ensombrecer	"overshadow, darken, cast a shadow"
+parodiar	parody
+copar	"take, go banco, capture"
+tostar	"toast, burn, roast"
+convalidar	"validate, accept, ratify"
+asolar	"devastate, destroy"
+eternizar	eternize
+*** 2291 - 2300 (/course/186268/spanish-verbs/230/)	
+fertilizar	"fertilize, fertilise, germinate"
+lisonjear	"flatter, delight, fawn on"
+tramar	"hatch, contrive, engineer"
+levitar	levitate
+achicar	"reduce, bale, diminish"
+enrollar	"roll, wind, coil"
+malograr	"spoil, waste, ruin"
+superponer	superimpose
+pujar	"bid, bid up, struggle"
+querellarse	complain
+*** 2301 - 2310 (/course/186268/spanish-verbs/231/)	
+agachar	"duck, bend down, lie low"
+multar	"fine, penalize, ticket"
+atesorar	"hoard, treasure, lay up"
+remunerar	"remunerate, recompense, pay"
+totalizar	"totalize, total, aggregate"
+difuminar	"blur, break up, fade"
+empobrecer	"impoverish, make poor, cause to deteriorate"
+refundir	"remelt, melt down, be remelted"
+sojuzgar	"subdue, subject, subjugate"
+testar	test
+*** 2311 - 2320 (/course/186268/spanish-verbs/232/)	
+cobijar	"wrap up, wrap up warm, shelter"
+amputar	"amputate, cut off"
+clarear	"clear up, light up, brighten up"
+reputar	consider
+desautorizar	"disavow, overrule, override"
+mortificar	"mortify, spite, gall"
+nominar	nominate
+desandar	"retrace, go back along"
+menear	"shake, wag, wiggle"
+adulterar	"adulterate, dilute, doctor"
+*** 2321 - 2330 (/course/186268/spanish-verbs/233/)	
+desnaturalizar	"denature, denaturalize"
+mimar	"pamper, mother, cosset"
+azuzar	"set on, put pressure on, pressure"
+chasquear	"snap, click, disappoint"
+apilar	"stack, heap, pile up"
+excomulgar	excommunicate
+exculpar	"exonerate, exculpate"
+horadar	"perforate, drill, pierce"
+refrigerar	"refrigerate, keep cool, cool"
+fondear	"anchor, dock, search the bottom"
+*** 2331 - 2340 (/course/186268/spanish-verbs/234/)	
+exhumar	"dig up, exhume, disinter"
+amargar	"embitter, sour, gall"
+retozar	"frolic, frisk about, caper"
+numerar	"number, count"
+remojar	"soak, dunk, steep"
+sublimar	"sublimate, ennoble"
+catar	"taste, sample, try"
+aguar	"water down, spoil, rain on the parade"
+humedecer	"wet, dampen"
+adicionar	add
+*** 2341 - 2350 (/course/186268/spanish-verbs/235/)	
+poder	"can go on, can continue, overcome"
+bullir	"boil, move, seethe"
+blandir	"brandish, wave about, flourish"
+ilusionar	"delude, kid, excite"
+desmerecer	"devalue, deteriorate, be inferior to"
+ulular	"hoot, ululate, howl"
+internacionalizar	"internationalize, to become internationalized"
+encasillar	"pigeonhole, categorize, classify"
+serenar	"quieten, pacify, calm down"
+encallar	"run aground, fail"
+*** 2351 - 2360 (/course/186268/spanish-verbs/236/)	
+escindir	"split, divide"
+amansar	"tame, break in, calm down"
+cohesionar	"unite, draw together"
+diezmar	"decimate, divide into tens, split into tens"
+importunar	"importune, pester, molest"
+abrumar	"overwhelm, weigh down, wear out"
+vociferar	"shout, clamor, scream"
+forcejear	"struggle, tussle, wrestle"
+succionar	"suckle, suck out, draw out"
+empaquetar	"wrap, package, dump on"
+*** 2361 - 2370 (/course/186268/spanish-verbs/237/)	
+subastar	"auction, sell at auction, auction off"
+engatusar	"cajole, coax, hoodwink"
+dormitar	"doze, nap"
+desenvainar	"draw, unsheathe"
+ausentar	"leave, be absent, be away"
+parafrasear	paraphrase
+escamotear	"whisk away, hide, cover up"
+desmenuzar	"crumble, chop, mince"
+reincidir	"relapse, backslide, reoffend"
+guarecer	"shelter, protect"
+*** 2371 - 2380 (/course/186268/spanish-verbs/238/)	
+remedar	be a copy of
+boxear	box
+dignarse	"deign, condescend, deign to"
+vagabundear	"drift about, loaf about, roam"
+aventajar	"excel, outmatch, score"
+auditar	audit
+confinar	"banish, exile, imprison"
+extraviar	"get lost, go astray, misplace"
+glosar	"gloss, provide a commentary"
+capear	"ride out, weather out, weather"
+*** 2381 - 2390 (/course/186268/spanish-verbs/239/)	
+soler	"tend to, be in the habit of, be usual to"
+desglosar	"break down, apportion"
+aseverar	"claim, affirm, verify"
+desmoronar	"collapse, have a breakdown, have a nervous breakdown"
+trastocar	"disrupt, ruin"
+litigar	"litigate, sue, go to law"
+profesionalizar	"professionalize, make sb a professional, give a professional status to sb"
+encoger	shrink
+rubricar	"sign, seal"
+fraccionar	"split, divide"
+*** 2391 - 2400 (/course/186268/spanish-verbs/240/)	
+apear	"get off, alight"
+propender	tend
+apalear	"thrash, cane, beat"
+truncar	"abandon, leave, give up"
+corear	"clamour, shout out, call out"
+emancipar	"emancipate, free"
+intrigar	"get involved in, get tangled up in, intrigue"
+desoír	"ignore, disregard"
+arrodillar	kneel
+empalmar	"overlap, conflict with, clash with"
+*** 2401 - 2410 (/course/186268/spanish-verbs/241/)	
+jadear	"gasp, pant, wheeze"
+crispar	"annoy, bother, put on edge"
+desecar	"dry, dessicate, dried out"
+amordazar	"gag, muzzle, silence"
+tararear	"hum, sing to oneself"
+empacar	"pack, stuff"
+desgranar	"remove the grapes from, pick the grapes off, remove the grain from"
+herrar	"shoe, brand"
+arropar	"wrap, enfold, wrap up"
+afligir	"afflict, distress, trouble"
+*** 2411 - 2420 (/course/186268/spanish-verbs/242/)	
+asfaltar	"asphalt, pave"
+gesticular	gesticulate
+aprisionar	"imprison, lock up, hold"
+añorar	"miss, yearn for"
+resollar	"pant, breath heavily"
+pulverizar	"pulverize, crush, pulverise"
+delirar	rant
+alucinar	"be delirious, rave, trip"
+emparentar	become related by marriage
+rumiar	"chew, ruminate, chew the cud"
+*** 2421 - 2430 (/course/186268/spanish-verbs/243/)	
+ennoblecer	ennoble
+visionar	"preview, view, see"
+avasallar	"push around, bully, humiliate"
+fletar	"charter, load, freight"
+condimentar	season
+regañar	"yell at, scold, reprimand"
+incrustar	"be stuck in, get stuck in, embed"
+correlacionar	"correlate, match up"
+desinfectar	disinfect
+ambientar	"settle in to, decorate, set"
+*** 2431 - 2440 (/course/186268/spanish-verbs/244/)	
+colectar	collect
+desmitificar	"demystify, destroy the myths surrounding"
+desempolvar	"dust, dust off, remove the dust from"
+granjear	"earn, win, gain"
+aparear	mate
+juguetear	play
+aparejar	"prepare, get ready, saddle"
+desatascar	"pull out, unblock, extricate"
+descuartizar	"quarter, carve up"
+repuntar	"rally, recover, pick up"
+*** 2441 - 2450 (/course/186268/spanish-verbs/245/)	
+tiritar	"shiver, tremble"
+curtir	"whip, flog, lash"
+desconvocar	call off
+recluir	imprison
+sazonar	season
+husmear	"sniff around, sniff round"
+porfiar	"strive, endeavor"
+pugnar	"strive, fight"
+mancillar	taint
+aclimatar	"acclimatize, acclimate"
+*** 2451 - 2460 (/course/186268/spanish-verbs/246/)	
+sobrar	"be left over, be not needed, be in excess"
+croar	croak
+entrañar	"entail, carry with it, involve"
+apremiar	"hurry, hurry along"
+egresar	"leave, graduate"
+envasar	"pack, package"
+cualificar	qualify
+detentar	unlawfully hold
+desamparar	abandon
+descorrer	"go back, run back, draw"
+*** 2461 - 2470 (/course/186268/spanish-verbs/247/)	
+oxidar	"rust, oxidize, get rusty"
+invernar	"winter, spend the winter"
+piar	"cheep, cry for, insist on"
+desheredar	disinherit
+gotear	"drip, leak, drizzle"
+interiorizar	embrace
+aletear	"flap, flap around"
+amainar	"put away, store away, die down"
+reverenciar	"revere, venerate"
+mecer	"rock, swing, bob"
+*** 2471 - 2480 (/course/186268/spanish-verbs/248/)	
+dilapidar	"squander, waste"
+tabular	"tabulate, tab, table"
+prorrumpir	"burst into, break out, burst out"
+atrasar	"delay, hold up, be slow"
+adoctrinar	"indoctrinate, train, teach"
+noquear	knock out
+requisar	"requisition, seize, confiscate"
+inmolar	"sacrifice oneself, sacrifice"
+abrasar	"swelter, burn, boil"
+facultar	"authorize, empower, authorise"
+*** 2481 - 2490 (/course/186268/spanish-verbs/249/)	
+empapar	"be drenched, be soaked, soak up"
+remachar	"clinch, rivet, stress"
+cepillar	"disqualify, eliminate, kill"
+anegar	"flood, inundate, inundated"
+amueblar	furnish
+predisponer	"influence, prejudice"
+indultar	"pardon, reprieve, rescind"
+recular	"recoil, back up, reverse"
+retractar	retract
+aventar	"escape, get out, screw"
+*** 2491 - 2500 (/course/186268/spanish-verbs/250/)	
+emboscar	"lie in ambush, hide in woods, hole up in woods"
+magnificar	"magnify, exaggerate"
+maquinar	plot
+señalizar	"signpost, sign"
+esterilizar	"sterilize, neuter"
+trajinar	"transport, move"
+rajar	"back out, slice, cut"
+abocar	"focus on, throw oneself into, head for"
+investir	invest
+erguir	"stand up straight, rise, raise"
+*** 2501 - 2510 (/course/186268/spanish-verbs/251/)	
+caducar	"terminate, expire, pass expiry date"
+catalizar	act as a catalyst for
+hilvanar	"baste, tack, link together"
+roturar	"break, tear, tear up"
+circunnavegar	circumnavigate
+fracturar	"fracture, break"
+emborrachar	"get drunk, get plastered, get sloshed"
+yantar	"grab a bite, have a snack, eat"
+pedalear	"pedal, walk, go faster"
+jerarquizar	rank
+*** 2511 - 2520 (/course/186268/spanish-verbs/252/)	
+recriminar	"reproach, recriminate, reprimand"
+apedrear	stone
+caldear	"warm up, warm, heat"
+despilfarrar	"waste, squander"
+vendar	"bandage, bind up, dress"
+presupuestar	"budget, estimate, quote"
+cascar	"crack, shell out, break"
+expeler	"expel, eject, force out"
+deprimir	"get depressed, develop depression, depress"
+pender	"hang (from), hang, await"
+*** 2521 - 2530 (/course/186268/spanish-verbs/253/)	
+manosear	"paw, touch, finger"
+rearmar	rearm
+rentar	"rent, yield"
+finiquitar	"settle up, give severance pay, close"
+restañar	"stanch, staunch, stem"
+tintinear	"tinkle, jingle, chink"
+abrevar	"water, give a drink to, give something to drink to"
+amoldar	"adjust, adapt"
+ambicionar	"aspire, pursue, go after"
+confortar	"comfort, reinvigorate, console"
+*** 2531 - 2540 (/course/186268/spanish-verbs/254/)	
+endosar	"endorse, indorse, saddle sb with sthg"
+exasperar	"exasperate, aggravate, tantalize"
+guarnecer	"garrison, garnish, line"
+mugir	"moo, bellow, low"
+racionar	"ration, share out"
+estrujar	"squeeze, crowd, crush"
+enfilar	"string, thread, direct"
+marchitar	"wither, fade, dry up"
+desocupar	"become available, become vacant, get free"
+ensartar	"cheat, skewer, reel off"
+*** 2541 - 2550 (/course/186268/spanish-verbs/255/)	
+infamar	"slander, defame, dishonor"
+desmovilizar	demobilize
+listar	list
+malinterpretar	misunderstand
+ofrendar	"offer up, offer, tribute"
+entresacar	"pick, choose, extract"
+pellizcar	"pinch oneself, pinch, pick at"
+recusar	"reject, refuse, disqualify"
+reasumir	resume
+desgajar	"split from, split off from, break off"
+*** 2551 - 2560 (/course/186268/spanish-verbs/256/)	
+chequear	"check, check over"
+disertar	"discuss, speak about, discourse"
+distender	distend
+manufacturar	"manufacture, fabricate"
+rebobinar	"rewind, wind back"
+enraizar	take root
+condecorar	"decorate, cover, splash"
+zafar	"get out of, dislocate, put out of joint"
+hipnotizar	"hypnotize, mesmerize"
+sobrepujar	"outbid, outdo, excel"
+*** 2561 - 2570 (/course/186268/spanish-verbs/257/)	
+resoplar	"puff, pant"
+minusvalorar	"undervalue, underestimate"
+compactar	compact
+engalanar	"decorate, adorn"
+castrar	"doctor, castrate, geld"
+flanquear	flank
+fornicar	fornicate
+engrasar	"oil, grease, dress"
+agujerear	"perforate, make holes in, pierce"
+rever	"review, retry"
+*** 2571 - 2580 (/course/186268/spanish-verbs/258/)	
+espolear	"spur on, urge on, spur"
+acompasar	"adjust, take up"
+galardonar	award
+hornear	"bake, roast"
+hermanar	"bind, link, bond"
+balar	"bleat, baa"
+ondular	"curl, ripple"
+descabezar	"decapitate, leave leaderless, leave without a leader"
+desembarazar	disembarrass
+entronizar	enthrone
+*** 2581 - 2590 (/course/186268/spanish-verbs/259/)	
+imbuir	"fill, imbue, infuse"
+otear	"look down on, watch from above, watch over"
+musitar	"mutter, whisper"
+ultrajar	"outrage, defile, insult"
+bogar	row
+regentar	"run, rule, govern"
+saltear	"saute, sauté, rob"
+fustigar	"lash, whip, fustigate"
+desbrozar	clear
+descomprimir	decompress
+*** 2591 - 2600 (/course/186268/spanish-verbs/260/)	
+embalsamar	embalm
+embalar	"pack, package, bale"
+enternecer	"soften, tenderize, tender"
+trillar	"thresh, thrash"
+enervar	"unnerve, enervate, get cranky"
+anonadar	annihilate
+encuadernar	"bind, staple"
+conjuntar	combine
+incumbir	"concern, involve"
+formatear	format
+*** 2601 - 2610 (/course/186268/spanish-verbs/261/)	
+fungir	"function, serve"
+injertar	graft
+inmiscuir	"interfere, meddle"
+reclinar	"recline, lean back, rest"
+censar	"register to vote, take a census, take the census"
+denostar	"revile, insult"
+desbastar	"rough down, smooth down, to smooth the rough edges off sb"
+desguazar	"scrap, break up, dismantle"
+esquilar	"shear, clip, fleece"
+desovar	spawn
+*** 2611 - 2620 (/course/186268/spanish-verbs/262/)	
+vivificar	vivify
+aporrear	"bang, beat, pound"
+agobiar	"overwhelm, burden, oppress"
+gatear	"crawl, clamber, climb"
+hartar	"fill oneself, fill up, annoy"
+sobreestimar	"overestimate, overrate"
+sedar	sedate
+abofetear	"slap, buffet, slap in the face"
+aterrar	"terrify, appall, demolish"
+entrelazar	"weave, interlock, intertwine"
+*** 2621 - 2630 (/course/186268/spanish-verbs/263/)	
+cuchichear	"whisper, buzz, murmur"
+guiñar	"wink, yaw, blink"
+desangrar	"bleed, bleed dry"
+rizar	"curl, ripple"
+trocear	cut up
+factorizar	factorize
+avenir	"get on well with, resolve, agree"
+hostilizar	"harass, harry"
+cojear	"hobble, limp, wobble"
+lubricar	"lubricate, oil, grease"
+*** 2631 - 2640 (/course/186268/spanish-verbs/264/)	
+mordisquear	"nibble, nibble at, chew"
+encumbrar	"raise, elevate"
+reinstalar	"reinstall, reinstate"
+restregar	"scrub, rub against someone, roll around on"
+alisar	"smooth, smooth down, flatten"
+chapotear	"paddle, splash, squelch"
+subcontratar	subcontract
+centellear	"sparkle, twinkle, glint"
+versificar	versify
+cerciorar	"assure oneself, verify, check"
+*** 2641 - 2650 (/course/186268/spanish-verbs/265/)	
+auscultar	"auscultate, sound, check"
+reptar	"creep, crawl, slither"
+sonsacar	"elicit, pump, wheedle"
+auspiciar	"fund, back, support"
+arengar	"harangue, rally"
+industrializar	industrialize
+enchufar	"plug in, plug, connect"
+intoxicar	"poison, intoxicate"
+increpar	"tell off, rebuke"
+enhebrar	"thread, mix up"
+*** 2651 - 2660 (/course/186268/spanish-verbs/266/)	
+amagar	"feint, threaten, show signs of"
+lloriquear	"whimper, blub, snivel"
+amalgamar	amalgamate
+batear	"bat, hit"
+estancar	"block, hold back, dam"
+prosternarse	bow down
+catequizar	catechize
+zurcir	"darn, mend, sew up"
+disgregar	"disperse, disintegrate"
+flexionar	"flex, bend"
+*** 2661 - 2670 (/course/186268/spanish-verbs/267/)	
+flirtear	"flirt, philander, dally"
+entristecer	"grieve, sadden, make sad"
+refunfuñar	"grumble, gripe"
+adolecer	"have, suffer, suffer from"
+inmigrar	"immigrate, migrate"
+oxigenar	"oxygenate, aerate, oxygenize"
+paladear	"palate, sample, taste"
+replantar	replant
+lustrar	"shine, polish, buff"
+balbucir	"stammer, stutter, babble"
+*** 2671 - 2680 (/course/186268/spanish-verbs/268/)	
+corroer	"corrode, eat, rust"
+alborear	dawn
+embarazar	"get pregnant, knock up"
+alunizar	land on the moon
+macerar	"macerate, mortify, extract"
+plagiar	"plagiarize, crib, plagiarise"
+apercibir	"realize, notice, detect"
+excarcelar	release
+rimar	"rhyme, rime, make something rhyme"
+descollar	stand out
+*** 2681 - 2690 (/course/186268/spanish-verbs/269/)	
+libar	"suck, sick, sip"
+desvestir	"undress, unclothe, disrobe"
+zaherir	"hurt, vex"
+convalecer	"convalesce, recover"
+codiciar	"covet, lust"
+acopiar	gather
+enardecer	"inflame, incite, stir"
+linchar	lynch
+sobrevalorar	"overvalue, overrate"
+desplumar	"pluck, soak, pick"
+*** 2691 - 2700 (/course/186268/spanish-verbs/270/)	
+apadrinar	"support, back, sponsor"
+orear	air
+ansiar	"be anxious, worry, be concerned"
+desplomar	"collapse, fall down, get depressed"
+descontaminar	decontaminate
+circunvalar	encircle
+embriagar	"intoxicate, make drunk, get drunk"
+acuchillar	"knife, slash, cut up"
+terciar	"mediate, take part, participate"
+halar	"pull, tug, heave"
+*** 2701 - 2710 (/course/186268/spanish-verbs/271/)	
+tiranizar	"tyrannize, bully"
+arrugar	"wrinkle, pucker, rumple"
+curvar	"bend, curve, bow"
+hechizar	"bewitch, charm, entrance"
+reconfortar	"comfort, console, cheer up"
+concretizar	"concretize, set, summarize"
+desorganizar	"disorganize, disrupt"
+divergir	diverge
+reenviar	forward
+fumigar	fumigate
+*** 2711 - 2720 (/course/186268/spanish-verbs/272/)	
+destripar	"eviscerate, gut, disembowel"
+embocar	hole
+inicializar	"initialize, run, start"
+embrollar	"muddle, embroil, tangle"
+naturalizar	naturalize
+vituperar	"decry, scathe, vituperate"
+agonizar	"agonize, be dying, be in one\'s death agony"
+aromatizar	aromatize
+autenticar	authenticate
+desentonar	"be out of tune, clash, be out of place"
+*** 2721 - 2730 (/course/186268/spanish-verbs/273/)	
+canonizar	"canonize, saint"
+desgravar	deduct
+detraer	detract
+flagelar	"flagellate, beat up, berate"
+entreabrir	"half-open, ajar, open a crack"
+afanar	"make an effort, endeavour, steal"
+reinsertar	"reintegrate, reinsert, rehabilitate"
+desvalijar	rob
+aserrar	"saw up, saw, saw off"
+engarzar	"set, link, connect"
+*** 2731 - 2740 (/course/186268/spanish-verbs/274/)	
+afincar	settle
+trasegar	"shuffle, move around, rummage through"
+trasnochar	stay up late
+aleccionar	"train, instruct, teach"
+transpirar	"transpire, perspire, sweat"
+desenganchar	"release, disengage, unhook"
+desaconsejar	"advise against, dissuade"
+alfabetizar	alphabetize
+ungir	"anoint, daub, dab"
+blasonar	blazon
+*** 2741 - 2750 (/course/186268/spanish-verbs/275/)	
+abrochar	"button, button up, zip"
+vitorear	"cheer, acclaim"
+descongelar	"defrost, unfreeze, thaw"
+galvanizar	"galvanize, electroplate"
+chorrear	"gush (out), spurt (out), ooze"
+martillar	"hammer, pound, beat"
+aupar	"help up, praise up, boost"
+justar	joust
+reforestar	"reforest, afforest"
+gratificar	"reward, indulge"
+*** 2751 - 2760 (/course/186268/spanish-verbs/276/)	
+espaciar	"space, spread"
+embutir	"stuff, inlay, encase"
+tartamudear	"stutter, stammer"
+esquilmar	"exhaust, harvest"
+aplanar	"flatten, roll, flatten out"
+compenetrarse	"fuse, interpenetrate"
+interpolar	"interpolate, insert"
+martirizar	"martyr, torment, martyrize"
+ofuscar	"obfuscate, fog, daze"
+perfumar	"perfume, scent, give off perfume"
+*** 2761 - 2770 (/course/186268/spanish-verbs/277/)	
+despotricar	"rant, rave, rant and rave"
+rasurar	shave
+transbordar	"transfer, transship, change"
+trepidar	vibrate
+congratular	congratulate
+restallar	"crash, crack, click"
+vocear	cry
+desvalorizar	"debase, devaluate"
+disecar	"dissect, mount, stuff"
+encomiar	"praise, extol"
+*** 2771 - 2780 (/course/186268/spanish-verbs/278/)	
+despeñar	"fall from height, tumble, take a big fall"
+henchir	"fill, swell"
+punzar	"perforate, pierce, puncture"
+obstinarse	"persist, be obstinate"
+ahumar	"smoke, fill with smoke, be blackened with smoke"
+amaestrar	"train, school, teach"
+transfigurar	transfigure
+arreciar	"worsen, intensify"
+llagar	"wound, produce sores, cause sores"
+afrentar	"ashamed, angered, annoyed"
+*** 2781 - 2790 (/course/186268/spanish-verbs/279/)	
+jalear	"cheer on, encourage, goad"
+envilecer	"degrade, debase, debase oneself"
+inhabilitar	"disable, disqualify, remove"
+ojear	"glance over, scan"
+amolar	grind
+eclosionar	"hatch, emerge"
+lapidar	lapidate
+prefigurar	"foreshadow, prefigure"
+regocijar	"rejoice, gladden, exhilarate"
+entroncar	"related to, connect"
+*** 2791 - 2800 (/course/186268/spanish-verbs/280/)	
+incautarse	seize
+expender	"sell, expend"
+humear	"smoke, fume, bear a grudge"
+graznar	"quack, squawk, caw"
+rasguear	strum
+subsumir	subsume
+espesar	"thicken, become thicker"
+tejar	tile
+desensillar	unsaddle
+vindicar	"vindicate, avenge"
+*** 2801 - 2810 (/course/186268/spanish-verbs/281/)	
+uncir	yoke
+cacarear	"cackle, cluck, boast about"
+asear	"clean, clean up, tidy up"
+desquitar	"get even, avenge, get one\'s own back"
+constreñir	"constrain, compel, force"
+arrullar	"lull, coo, lull to sleep"
+resquebrajar	"crack, split, weaken"
+encandilar	"dazzle, stir, daze"
+diseccionar	"dissect, analyse"
+zambullir	"dive, plunge, submerge oneself"
+*** 2811 - 2820 (/course/186268/spanish-verbs/282/)	
+permutar	"permute, exchange, barter"
+infestar	"infest, plague"
+entretejer	"interweave, intertwine"
+ametrallar	"machine-gun, fire questions"
+relinchar	"whinny, neigh"
+recalentar	"reheat, overheat"
+sondar	"probe, explore, fathom"
+postrar	"prostrate, overwhelm, prostrate oneself"
+radiar	"radiate, broadcast, treat with radiation"
+abrogar	"abrogate, repeal"
+*** 2821 - 2830 (/course/186268/spanish-verbs/283/)	
+seccionar	"section, dissect, cut off"
+barruntar	"sense, feel, suspect"
+deglutir	swallow
+desacoplar	"uncouple, disengage, disconnect"
+desquiciar	"unhinge, go crazy, go off the deep end"
+desenmarañar	"disentangle, unravel, straighten"
+vejar	"vex, harass, humiliate"
+telegrafiar	"telegraph, wire"
+lastrar	ballast
+acordonar	"cordon off, rope off"
+*** 2831 - 2840 (/course/186268/spanish-verbs/284/)	
+acurrucarse	"curl up, snuggle"
+desmilitarizar	demilitarize
+excretar	excrete
+endeudar	"get into debt, go into the red"
+encanecer	"gray, get gray, turn gray"
+habituar	"habituate, get used to, accustomed to"
+sesionar	hold a meeting
+sonrojar	make blush
+mentalizar	mentally prepare
+desordenar	"mess, clutter, disorder"
+*** 2841 - 2850 (/course/186268/spanish-verbs/285/)	
+impermeabilizar	"proof, seal, waterproof"
+readaptar	readapt
+reimprimir	reprint
+rebanar	"slice, cut, slit"
+bascular	"swing, tilt, lean"
+trinar	"trill, warble, quaver"
+entibiar	"cool, warm, warm up"
+autentificar	authenticate
+vedar	"ban, prohibit, refuse"
+varar	"beach, run aground, strand"
+*** 2851 - 2860 (/course/186268/spanish-verbs/286/)	
+compeler	compel
+confraternizar	"fraternize, become close friends"
+sermonear	"preach, lecture, sermonize"
+adobar	"marinate, tan, dress"
+mascullar	"mumble, mutter"
+desvariar	"rave, become delirious"
+enjuagar	"rinse, rinse out, clean out"
+serrar	"saw, saw up, saw off"
+tutear	"address as tu, address someone in Spanish using the informal ""tu"""
+eructar	"burp, belch, eructate"
+*** 2861 - 2870 (/course/186268/spanish-verbs/287/)	
+catapultar	catapult
+afear	"disfigure, uglify, make ugly"
+desilusionar	"disillusion, disappoint, disabuse"
+obsesionar	"obsess, haunt"
+ionizar	ionize
+escarnecer	"mock, jeer, scoff at"
+prensar	press
+orillar	pull over
+ronronear	purr
+regodearse	"take pleasure, take delight, delight in. take delight in"
+*** 2871 - 2880 (/course/186268/spanish-verbs/288/)	
+vitalizar	vitalize
+amnistiar	amnesty
+parapetarse	barricade oneself
+estribar	"be based on, be founded on"
+ufanarse	boast
+enfrenar	bridle
+rumorear	bruit
+parlotear	"chatter, gabble, gab"
+timar	"cheat, trick, swindle"
+decomisar	confiscate
+*** 2881 - 2890 (/course/186268/spanish-verbs/289/)	
+congeniar	get on
+esposar	handcuff
+maniatar	"handcuff, pinion, hobble"
+hibernar	"hibernate, put into suspended animation, place in suspended animation"
+recostar	"lay down, lay back"
+mofar	"mock, scoff, jeer"
+despellejar	"peel off, peel, graze"
+atornillar	"screw, screw up, screw on"
+zarandear	"shake, jostle, buffet"
+chutar	"shoot, shoot up"
+*** 2891 - 2900 (/course/186268/spanish-verbs/290/)	
+hendir	"slit open, split"
+lagrimear	water
+berrear	"bawl, blare, bellow"
+lindar	"border, adjoin, border on"
+incordiar	"bother, pester, annoy"
+erizar	"bristle, hedgehog, stand on end"
+sobreseer	discontinue
+apodar	"dub, nickname, label"
+empequeñecer	"belittle, dwarf, feel small"
+devengar	"earn, bear, accrue"
+*** 2901 - 2910 (/course/186268/spanish-verbs/291/)	
+atrincherar	"entrench, trench, entrench oneself"
+rallar	grate
+predeterminar	predetermine
+cuadruplicar	"quadruple, quadruplicate"
+ramificar	ramify
+desagraviar	redress
+tapizar	"upholster, cover, carpet"
+tapiar	"wall, wall in"
+castañetear	"chatter, snap, rattle"
+embadurnar	"daub, bedaub, besmear"
+*** 2911 - 2920 (/course/186268/spanish-verbs/292/)	
+empinar	"stand on tiptoes, rear up, stand on one\'s hind legs"
+apechugar	"face up to it, put up with it, grin and bear it"
+pilotear	"fly, navigate, manoeuvre"
+indignar	"get indignant, be outraged, anger"
+masificar	"get packed, become overcrowded, get overcrowded"
+semejar	"look like, seem like"
+ingeniar	"manage to, contrive to, succeed in"
+masturbar	masturbate
+serpentear	"meander, wind, loop"
+mondar	"peel, pare, prune"
+*** 2921 - 2930 (/course/186268/spanish-verbs/293/)	
+encausar	"prosecute, indict, take to court"
+vivar	put around
+recrudecer	recrudesce
+sobresaltar	"shock, frighten, startle"
+espolvorear	"sprinkle, dust, powder"
+despreocuparse	"stop worrying, disregard, ignore"
+percutir	"percuss, strike"
+estilizar	"style, stylize"
+compendiar	"summarize, abridge, epitomize"
+desenrollar	"unroll, unreel, roll out"
+*** 2931 - 2940 (/course/186268/spanish-verbs/294/)	
+devanar	"wind, rewind, unwind"
+embotellar	"bottle, jam up, clog"
+trinchar	"carve, cut"
+repugnar	"disgust, repel, appal"
+driblar	dribble
+ensangrentar	ensanguine
+explayar	"expand, dominate the conversation, overtalk"
+expurgar	"bowdlerize, expurgate"
+majar	"grind, crush"
+idolatrar	idolize
+*** 2941 - 2950 (/course/186268/spanish-verbs/295/)	
+embeber	"imbibe, soak up, lose oneself in"
+yuxtaponer	juxtapose
+apellidar	"surname, name, term"
+ningunear	"not give time of day to, look down on, treat like dirt"
+empapelar	"paper, wallpaper, do the wallpapering"
+parcelar	"parcel up, divide up, parcel out"
+pontificar	pontificate
+revaluar	"revalue, increase the price of"
+acribillar	"riddle, bombard, bite up"
+rapar	"shave, crop, shave off"
+*** 2951 - 2960 (/course/186268/spanish-verbs/296/)	
+chispear	"spark, sparkle, drizzle"
+domiciliar	"take up residence, settle, set up home"
+trampear	"trick, cheat, graft"
+descorchar	"uncork, open, debark"
+vocalizar	"vocalize, enunciate, practise scales"
+gimotear	"whine, yammer, wail"
+abuchear	boo
+tajar	"chop, hew, hack"
+hender	"cleave, rend, crack"
+concernir	concern
+*** 2961 - 2970 (/course/186268/spanish-verbs/297/)	
+sacralizar	"consecrate, sacralize, idolize"
+agrietar	"crack, make cracks in"
+malversar	"embezzle, misappropriate, peculate"
+raer	"fray, abrade, graze"
+farfullar	"gabble, jabber, mumble"
+desafinar	"go out of tune, be off pitch"
+techar	roof
+cerner	"sift, sieve, bolt"
+perorar	"perorate, deliver a speech, orate"
+pulular	"swarm, pullulate, teem"
+*** 2971 - 2980 (/course/186268/spanish-verbs/298/)	
+tornear	"turn, develop, build"
+extasiarse	"rhapsodize, become entranced"
+cristianar	"christen, baptize"
+atascar	"clog, jam, bog down"
+informatizar	computerize
+condolerse	"sympathize, condole"
+engranar	"mesh, engage, interlock"
+pertrechar	"equip, supply, provide"
+desahuciar	"evict, dispossess, be a lost cause"
+relampaguear	"flash, lighten, flash lightning"
+*** 2981 - 2990 (/course/186268/spanish-verbs/299/)	
+lancear	lance
+maullar	"meow, mew, mewl"
+nidificar	nest
+empedrar	"pave, fill"
+embolsar	"pocket, pouch"
+reconvenir	"reprimand, reprove, scold"
+esquematizar	"schematize, to schematize, outline"
+cernir	"sift together, sift"
+enflaquecer	"thin, lose weight, get thin"
+desabrochar	"unbutton, unfasten, undo"
+*** 2991 - 3000 (/course/186268/spanish-verbs/300/)	
+escardar	weed
+currar	"work, thump"
+enroscar	"wreathe, wind, coil"
+hermosear	"beautify, smarten, smarten up"
+fanfarronear	"brag, bluster, boast"
+soterrar	"bury, hide"
+cincelar	"chisel, chase, carve"
+coagular	"coagulate, clot"
+dislocar	"dislocate, distort, twist"
+drogar	"drug, dope, medicate"
+*** 3001 - 3010 (/course/186268/spanish-verbs/301/)	
+elucubrar	"imagine, invent, dream up"
+intermediar	intermediate
+licuar	"liquefy, liquate, squeeze"
+marinar	marinate
+fidelizar	"promote, foster or build loyalty"
+empadronar	register
+bufar	"snort, blow, spit"
+subrogar	subrogate
+sestear	take a nap
+ladear	"tilt, tip, lean"
+*** 3011 - 3020 (/course/186268/spanish-verbs/302/)	
+mecanografiar	"type, type up, type out"
+desempaquetar	unpack
+nublar	"block out, cloud, obscure"
+emborronar	"blur, blot"
+ruborizar	"blush, go red"
+desflorar	"deflower, tarnish, deflorate"
+dragar	"dredge, drag, sweep"
+apañar	"fix, rig, jury-rig"
+codear	"prod, hustle, jostle"
+zurrar	"fill one\'s pants, shit oneself, deck"
+*** 3021 - 3030 (/course/186268/spanish-verbs/303/)	
+puntear	mark out
+mercadear	market
+petrificar	petrify
+deshojar	pluck
+prologar	"preface, introduce, prologue"
+prevaricar	"prevaricate, shirk, fail to act"
+raciocinar	ratiocinate
+precintar	"seal, seal off, close off"
+solidarizar	"show support, bring together"
+escalonar	"stagger, step, phase"
+*** 3031 - 3040 (/course/186268/spanish-verbs/304/)	
+tatuar	tattoo
+titilar	twinkle
+viciar	"vitiate, get sb into a bad habit"
+destetar	"wean, stand on one\'s own two feet, strike out on one\'s own"
+ennegrecer	"blacken, black, darken"
+embotar	"dull, blunt, benumb"
+espabilar	"come on, come along, pay attention"
+apabullar	"crush, squash, overwhelm"
+tronchar	"cut off, lop off, cut short"
+deshidratar	"dehydrate, become dehydrated, dry"
+*** 3041 - 3050 (/course/186268/spanish-verbs/305/)	
+propalar	"divulge, disclose"
+enorgullecer	fill with pride
+encolar	"glue, stick, paste"
+aguijonear	"goad, urge, punch"
+sobar	"knead, sleep, fondle"
+descontrolarse	lose control
+masajear	massage
+polimerizar	polymerize
+resecar	"resect, eradicate, stamp out"
+arredrar	separate
+*** 3051 - 3060 (/course/186268/spanish-verbs/306/)	
+despabilar	"snuff, despatch, dispatch"
+alancear	spear
+espiritualizar	spiritualize
+apestar	"stink, smell, smell bad"
+descoser	"unstitch, unpick, come unstitched"
+barnizar	"varnish, glaze"
+callejear	wander
+anestesiar	"anesthetize, anaesthetise, anaesthetize"
+apostatar	"apostatize, fall away"
+amilanar	"be daunted, be frightened, be frightened off"
+*** 3061 - 3070 (/course/186268/spanish-verbs/307/)	
+arquear	"arch, bow, count"
+bracear	"wrestle, brace"
+acunar	"mint, coin, strike"
+connotar	"connote, connotate"
+desencantar	disenchant
+visar	"endorse, approve, pass"
+energizar	energize
+fabular	"fable, make up"
+hospitalizar	"hospitalize, hospitalize US, hospitalise UK"
+empalar	impale
+*** 3071 - 3080 (/course/186268/spanish-verbs/308/)	
+entremezclar	"intersperse, intermingle, blend"
+tripular	man
+piafar	"paw, paw the ground"
+enrarecer	rarefy
+refractar	refract
+romanizar	Romanize
+envainar	"sheathe, put away, put up"
+trastabillar	"stumble, stammer, bumble"
+pervivir	"survive, live on"
+expugnar	take by storm
+*** 3081 - 3090 (/course/186268/spanish-verbs/309/)	
+plañir	"wail, moan, lament"
+abominar	"abominate, abhor, hate"
+aquejar	afflict
+aglomerar	"agglomerate, gather, congregate"
+capar	"castrate, geld"
+circundar	"circle, surround"
+circuncidar	circumcise
+santiguar	"cross oneself, make the sign of the Cross"
+desinflar	"deflate, go flat, lose heart"
+acaudillar	"lead, head"
+*** 3091 - 3100 (/course/186268/spanish-verbs/310/)	
+abarrotar	"pack out, fill up"
+salivar	salivate
+cribar	"screen, sift, winnow"
+apalancar	"settle in, get comfortable, settle down"
+sombrear	"shadow, shade, hatch"
+escudar	"shield, hide behind something, protect"
+aprestar	"size, prepare, set up"
+chisporrotear	"sizzle, spit, splutter"
+derrapar	skid
+agriar	"sour, turn"
+*** 3101 - 3110 (/course/186268/spanish-verbs/311/)	
+turnar	"take turns, take it in turn(s)"
+acobardar	"daunt, unman"
+amurallar	"wall, wall off, mure"
+ensimismarse	"get conceited, abstract, lose oneself"
+enconar	"anger, infuriate"
+apostillar	annotate
+cañonear	batter
+competer	"be responsible for, fall to"
+subyacer	"be underneath, lie beneath, lurk"
+embrujar	"bewitch, haunt, hex"
+*** 3111 - 3120 (/course/186268/spanish-verbs/312/)	
+calafatear	"caulk, calk, pitch"
+embrutecer	"brutalize, coarsen"
+convulsionar	"convulse, profoundly affect"
+entrecruzar	"cross, cross over"
+encrespar	"curl, fluff, get out of hand"
+atronar	"deafen, stun"
+signar	denote
+desembrollar	disembroil
+desunir	"disunite, disengage"
+aliñar	"dress, season"
+*** 3121 - 3130 (/course/186268/spanish-verbs/313/)	
+tamborilear	"drum, patter"
+expansionarse	expand
+frivolizar	"fribble, play down"
+ornar	hang
+asilar	harbor
+carraspear	"hawk, clear one\'s throat"
+inmunizar	immunize
+apasionar	"impassion, inflame, inspire"
+magnetizar	magnetize
+prohijar	mother
+*** 3131 - 3140 (/course/186268/spanish-verbs/314/)	
+preponderar	"overpoise, preponderate"
+preludiar	prelude
+rebrotar	"produce new shoots, reappear, break out again"
+conmocionar	"shake, affect deeply, shake up"
+sesgar	"skew, slant, cut on the bias"
+suturar	"suture, stitch"
+juramentar	swear in
+vapulear	"slate, tank, whack"
+cronometrar	time
+intranquilizar	"unsettle, worry"
+*** 3141 - 3150 (/course/186268/spanish-verbs/315/)	
+esfumar	"vanish, diminish, fade"
+ajar	"wilt, wear out, deteriorate"
+alear	alloy
+abultar	"bulk, bulge, swell"
+calcinar	"calcine, burn, calcinate"
+deificar	"deify, apotheosize"
+diagramar	diagram
+estatuir	"establish, charter"
+extractar	"extract, abstract"
+espumar	"foam, skim off, skim"
+*** 3151 - 3160 (/course/186268/spanish-verbs/316/)	
+cotillear	"gossip, blab, chit-chat"
+sugestionar	"influence, will"
+birlar	"vtr, steal, swipe"
+amotinar	"mutiny, riot, rise up"
+particularizar	"particularize, itemize"
+anteceder	precede
+quintuplicar	quintuple
+desdecir	"retract, withdraw, take back"
+reverberar	reverberate
+rasguñar	scratch
+*** 3161 - 3170 (/course/186268/spanish-verbs/317/)	
+rebañar	"slice, wipe clean, mop up"
+subtitular	subtitle
+tonificar	"tone up, give tone to, tone"
+vaporizar	vaporize
+vulgarizar	"vulgarize, popularize, banalize"
+atrancar	"bar, clog, be stopped up"
+abotonar	"button, button up"
+resfriar	"catch a cold, catch cold"
+cauterizar	"cauterize, burn, sear"
+atragantar	"choke, choke up"
+*** 3171 - 3180 (/course/186268/spanish-verbs/318/)	
+escampar	"clear up, stop raining"
+ensordecer	"deafen, become or go deaf, cause deafness"
+descalzar	discalceate
+descontentar	"dissatisfy, discontent"
+zapatear	"stomp, stamp"
+rezumar	"ooze, exude, leak"
+endilgar	"foist, indite, send"
+zampar	"gobble up, gobble, gorge"
+atenazar	"grip, torment"
+preñar	"impregnate, get pregnant, fill"
+*** 3181 - 3190 (/course/186268/spanish-verbs/319/)	
+indisponer	indispose
+cocear	kick
+vaguear	"laze around, loaf around"
+desentumecer	loosen up
+piropear	"make flirtatious comments, make flattering comments"
+sindicar	"organize, syndicate, unionize"
+agostar	"parch, plough, plow"
+repiquetear	peal
+enjaretar	"reel off, spout"
+desencallar	refloat
+*** 3191 - 3200 (/course/186268/spanish-verbs/320/)	
+hozar	"root, root about"
+refregar	"rub, reproach"
+obturar	"obturate, seal off"
+enfundar	"sheathe, put on, wear"
+inmutar	"show any reaction, show a flicker of emotion, turn a hair"
+singularizar	"single out, singularize"
+fisgar	"snoop, pry, mock"
+esnifar	"snort, sniff"
+heder	"stink, reek, smell"
+hormiguear	"swarm, prick, itch"
+*** 3201 - 3210 (/course/186268/spanish-verbs/321/)	
+conminar	"threaten, warn, admonish"
+tironear	tug
+chismorrear	blab
+enjaular	"cage, hole up, lock oneself in"
+embelesar	captivate
+centrifugar	centrifuge
+desescombrar	"clear, clear out, dig out"
+represar	dam
+depreciar	depreciate
+descreer	"disbelieve, distrust"
+*** 3211 - 3220 (/course/186268/spanish-verbs/322/)	
+desfavorecer	"disfavor, disfavour, put at a disadvantage"
+desarbolar	dismast
+desacatar	"disobey, be in contempt"
+dogmatizar	"dogmatise, dogmatize"
+cohibir	"embarrass, make shy, make awkward"
+intitular	"title, entitle, style"
+llamear	"flare, flame, burn"
+fulgurar	fulgurate
+amarillear	go yellow
+duchar	"have a shower, shower, shower off"
+*** 3221 - 3230 (/course/186268/spanish-verbs/323/)	
+horrorizar	"horrify, appal, terrify"
+hidratar	"hydrate, moisturise, water"
+iterar	iterate
+revolcar	"knock over, send rolling, humiliate"
+escorar	"list, heel over, shore up"
+enlodar	"muddy, besmirch, mire"
+mistificar	"mystify, spoof, hoax"
+aceitar	"oil, bribe, buy off"
+emponzoñar	"poison, taint, corrupt"
+fisgonear	"snoop, pry, nose around"
+*** 3231 - 3240 (/course/186268/spanish-verbs/324/)	
+depilar	"remove hair, depilate"
+engastar	"set, mount"
+retoñar	"sprout, burgeon, sprout out"
+estibar	"stow, compress, pack tight"
+jorobar	"tease, bother, bug"
+desaprender	"unlearn, forget"
+valuar	value
+encerar	"wax, polish"
+alambrar	"wire, wire up"
+jalonar	"yank, pull, tug"
+*** 3241 - 3250 (/course/186268/spanish-verbs/325/)	
+malbaratar	bargain away
+desternillarse	break a tendon
+jinetear	break in
+burbujear	"bubble, fizz"
+carbonizar	carbonize
+averiar	"damage, go wrong"
+desalar	"desalinate, desalt"
+desintoxicar	detoxify
+empotrar	"embed, build in"
+acicalar	"groom, primp, polish"
+*** 3251 - 3260 (/course/186268/spanish-verbs/326/)	
+respectar	"in respect of, concern"
+impacientar	"irritate, vex"
+holgazanear	"laze, dawdle, lounge about"
+haraganear	"loaf, hang around, idle"
+metamorfosear	metamorphose
+acolchar	"pad, quilt"
+fotocopiar	"photocopy, xerox"
+polinizar	pollinate
+traquetear	"rattle, clatter, joggle"
+retrogradar	"retrograde, retrogress"
+*** 3261 - 3270 (/course/186268/spanish-verbs/327/)	
+barrenar	"scuttle, bore"
+triscar	"set, gambol, tease"
+reblandecer	soften
+volatilizar	volatilize
+atosigar	"become worried, become concerned, worry"
+rebozar	"coat in batter, roll in batter, dip in batter"
+comisionar	commission
+contornear	contour
+contrahacer	"counterfeit, forge, take off"
+apenar	"distress, grieve, embarrass"
+*** 3271 - 3280 (/course/186268/spanish-verbs/328/)	
+garabatear	"doodle, scribble, scrawl"
+abanicar	"fan, fan oneself, incite"
+destellar	"flash, sparkle, blink"
+forrajear	forage
+guillotinar	guillotine
+mancomunar	"pool, unite, bring together"
+regurgitar	regurgitate
+cachear	"frisk, search"
+supurar	"suppurate, discharge, fester"
+sobreentender	"understand, understand perfectly"
+*** 3281 - 3290 (/course/186268/spanish-verbs/329/)	
+putear	"whore, fuck over, fuck up"
+zigzaguear	"zigzag, sashay"
+colindar	adjoin
+pasmar	"astonish, amaze, knock back"
+atomizar	"atomize, spray"
+beatificar	beatify
+ralear	"become sparse, become thin"
+cohechar	bribe
+bruñir	"burnish, polish, vtr"
+cementar	cement
+*** 3291 - 3300 (/course/186268/spanish-verbs/330/)	
+concatenar	"concatenate, link together, connect"
+atiborrar	"cram, gorge, stuff oneself"
+cremar	cremate
+fincar	cultivate
+trozar	"cut up, chop"
+deshumanizar	dehumanize
+depredar	depredate
+angustiar	"distress, anguish"
+sisar	"filch, dart"
+boquear	"gasp, gape"
+*** 3301 - 3310 (/course/186268/spanish-verbs/331/)	
+chingar	"have sex, copulate, drink a lot"
+entintar	"ink, ink in"
+inseminar	inseminate
+instilar	"instil, instill"
+agenciar	negotiate
+ornamentar	ornament
+sobreactuar	overact
+descascarillar	"pulp, shuck, peel (d)"
+frasear	phrase
+martillear	"hammer, pound, knock"
+*** 3311 - 3320 (/course/186268/spanish-verbs/332/)	
+salmodiar	"sing psalm, intone, (fam.) drone"
+rifar	"raffle, fight over, raffle off"
+rastrillar	rake
+vilipendiar	"vilify, revile"
+trasquilar	"shear, scalp, cut hair"
+tamizar	"sieve, sift, weigh up"
+escaramuzar	skirmish
+chivar	"snitch, squeal, split"
+hacinar	"stack, pile up, heap"
+sobrecoger	"startle, be overwhelmed, be overcome"
+*** 3321 - 3330 (/course/186268/spanish-verbs/333/)	
+contonearse	"strut, swagger"
+fajar	"swathe, swaddle, make out"
+camelar	"take in, sweet-talk, win over"
+desempacar	"unpack, stop dwelling on, stop worrying about"
+impeler	"urge, propel, impel"
+sonorizar	voice
+desvivirse	"lean, long for, wait on"
+ataviar	"wear, dress in, be dressed in"
+mesurar	admeasure
+altercar	altercate
+*** 3331 - 3340 (/course/186268/spanish-verbs/334/)	
+anatematizar	anathematize
+encolerizar	"anger, incense, provoke"
+mangonear	"boss around, boss about"
+balizar	"buoy, beacon"
+encajonar	"box, case, encase"
+desbandarse	disband
+discontinuar	discontinue
+desembuchar	disgorge
+chochear	"dodder, be senile"
+envalentonar	"embolden, encourage, hearten"
+*** 3341 - 3350 (/course/186268/spanish-verbs/335/)	
+emplumar	"feather, swindle, grow feathers"
+tontear	"flirt, fool around, fool about (t)"
+granizar	hail
+ahuecar	"hollow, scoop out, hollow out"
+incardinar	"incorporate, include as an integral part, make a cardinal"
+rolar	"list, heel, veer"
+ocluir	"occlude, clog"
+cuartear	"quarter, cut up, divide up"
+trastrocar	"reverse, invert, switch over"
+pautar	"provide guidelines for, provide rules for"
+*** 3351 - 3360 (/course/186268/spanish-verbs/336/)	
+escandir	scan
+desnatar	skim (d)
+embarrar	"smear, cover with mud, cover in mud"
+sofisticar	sophisticate
+encordar	"string, bind"
+sutilizar	"quibble, subtilize"
+asolear	"sun, sunbathe, lay out"
+placar	"block, tackle (rugby)"
+temporizar	temporize
+desenchufar	unplug
+*** 3361 - 3370 (/course/186268/spanish-verbs/337/)	
+apostrofar	apostrophize
+sidos	"be, serves as, be for"
+combar	"bend, camber"
+bifurcarse	"branch, fork, bifurcate"
+espetar	"blurt out, skewer"
+herborizar	"botanize, herborize"
+embarullar	bungle
+cardar	"card, comb, defuzz"
+arramblar	carry off
+colorar	color
+*** 3371 - 3380 (/course/186268/spanish-verbs/338/)	
+deforestar	deforest
+borronear	"doodle, scribble"
+electrizar	"electrify, electrize"
+esmaltar	enamel
+gasear	gas
+toquetear	"handle, finger, mess about"
+inficionar	"infect, taint"
+desolar	"lay waste to, lay waste, devastate"
+bonificar	"meliorate, improve, credit"
+menstruar	menstruate
+*** 3381 - 3390 (/course/186268/spanish-verbs/339/)	
+pelechar	"moult, molt (p)"
+monologar	monologize
+sobrecalentar	overheat
+perjurar	"perjure, forswear"
+plagar	plague
+platear	"plate, silver, silver-plate"
+pretextar	pretext
+revistar	review
+arrellanarse	"settle, sprawl, loll"
+atrofiar	stunt
+*** 3391 - 3400 (/course/186268/spanish-verbs/340/)	
+columpiar	swing
+teatralizar	theatricalize
+lazar	"tie with a ribbon, lasso, vtr"
+desfogar	"vent, release, let loose"
+chiflar	"whistle, boo, hiss"
+requebrar	"woo, flatter, compliment"
+apalabrar	"bespeak, engage"
+adeudar	"debit, owe, charge (a)"
+diluviar	"deluge, rain buckets, pour with rain"
+*** 3401 - 3410 (/course/186268/spanish-verbs/341/)	
+desajustar	disarrange
+desarreglar	"disarrange, derange, disorder"
+lloviznar	"sprinkle, drizzle, mizzle"
+enclavar	"nail, embed"
+expectorar	"cough up, expectorate"
+exudar	"ooze, exude, bleed"
+descerrajar	force
+enzarzar	"get tangled up, get stuck in the brambles, get entangled"
+chismear	"gossip, talk, tell tales"
+arponear	"harpoon, spear, gaff"
+*** 3411 - 3420 (/course/186268/spanish-verbs/342/)	
+hipar	"hiccup, hiccough"
+trincar	"hold, tie up, nick"
+desmejorar	"impair, worsen, weaken"
+remolonear	"linger, skive"
+enronquecer	make hoarse
+ensoberbecer	make proud
+motorizar	"motorize, mechanize"
+momificar	mummify
+enlucir	parget
+escriturar	"place on public record, register on public record"
+*** 3421 - 3430 (/course/186268/spanish-verbs/343/)	
+encuestar	poll
+esponjar	"prance about, strut, puff up"
+presurizar	pressurize
+radiografiar	radiograph
+lijar	"sandpaper, sand, sand down"
+chamuscar	"scorch, singe, burn up"
+guadañar	scythe
+granar	seed
+desdorar	smirch
+sodomizar	"sodomize, bugger"
+*** 3431 - 3440 (/course/186268/spanish-verbs/344/)	
+estratificar	"stratify, grade, set"
+arremolinarse	"swirl, eddy, whirl"
+ensenar	"hide, put a boat into a cove or inlet"
+avaluar	value
+occidentalizar	westernize
+aficionar	"become interested in, get into, become keen on"
+amartillar	"cock, hammer"
+convergir	converge
+acuclillarse	crouch
+abollar	"dent, batter, dint"
+*** 3441 - 3450 (/course/186268/spanish-verbs/345/)	
+babear	"drool, dribble, slaver"
+acriminar	"incriminate, inculpate"
+ajardinar	landscape
+abalanzar	"hurl/throw, balance, spring at"
+cecear	lisp
+chapar	"overlay, tile, veneer"
+adoquinar	pave
+aguijar	prick; goad/urge on
+cosificar	reify
+*** 3451 - 3460 (/course/186268/spanish-verbs/346/)	
+astillar	"splinter, smash to pieces"
+atorar	"obstruct, clog, stumble"
+apisonar	"ram down, wallow, roll flat"
+acidificar	acidify
+anublar	"cloud, darken, overcast"
+apiñar	"crowd, squeeze in, pack in"
+amerizar	"land, touch down"
+cabildear	"lobby, intrigue"
+cartear	"play cards, stack the deck (cards)"
+cachar	LatAm: to make fun of (c)
+*** 3461 - 3470 (/course/186268/spanish-verbs/347/)	
+chapurrear	"speak a language poorly, fumble through"
+bizquear	"squint, be cross-eyed, wink"
+almidonar	starch
+cablear	"wire up, set cables"
+banquetear	"banquet, feast"
+carcomer	"corrode, be eaten away/up; gnaw"
+broncear	"brown, tan, bronze"
+carenar	"careen, refit"
+confederar	confederate
+cinchar	"girth, surcingle"
+*** 3471 - 3474 (/course/186268/spanish-verbs/348/)	
+achicharrar	"burn to a cinder, roast, bother"
+contristar; entristecer	"sadden, upset"
+acongojar	"grieve, sadden, upset, distress"
+bambolear	sway; wobble
